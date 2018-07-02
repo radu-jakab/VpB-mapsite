@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detalii pista</title>
+
+    <link rel="stylesheet" href="css/mapsite.css">
+    <link rel="stylesheet" href="css/circle.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-1.12.4.js"></script>
+
+    <script type="text/javascript" language="javascript" src="laneDetail.js"></script>
+    <script type="text/javascript" language="javascript" src="headerFooter.js"></script>
+</head>
+
+<body>
+<div id="add-header"></div>
+<div class="page-box">
+    <div style="margin-top: 22px; flex:0 0 100%"></div>
+
+    <div class="details-desc-box">
+        <div id="percentage-meter-div" class="c100" style="float: right;">
+            <span class="percentage-meter-number" id="percentage-meter-number">71%</span>
+            <div class="slice">
+                <div id="percentage-meter-bar" class="bar"></div>
+                <div id="percentage-meter-fill" class="fill"></div>
+            </div>
+        </div>
+
+        <label class="lane-name" id="name">Denumire</label>
+        <div class="lane-text-box">
+            <img src="/assets/dist-icon.svg">
+            <label class="lane-text" id="distance">km</label>
+        </div>
+        <div class="lane-text-box">
+            <img src="/assets/location-a-icon.svg">
+            <label class="lane-text" id="from">De la</label>
+        </div>
+        <div class="lane-text-box">
+            <img src="/assets/location-b-icon.svg">
+            <label class="lane-text" id="to">Pana la</label>
+        </div>
+        <div class="lane-text-box">
+            <img src="/assets/via-icon.svg">
+            <label class="lane-text" id="via">Via</label>
+        </div>
+        <div class="lane-text-box">
+            <img src="/assets/sens-unic-icon.svg">
+            <label class="lane-text" id="sens">Un singur sens</label>
+        </div>
+    </div>
+    <video id="video" class="details-video-box" controls="">
+        <source src="assets/p64s1.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+    </video>
+
+    <!-- Caracteristici -->
+    <div class="detail-eval-box">
+        <label class="detail-eval-title">Caracteristici</label>
+        <div class="detail-eval-item">
+            <div class="gradient-label">Latime</div>
+            <div id="latime" class="gradient-bar">gradient bar</div>
+            <span id="latime-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Stare</label>
+            <span id="stare" class="gradient-bar">gradient bar</span>
+            <span id="stare-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Rugozitate</label>
+            <span id="rugozitate" class="gradient-bar">gradient bar</span>
+            <span id="rugozitate-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Siguranta</label>
+            <span id="siguranta" class="gradient-bar">gradient bar</span>
+            <span id="siguranta-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Marcaje</label>
+            <span id="marcaje" class="gradient-bar">gradient bar</span>
+            <span id="marcaje-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Borduri</label>
+            <div id="borduri" class="gradient-bar">gradient bar</div>
+            <span id="borduri-points" class="gradient-score"></span>
+        </div>
+    </div>
+
+    <!-- Conectivitate -->
+    <div class="detail-eval-box">
+        <label class="detail-eval-title">Conectivitate</label>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Alte piste</label>
+            <span id="alte-piste" class="gradient-bar">gradient bar</span>
+            <span id="alte-piste-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Traversari</label>
+            <span id="traversari" class="gradient-bar">gradient bar</span>
+            <span id="traversari-points" class="gradient-score"></span>
+        </div>
+    </div>
+
+    <!-- Obstacole -->
+    <div class="detail-eval-box">
+        <label class="detail-eval-title">Obstacole</label>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Mobilier urban</label>
+            <span id="mobilier-urban" class="gradient-bar">gradient bar</span>
+            <span id="mobilier-urban-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Masini parcate</label>
+            <span id="masini-parcate" class="gradient-bar">gradient bar</span>
+            <span id="masini-parcate-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Curatenie</label>
+            <span id="curatenie" class="gradient-bar">gradient bar</span>
+            <span id="curatenie-points" class="gradient-score"></span>
+        </div>
+        <div class="detail-eval-item">
+            <label class="gradient-label">Altele</label>
+            <span id="altele" class="gradient-bar">gradient bar</span>
+            <span id="altele-points" class="gradient-score"></span>
+        </div>
+    </div>
+
+    <!-- Observatii -->
+    <div class="detail-eval-box">
+        <label class="detail-eval-title">Alte observatii</label>
+        <span id="remarks" class="flex-full">nu sunt</span>
+    </div>
+
+    <div style="margin-top: 22px; flex:0 0 100%"></div>
+</div>
+<div id="add-footer"></div>
+</body>
+</html>

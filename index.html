@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Harta pistelor din Timisoara</title>
+
+    <link rel="stylesheet" href="css/mapsite.css">
+    <link rel="stylesheet" href="http://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script type="text/javascript" language="javascript"
+            src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script type="text/javascript" language="javascript"
+            src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+
+    <script type="text/javascript" language="javascript" src="mapsite.js"></script>
+    <script type="text/javascript" language="javascript" src="headerFooter.js"></script>
+</head>
+
+<body>
+<div id="add-header"></div>
+<div class="page-box">
+
+    <h1 id="harta">Harta piste</h1>
+    <iframe class="map-iframe"
+            src="https://www.google.com/maps/d/u/0/embed?mid=1Piq46ei6e4Hop-t99MYQ9nouPgozjc08" width="640"
+            height="480"></iframe>
+
+    <h1 id="catalog">Catalog piste</h1>
+
+    <a href="/download/piste_1.0.kml" download="Piste Timisoara v1.0.kml">
+        <button class="download-button" style="right: 356px;"><i class="fa fa-download"></i>Download map</button>
+    </a>
+    <a href="/download/piste_datatable_1.0.json" download="Piste Timisoara - evaluare v1.0.kml">
+        <button class="download-button" style="right: 210px;"><i class="fa fa-download"></i>Download catalog</button>
+    </a>
+    <a href="/download/piste_detalii_1.0.json" download="Piste Timisoara - detalii v1.0.kml">
+        <button class="download-button" style="right: 50px;"><i class="fa fa-download"></i>Download lanes info</button>
+    </a>
+
+    <table id="example" class="display" style="width:100%">
+        <thead>
+        <tr>
+            <th>Numar Pista</th>
+            <th>De la</th>
+            <th>Pana la</th>
+            <th>Via</th>
+            <th>Distanta (km)</th>
+            <th>Calitate pista</th>
+            <th>Conectivitate</th>
+            <th>Obstacole</th>
+            <th>Scor total</th>
+        </tr>
+        </thead>
+        <tfoot>
+        <tr>
+            <th>Numar Pista</th>
+            <th>De la</th>
+            <th>Pana la</th>
+            <th>Via</th>
+            <th>Distanta (km)</th>
+            <th>Calitate pista</th>
+            <th>Conectivitate</th>
+            <th>Obstacole</th>
+            <th>Scor total</th>
+        </tr>
+        </tfoot>
+    </table>
+</div>
+<div id="add-footer"></div>
+</body>
+</html>
