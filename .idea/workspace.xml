@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0b5d7df-f4ca-44f3-801d-3b6a998cab75" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download/piste_datatable_1.0.json" beforeDir="false" afterPath="$PROJECT_DIR$/download/piste_datatable_1.0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lane-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/lane-detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mapsite.js" beforeDir="false" afterPath="$PROJECT_DIR$/mapsite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standards.html" beforeDir="false" afterPath="$PROJECT_DIR$/standards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standards.js" beforeDir="false" afterPath="$PROJECT_DIR$/standards.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="lane-detail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lane-detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="388">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -33,7 +32,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="piste_datatable_1.0.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/download/piste_datatable_1.0.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="1" column="624" selection-start-line="1" selection-start-column="624" selection-end-line="1" selection-end-column="624" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -120,11 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -162,7 +170,12 @@
       <find>://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css</find>
       <find>href=</find>
       <find>ownload/piste_datatable</find>
+      <find>download/barem_1.0.json</find>
+      <find>cycle-lane/lane-detail?</find>
     </findStrings>
+    <replaceStrings>
+      <replace>cycle-lane.html/lane-detail?</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>D:\Repos\VpB-mapsite</dir>
     </dirStrings>
@@ -189,9 +202,10 @@
         <option value="$PROJECT_DIR$/download/barem_1.0.json" />
         <option value="$PROJECT_DIR$/standards.html" />
         <option value="$PROJECT_DIR$/standards.js" />
-        <option value="$PROJECT_DIR$/header.html" />
         <option value="$PROJECT_DIR$/css/mapsite.css" />
+        <option value="$PROJECT_DIR$/download/piste_datatable_1.0.json" />
         <option value="$PROJECT_DIR$/lane-detail.html" />
+        <option value="$PROJECT_DIR$/header.html" />
       </list>
     </option>
   </component>
@@ -282,12 +296,12 @@
       <workItem from="1526071532004" duration="46493000" />
       <workItem from="1527758393795" duration="26000" />
       <workItem from="1530541130049" duration="2000000" />
-      <workItem from="1530778843677" duration="1164000" />
+      <workItem from="1530778843677" duration="2037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54705000" />
+    <option name="totallyTimeSpent" value="55578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -703,16 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/mapsite.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1683">
@@ -747,10 +751,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="32" column="85" lean-forward="true" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download/piste_datatable_1.0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="1" column="624" selection-start-line="1" selection-start-column="624" selection-end-line="1" selection-end-column="624" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lane-detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="388">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -758,10 +776,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="32" column="85" lean-forward="true" selection-start-line="32" selection-start-column="85" selection-end-line="32" selection-end-column="85" />
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

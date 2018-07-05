@@ -29,7 +29,7 @@ function addStandardsScoreBar(score, totalPoints) {
 }
 
 $(document).ready(function () {
-    $.getJSON("/download/barem_1.0.json", function (data) {
+    $.getJSON("/cycle-lane/download/barem_1.0.json", function (data) {
         const categories = ["caracteristici", "conectivitate", "obstacole"];
 
         for (let cat of categories) {
