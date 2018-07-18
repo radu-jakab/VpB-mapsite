@@ -79,7 +79,7 @@ function buildScoreBar(percent) {
 }
 
 function loadSessionStorage(callback, laneId) {
-    $.getJSON("/download/piste_detalii_1.0.json", function (data) {
+    $.getJSON("/cycle-lane/download/piste_detalii_1.0.json", function (data) {
         data.forEach(function (lane) {
             sessionStorage.setItem(lane.number + '-' + lane.direction, JSON.stringify(lane));
         });

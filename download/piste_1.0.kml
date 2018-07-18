@@ -174,13 +174,22 @@
         <Folder>
             <name>Calitate foarte buna</name>
             <styleUrl>5-stele</styleUrl>
+            <Placemark>
+                <name>Pista 6 - segment 1</name>
+                <description>Punctaj total: 87.5&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 63.75 / 65.0&lt;br&gt;Obstacole / observații: 18.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=6-dus</description>
+                <styleUrl>#5-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.245938,45.740547 21.245901,45.740476 21.245906,45.740263 21.24589,45.740053 21.245815,45.739814 21.245719,45.739641 21.245493,45.73939 21.245322,45.739274 21.244892,45.739114 21.244656,45.739057 21.244308,45.739035 21.243991,45.739068 21.243653,45.739155 21.243315,45.739334 21.242983,45.739578 21.242827,45.739757 21.242629,45.740184 21.242516,45.740581 21.242554,45.740956 21.242763,45.74133 21.242977,45.74154 21.243181,45.741678 21.243433,45.741783 21.243814,45.741858 21.244082,45.741888 21.244388,45.741865 21.244807,45.741742 21.245064,45.741633 21.245311,45.741461 21.245542,45.741225 21.245681,45.741034 21.245837,45.740922 21.245955,45.740592</coordinates>
+                </LineString>
+            </Placemark>
         </Folder>
         <Folder>
             <name>Calitate buna</name>
             <styleUrl>4-stele</styleUrl>
             <Placemark>
                 <name>Pista 5 - segment 1</name>
-                <description>Punctaj total: 68.75&lt;br&gt;&lt;br&gt;Conectivitate: 10.0 / 15.0&lt;br&gt;Calitate Pistă: 43.75 / 65.0&lt;br&gt;Obstacole / observații: 15.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=5-dus</description>
+                <description>Punctaj total: 68.75&lt;br&gt;&lt;br&gt;Conectivitate: 10.0 / 15.0&lt;br&gt;Calitate Pistă: 43.75 / 65.0&lt;br&gt;Obstacole / observații: 15.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=5-dus</description>
                 <styleUrl>#4-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -189,7 +198,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 5 - segment 2</name>
-                <description>Punctaj total: 70.0&lt;br&gt;&lt;br&gt;Conectivitate: 12.5 / 15.0&lt;br&gt;Calitate Pistă: 41.25 / 65.0&lt;br&gt;Obstacole / observații: 16.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=5-intors</description>
+                <description>Punctaj total: 70.0&lt;br&gt;&lt;br&gt;Conectivitate: 12.5 / 15.0&lt;br&gt;Calitate Pistă: 41.25 / 65.0&lt;br&gt;Obstacole / observații: 16.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=5-intors</description>
                 <styleUrl>#4-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -202,7 +211,7 @@
             <styleUrl>3-stele</styleUrl>
             <Placemark>
                 <name>Pista 2 - segment 1</name>
-                <description>Punctaj total: 45.0&lt;br&gt;&lt;br&gt;Conectivitate: 8.75 / 15.0&lt;br&gt;Calitate Pistă: 27.5 / 65.0&lt;br&gt;Obstacole / observații: 8.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=2-dus</description>
+                <description>Punctaj total: 45.0&lt;br&gt;&lt;br&gt;Conectivitate: 8.75 / 15.0&lt;br&gt;Calitate Pistă: 27.5 / 65.0&lt;br&gt;Obstacole / observații: 8.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=2-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -211,7 +220,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 2 - segment 2</name>
-                <description>Punctaj total: 55.0&lt;br&gt;&lt;br&gt;Conectivitate: 7.5 / 15.0&lt;br&gt;Calitate Pistă: 31.25 / 65.0&lt;br&gt;Obstacole / observații: 16.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=2-intors</description>
+                <description>Punctaj total: 55.0&lt;br&gt;&lt;br&gt;Conectivitate: 7.5 / 15.0&lt;br&gt;Calitate Pistă: 31.25 / 65.0&lt;br&gt;Obstacole / observații: 16.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=2-intors</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -220,7 +229,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 3 - segment 1</name>
-                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=3-dus</description>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=3-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -228,8 +237,35 @@
                 </LineString>
             </Placemark>
             <Placemark>
+                <name>Pista 7 - segment 1</name>
+                <description>Punctaj total: 46.25&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 15.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=7-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.252051,45.750892 21.24832,45.749595 21.246944,45.749114 21.245504,45.748628 21.244136,45.74815 21.242988,45.747762 21.241947,45.74741 21.241175,45.747158</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 8 - segment 1</name>
+                <description>Punctaj total: 57.5&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 33.75 / 65.0&lt;br&gt;Obstacole / observații: 12.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=8-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.240413,45.746788 21.239499,45.74647 21.237278,45.745701 21.236417,45.745416 21.235993,45.745296</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 8 - segment 2</name>
+                <description>Punctaj total: 48.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 7.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=8-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.235949,45.745357 21.236382,45.745477 21.237327,45.745797 21.237734,45.745936 21.23814,45.74608 21.23853,45.746213 21.238926,45.746351 21.23971,45.746619 21.24029,45.746819 21.240369,45.746847</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
                 <name>Pista 10 - segment 1</name>
-                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 23.75 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=10-dus</description>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 23.75 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=10-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -238,7 +274,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 10 - segment 4</name>
-                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 23.75 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=10-dus</description>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 23.75 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=10-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -247,7 +283,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 30 - segment 1</name>
-                <description>Punctaj total: 57.5&lt;br&gt;&lt;br&gt;Conectivitate: 12.5 / 15.0&lt;br&gt;Calitate Pistă: 28.75 / 65.0&lt;br&gt;Obstacole / observații: 16.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=30-dus</description>
+                <description>Punctaj total: 57.5&lt;br&gt;&lt;br&gt;Conectivitate: 12.5 / 15.0&lt;br&gt;Calitate Pistă: 28.75 / 65.0&lt;br&gt;Obstacole / observații: 16.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=30-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -255,8 +291,44 @@
                 </LineString>
             </Placemark>
             <Placemark>
+                <name>Pista 33 - segment 1</name>
+                <description>Punctaj total: 47.5&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 26.25 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=33-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.235354,45.748471 21.235285,45.748117 21.235301,45.747994 21.235247,45.747779 21.235232,45.74735 21.23529,45.746843 21.235424,45.746444 21.235676,45.745732 21.235862,45.745338 21.236374,45.744434 21.236902,45.743683 21.237412,45.742953 21.237895,45.742306 21.238294,45.741734</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 33 - segment 4</name>
+                <description>Punctaj total: 47.5&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 26.25 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=33-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2389594,45.7408113 21.2393993,45.7402048 21.2394342,45.7400794 21.2401101,45.7391322 21.240381,45.738754 21.2403864,45.738608 21.2403354,45.73855 21.240228,45.738521</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 33 - segment 2</name>
+                <description>Punctaj total: 43.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=33-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.240883,45.73844 21.240412,45.739048 21.23958,45.740179 21.239473,45.74024 21.23941,45.740326 21.238911,45.741031 21.23873,45.741276 21.238798,45.741398</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 33 - segment 3</name>
+                <description>Punctaj total: 43.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=33-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2379774,45.7423414 21.23751,45.742969 21.237039,45.743668 21.236394,45.744579 21.235993,45.745296 21.235947,45.745368 21.235849,45.745566 21.235706,45.745938 21.235623,45.746185 21.235399,45.746829 21.235337,45.747355 21.235348,45.747679 21.235408,45.747984 21.235403,45.748029 21.235479,45.748152 21.235529,45.748326 21.235613,45.748488 21.235836,45.748683 21.2361663,45.7488069 21.236548,45.7490061</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
                 <name>Pista 34 - segment 1</name>
-                <description>Punctaj total: 51.25&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=34-dus</description>
+                <description>Punctaj total: 51.25&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=34-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -265,7 +337,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 34 - segment 2</name>
-                <description>Punctaj total: 48.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 12.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=34-intors</description>
+                <description>Punctaj total: 48.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 12.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=34-intors</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -274,7 +346,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 34 - segment 3</name>
-                <description>Punctaj total: 48.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 12.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=34-intors</description>
+                <description>Punctaj total: 48.75&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 12.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=34-intors</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -283,7 +355,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 37 - segment 1</name>
-                <description>Punctaj total: 47.5&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 26.25 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=37-dus</description>
+                <description>Punctaj total: 47.5&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 26.25 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=37-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -291,12 +363,129 @@
                 </LineString>
             </Placemark>
             <Placemark>
-                <name>Pista 64 - segment 1</name>
-                <description>Punctaj total: 50.0&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 32.5 / 65.0&lt;br&gt;Obstacole / observații: 6.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=64-dus</description>
+                <name>Pista 40 - segment 1</name>
+                <description>Punctaj total: 50.0&lt;br&gt;&lt;br&gt;Conectivitate: 12.5 / 15.0&lt;br&gt;Calitate Pistă: 25.0 / 65.0&lt;br&gt;Obstacole / observații: 12.5 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=40-dus</description>
                 <styleUrl>#3-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
-                    <coordinates>21.2232444,45.7561965 21.2232256,45.7557136 21.2232524,45.7552177 21.223298,45.7548322 21.2234455,45.754282 21.2237728,45.7535914</coordinates>
+                    <coordinates>21.225558,45.747685 21.226125,45.747645 21.227183,45.747556 21.228586,45.74756 21.229172,45.747589 21.230025,45.747664 21.231079,45.747786 21.231524,45.747825 21.232951,45.748068 21.23378,45.74819 21.23525,45.748458 21.235354,45.748471</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 40 - segment 2</name>
+                <description>Punctaj total: 48.75&lt;br&gt;&lt;br&gt;Conectivitate: 12.5 / 15.0&lt;br&gt;Calitate Pistă: 21.25 / 65.0&lt;br&gt;Obstacole / observații: 15.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=40-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.235322,45.748984 21.23419,45.748639 21.23312,45.748396 21.232949,45.748344 21.232809,45.748276 21.231232,45.748031 21.229231,45.747823 21.228904,45.747802 21.228056,45.747776 21.226951,45.747802 21.226833,45.747851 21.225615,45.748012</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 64 - segment 1</name>
+                <description>Punctaj total: 50.0&lt;br&gt;&lt;br&gt;Conectivitate: 11.25 / 15.0&lt;br&gt;Calitate Pistă: 32.5 / 65.0&lt;br&gt;Obstacole / observații: 6.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=64-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2235663,45.7571621 21.2232565,45.7562956 21.2232256,45.7557136 21.2232524,45.7552177 21.223298,45.7548322 21.2234455,45.754282 21.2237728,45.7535914</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 74 - segment 1</name>
+                <description>Punctaj total: 40.0&lt;br&gt;&lt;br&gt;Conectivitate: 10.0 / 15.0&lt;br&gt;Calitate Pistă: 18.75 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=74-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2275601,45.7522533 21.227957,45.7530655</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 74 - segment 2</name>
+                <description>Punctaj total: 40.0&lt;br&gt;&lt;br&gt;Conectivitate: 10.0 / 15.0&lt;br&gt;Calitate Pistă: 18.75 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=74-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.227206,45.7514934 21.2269056,45.7508758</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 1</name>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2210047,45.726023 21.2258649,45.7254538 21.2268627,45.7253639</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 2</name>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2271094,45.7253489 21.2300813,45.7250119 21.2332785,45.7246823 21.2343836,45.7246749</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 3</name>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.236819,45.7247348 21.2390292,45.7247797</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 4</name>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2422264,45.7247198 21.2433958,45.7247198</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 5</name>
+                <description>Punctaj total: 41.25&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2538779,45.7247797 21.2549829,45.7248995 21.2553799,45.7248696</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 6</name>
+                <description>Punctaj total: 45.0&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 33.75 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2488246,45.7248396 21.2471938,45.7248995 21.245445,45.7248995 21.2450051,45.7248246 21.2419689,45.7248321</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 7</name>
+                <description>Punctaj total: 45.0&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 33.75 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2394369,45.7248546 21.2388361,45.7248995 21.2368512,45.7248321</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 8</name>
+                <description>Punctaj total: 45.0&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 33.75 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2346733,45.7247722 21.2332678,45.7247947 21.2271202,45.7254463</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 79 - segment 9</name>
+                <description>Punctaj total: 45.0&lt;br&gt;&lt;br&gt;Conectivitate: 1.25 / 15.0&lt;br&gt;Calitate Pistă: 33.75 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=79-intors</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2268734,45.7254688 21.21858,45.7263825</coordinates>
                 </LineString>
             </Placemark>
         </Folder>
@@ -305,7 +494,7 @@
             <styleUrl>2-stele</styleUrl>
             <Placemark>
                 <name>Pista 3 - segment 2</name>
-                <description>Punctaj total: 31.25&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 3.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=3-intors</description>
+                <description>Punctaj total: 31.25&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 3.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=3-intors</description>
                 <styleUrl>#2-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -314,7 +503,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 3 - segment 3</name>
-                <description>Punctaj total: 31.25&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 3.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=3-intors</description>
+                <description>Punctaj total: 31.25&lt;br&gt;&lt;br&gt;Conectivitate: 5.0 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 3.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=3-intors</description>
                 <styleUrl>#2-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -323,7 +512,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 10 - segment 2</name>
-                <description>Punctaj total: 37.5&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 8.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=10-intors</description>
+                <description>Punctaj total: 37.5&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 8.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=10-intors</description>
                 <styleUrl>#2-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -332,7 +521,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 10 - segment 3</name>
-                <description>Punctaj total: 37.5&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 8.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=10-intors</description>
+                <description>Punctaj total: 37.5&lt;br&gt;&lt;br&gt;Conectivitate: 6.25 / 15.0&lt;br&gt;Calitate Pistă: 22.5 / 65.0&lt;br&gt;Obstacole / observații: 8.75 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=10-intors</description>
                 <styleUrl>#2-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -341,7 +530,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 31 - segment 1</name>
-                <description>Punctaj total: 37.5&lt;br&gt;&lt;br&gt;Conectivitate: 7.5 / 15.0&lt;br&gt;Calitate Pistă: 20.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=31-dus</description>
+                <description>Punctaj total: 37.5&lt;br&gt;&lt;br&gt;Conectivitate: 7.5 / 15.0&lt;br&gt;Calitate Pistă: 20.0 / 65.0&lt;br&gt;Obstacole / observații: 10.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=31-dus</description>
                 <styleUrl>#2-stele</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -358,7 +547,7 @@
             <styleUrl>neevaluat</styleUrl>
             <Placemark>
                 <name>Pista 1 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=1-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=1-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -367,7 +556,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 4 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=4-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=4-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -376,7 +565,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 4 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=4-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=4-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -384,44 +573,8 @@
                 </LineString>
             </Placemark>
             <Placemark>
-                <name>Pista 6 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=6-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.245938,45.740547 21.245901,45.740476 21.245906,45.740263 21.24589,45.740053 21.245815,45.739814 21.245719,45.739641 21.245493,45.73939 21.245322,45.739274 21.244892,45.739114 21.244656,45.739057 21.244308,45.739035 21.243991,45.739068 21.243653,45.739155 21.243315,45.739334 21.242983,45.739578 21.242827,45.739757 21.242629,45.740184 21.242516,45.740581 21.242554,45.740956 21.242763,45.74133 21.242977,45.74154 21.243181,45.741678 21.243433,45.741783 21.243814,45.741858 21.244082,45.741888 21.244388,45.741865 21.244807,45.741742 21.245064,45.741633 21.245311,45.741461 21.245542,45.741225 21.245681,45.741034 21.245837,45.740922 21.245955,45.740592</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 7 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=7-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.252051,45.750892 21.24832,45.749595 21.246944,45.749114 21.245504,45.748628 21.244136,45.74815 21.242988,45.747762 21.241947,45.74741 21.241175,45.747158 21.240681,45.746967 21.24058,45.746954 21.240464,45.746962 21.240381,45.746857</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 8 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=8-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.240413,45.746788 21.239499,45.74647 21.237278,45.745701 21.236417,45.745416 21.235993,45.745296</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 8 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=8-intors</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.235949,45.745357 21.236382,45.745477 21.237327,45.745797 21.237734,45.745936 21.23814,45.74608 21.23853,45.746213 21.238926,45.746351 21.23971,45.746619 21.24029,45.746819 21.240369,45.746847</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
                 <name>Pista 9 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=9-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=9-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -429,8 +582,26 @@
                 </LineString>
             </Placemark>
             <Placemark>
+                <name>Pista 11 - segment 1</name>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=11-dus</description>
+                <styleUrl>#neevaluat</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2322257,45.7645676 21.2328708,45.7638032 21.2329727,45.7635824 21.2329727,45.7632007 21.2328869,45.7631932 21.2328708,45.7631034 21.2329352,45.7631034 21.2326133,45.7605604 21.2324872,45.7591204 21.2324081,45.7588308 21.2323149,45.7587122 21.2321681,45.7586984</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 11 - segment 2</name>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=11-intors</description>
+                <styleUrl>#neevaluat</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2323236,45.7646059 21.232962,45.7638743 21.2331015,45.7635862 21.2330961,45.7632157 21.2332034,45.7632232 21.2331873,45.7631333 21.2330961,45.7631221 21.2329459,45.761932 21.2327957,45.7606259 21.2326348,45.7591476 21.232565,45.7588033 21.2325811,45.7585787</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
                 <name>Pista 12 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=12-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=12-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -439,7 +610,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 12 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=12-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=12-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -448,7 +619,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 14 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=14-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=14-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -457,7 +628,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 14 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=14-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=14-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -466,7 +637,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 15 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=15-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=15-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -475,7 +646,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 15 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=15-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=15-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -484,7 +655,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 16 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=16-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=16-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -493,7 +664,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 16 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=16-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=16-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -502,7 +673,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 16 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=16-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=16-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -511,7 +682,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 16 - segment 4</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=16-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=16-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -520,7 +691,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 17 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=17-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=17-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -529,7 +700,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 17 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=17-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=17-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -538,7 +709,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 18 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=18-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=18-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -547,7 +718,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 18 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=18-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=18-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -556,7 +727,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 19 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=19-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=19-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -565,7 +736,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 19 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=19-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=19-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -574,7 +745,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 20 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=20-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=20-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -583,7 +754,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 20 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=20-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=20-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -592,7 +763,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 21 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=21-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=21-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -601,7 +772,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 21 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=21-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=21-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -610,7 +781,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 22 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=22-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=22-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -619,7 +790,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 22 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=22-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=22-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -628,7 +799,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 23 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=23-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=23-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -637,7 +808,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 23 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=23-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=23-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -646,7 +817,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 24 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=24-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=24-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -655,7 +826,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 24 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=24-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=24-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -664,7 +835,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 25 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=25-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=25-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -673,7 +844,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 25 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=25-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=25-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -682,7 +853,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 26 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=26-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=26-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -691,7 +862,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 27 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=27-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=27-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -700,7 +871,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 27 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=27-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=27-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -709,7 +880,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 28 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=28-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=28-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -718,7 +889,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 28 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=28-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=28-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -727,7 +898,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 29 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=29-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=29-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -736,7 +907,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 29 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=29-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=29-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -745,7 +916,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 29 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=29-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=29-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -754,7 +925,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 30 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=30-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=30-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -763,7 +934,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 31 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=31-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=31-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -772,7 +943,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 32 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=32-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=32-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -781,7 +952,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 32 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=32-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=32-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -789,44 +960,8 @@
                 </LineString>
             </Placemark>
             <Placemark>
-                <name>Pista 33 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=33-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.235354,45.748471 21.235285,45.748117 21.235301,45.747994 21.235247,45.747779 21.235232,45.74735 21.23529,45.746843 21.235424,45.746444 21.235676,45.745732 21.235862,45.745338 21.236374,45.744434 21.236902,45.743683 21.237412,45.742953 21.237895,45.742306 21.238294,45.741734</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 33 - segment 4</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=33-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.2389594,45.7408113 21.2393993,45.7402048 21.2394342,45.7400794 21.2401101,45.7391322 21.240381,45.738754 21.2403864,45.738608 21.2403354,45.73855 21.240228,45.738521</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 33 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=33-intors</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.240883,45.73844 21.240412,45.739048 21.23958,45.740179 21.239473,45.74024 21.23941,45.740326 21.238911,45.741031 21.23873,45.741276 21.238798,45.741398</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 33 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=33-intors</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.2379774,45.7423414 21.23751,45.742969 21.237039,45.743668 21.236394,45.744579 21.235993,45.745296 21.235947,45.745368 21.235849,45.745566 21.235706,45.745938 21.235623,45.746185 21.235399,45.746829 21.235337,45.747355 21.235348,45.747679 21.235408,45.747984 21.235403,45.748029 21.235479,45.748152 21.235529,45.748326 21.235613,45.748488 21.235836,45.748683 21.2361663,45.7488069 21.236548,45.7490061</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
                 <name>Pista 35 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=35-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=35-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -835,7 +970,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 35 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=35-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=35-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -844,7 +979,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 36 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=36-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=36-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -853,7 +988,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 38 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=38-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=38-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -862,7 +997,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 38 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=38-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=38-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -871,7 +1006,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 39 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=39-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=39-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -880,7 +1015,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 39 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=39-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=39-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -888,26 +1023,8 @@
                 </LineString>
             </Placemark>
             <Placemark>
-                <name>Pista 40 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=40-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.225558,45.747685 21.226125,45.747645 21.227183,45.747556 21.228586,45.74756 21.229172,45.747589 21.230025,45.747664 21.231079,45.747786 21.231524,45.747825 21.232951,45.748068 21.23378,45.74819 21.23525,45.748458 21.235354,45.748471</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 40 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=40-intors</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.235322,45.748984 21.23419,45.748639 21.23312,45.748396 21.232949,45.748344 21.232809,45.748276 21.231232,45.748031 21.229231,45.747823 21.228904,45.747802 21.228056,45.747776 21.226951,45.747802 21.226833,45.747851 21.225615,45.748012</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
                 <name>Pista 41 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=41-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=41-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -916,7 +1033,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 41 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=41-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=41-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -925,7 +1042,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 42 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=42-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=42-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -934,7 +1051,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 42 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=42-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=42-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -943,7 +1060,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 42 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=42-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=42-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -952,7 +1069,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 43 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=43-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=43-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -961,7 +1078,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 43 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=43-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=43-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -970,7 +1087,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 44 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=44-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=44-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -979,7 +1096,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 44 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=44-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=44-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -988,7 +1105,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 45 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=45-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=45-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -997,7 +1114,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 46 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=46-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=46-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1006,7 +1123,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 46 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=46-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=46-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1015,7 +1132,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 47 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=47-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=47-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1024,7 +1141,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 48 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=48-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=48-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1033,7 +1150,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 48 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=48-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=48-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1042,7 +1159,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 49 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=49-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=49-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1051,7 +1168,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 49 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=49-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=49-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1060,7 +1177,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 50 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=50-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=50-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1069,7 +1186,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 50 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=50-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=50-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1078,7 +1195,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 51 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=51-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=51-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1087,7 +1204,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 51 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=51-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=51-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1096,7 +1213,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 51 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=51-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=51-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1105,7 +1222,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 52 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=52-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=52-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1114,7 +1231,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1123,7 +1240,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1132,7 +1249,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1141,7 +1258,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 4</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1150,7 +1267,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 5</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1159,7 +1276,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 6</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1168,7 +1285,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 7</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1177,7 +1294,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 8</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1186,7 +1303,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 9</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1195,7 +1312,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 10</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1204,7 +1321,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 11</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1213,7 +1330,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 12</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1222,7 +1339,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 13</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1231,7 +1348,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 14</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1240,7 +1357,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 53 - segment 15</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=53-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=53-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1249,7 +1366,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 54 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=54-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=54-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1258,7 +1375,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 54 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=54-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=54-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1267,7 +1384,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 55 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=55-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=55-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1276,16 +1393,16 @@
             </Placemark>
             <Placemark>
                 <name>Pista 56 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=56-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=56-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
-                    <coordinates>21.2322257,45.7645676 21.2321703,45.7646134 21.2320531,45.7645843 21.2319663,45.7645879 21.2318437,45.7646082 21.2317326,45.7646675 21.2316658,45.7647505 21.2314868,45.7647706 21.2314828,45.764925 21.2316947,45.7649409 21.2317376,45.7649783 21.231641,45.7650934 21.231806,45.7651663 21.2319186,45.765055 21.2320273,45.7650606 21.2321641,45.7650316 21.2322821,45.7649615 21.2324309,45.764939 21.2324645,45.7647809 21.2323236,45.7647472 21.2322499,45.7646611 21.2323049,45.7645985</coordinates>
+                    <coordinates>21.2322257,45.7645676 21.2321703,45.7646134 21.2320531,45.7645843 21.2319663,45.7645879 21.2318437,45.7646082 21.2317326,45.7646675 21.2316658,45.7647505 21.2314868,45.7647706 21.2314828,45.764925 21.2316947,45.7649409 21.2317376,45.7649783 21.231641,45.7650934 21.231806,45.7651663 21.2319186,45.765055 21.2320273,45.7650606 21.2321641,45.7650316 21.2322821,45.7649615 21.2324309,45.764939 21.2324645,45.7647809 21.2323236,45.7647472 21.2322499,45.7646611 21.2323236,45.7646059</coordinates>
                 </LineString>
             </Placemark>
             <Placemark>
                 <name>Pista 57 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=57-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=57-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1294,7 +1411,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 57 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=57-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=57-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1303,7 +1420,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 58 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=58-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=58-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1312,7 +1429,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 59 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=59-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=59-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1321,7 +1438,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 59 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=59-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=59-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1330,7 +1447,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 59 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=59-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=59-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1339,7 +1456,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 59 - segment 4</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=59-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=59-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1348,7 +1465,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 60 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=60-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=60-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1357,7 +1474,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 60 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=60-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=60-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1366,7 +1483,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 61 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=61-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=61-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1375,7 +1492,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 62 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=62-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=62-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1384,7 +1501,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 63 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=63-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=63-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1393,7 +1510,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 65 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=65-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=65-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1402,16 +1519,16 @@
             </Placemark>
             <Placemark>
                 <name>Pista 65 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=65-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=65-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
-                    <coordinates>21.2437874,45.7426814 21.2458688,45.7428573 21.2468022,45.7430407 21.247139,45.743049 21.2472314,45.7430557 21.2474781,45.7432092 21.2505627,45.744235</coordinates>
+                    <coordinates>21.2437874,45.7426814 21.2458688,45.7428573 21.2468022,45.7430407 21.247139,45.743049 21.2472314,45.7430557 21.2474781,45.7432092 21.2502327,45.7441171 21.2546826,45.7455939</coordinates>
                 </LineString>
             </Placemark>
             <Placemark>
                 <name>Pista 66 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=66-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=66-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1420,7 +1537,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 66 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=66-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=66-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1429,7 +1546,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 67 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=67-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=67-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1438,7 +1555,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 67 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=67-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=67-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1447,7 +1564,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 68 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=68-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=68-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1456,7 +1573,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 69 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=69-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=69-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1465,7 +1582,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 70 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=70-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=70-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1474,7 +1591,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 71 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=71-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=71-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1483,16 +1600,16 @@
             </Placemark>
             <Placemark>
                 <name>Pista 72 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=72-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=72-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
-                    <coordinates>21.2161794,45.7467357 21.2163725,45.7467806 21.2164637,45.746833 21.217137,45.7474937 21.2175903,45.7479467 21.2178585,45.7481488 21.218175,45.7483453 21.2187866,45.7486692</coordinates>
+                    <coordinates>21.2161794,45.7467357 21.2163725,45.7467806 21.2164637,45.746833 21.217137,45.7474937 21.2175903,45.7479467 21.2178585,45.7481488 21.218175,45.7483453 21.2198917,45.7492644</coordinates>
                 </LineString>
             </Placemark>
             <Placemark>
                 <name>Pista 73 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=73-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=73-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1501,7 +1618,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 73 - segment 3</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=73-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=73-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1510,7 +1627,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 73 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=73-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=73-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1519,7 +1636,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 73 - segment 4</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=73-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=73-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1527,17 +1644,8 @@
                 </LineString>
             </Placemark>
             <Placemark>
-                <name>Pista 74 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=74-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.2269056,45.7508758 21.2272114,45.7514953 21.227544,45.7521934 21.227957,45.7530655</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
                 <name>Pista 75 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=75-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=75-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1546,7 +1654,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 75 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=75-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=75-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1555,7 +1663,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 76 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=76-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=76-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1564,7 +1672,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 76 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=76-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=76-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1573,7 +1681,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 77 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=77-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=77-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1582,16 +1690,16 @@
             </Placemark>
             <Placemark>
                 <name>Pista 77 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=77-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=77-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
-                    <coordinates>21.23257,45.752624 21.2312588,45.7521222 21.2304595,45.7518883 21.2302396,45.7518303 21.2297434,45.7517124 21.2290004,45.7515701</coordinates>
+                    <coordinates>21.23257,45.752624 21.2312588,45.7521222 21.2304595,45.7518883 21.2302396,45.7518303 21.2297434,45.7517124 21.2288945,45.7515589 21.2281079,45.7515495 21.2276315,45.7515505 21.2273696,45.7515776</coordinates>
                 </LineString>
             </Placemark>
             <Placemark>
                 <name>Pista 78 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=78-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=78-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1599,17 +1707,8 @@
                 </LineString>
             </Placemark>
             <Placemark>
-                <name>Pista 79 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=79-dus</description>
-                <styleUrl>#neevaluat</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.2144709,45.7267121 21.2183225,45.7263001 21.2208652,45.7260155 21.2219167,45.7258957 21.2236333,45.725671 21.2252319,45.7255212 21.2268841,45.7253265 21.2285149,45.7251617 21.2301135,45.7250119 21.2317443,45.7248396 21.2332678,45.7247048 21.2366366,45.7246449 21.2368405,45.7247423 21.2390184,45.7247797 21.2397051,45.7247198 21.2403381,45.7248321 21.2421191,45.7247123 21.2450588,45.7247198 21.2469685,45.7247947 21.2497795,45.7246898 21.2501442,45.7247048 21.2520218,45.7247123 21.2537169,45.7247348 21.2546825,45.7248696</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
                 <name>Pista 80 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=80-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=80-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1618,7 +1717,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 81 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=81-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=81-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1627,7 +1726,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 81 - segment 2</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=81-intors</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=81-intors</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1636,7 +1735,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 82 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=82-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=82-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1645,7 +1744,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 83 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=83-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=83-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1654,7 +1753,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 84 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=84-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=84-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1663,7 +1762,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 85 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=85-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=85-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1672,7 +1771,7 @@
             </Placemark>
             <Placemark>
                 <name>Pista 86 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=86-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=86-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
@@ -1680,8 +1779,17 @@
                 </LineString>
             </Placemark>
             <Placemark>
+                <name>Pista 86 - segment 2</name>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=86-intors</description>
+                <styleUrl>#neevaluat</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2324309,45.764939 21.2330371,45.7648922 21.233874,45.7647687 21.2357891,45.7643346 21.237554,45.7638668</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
                 <name>Pista 87 - segment 1</name>
-                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail?laneId=87-dus</description>
+                <description>Punctaj total: 0.0&lt;br&gt;&lt;br&gt;Conectivitate: 0.0 / 15.0&lt;br&gt;Calitate Pistă: 0.0 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/cycle-lane/lane-detail.html?laneId=87-dus</description>
                 <styleUrl>#neevaluat</styleUrl>
                 <LineString>
                     <tessellate>1</tessellate>
