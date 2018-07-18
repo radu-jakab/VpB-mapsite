@@ -13,6 +13,7 @@ body {
 .map-iframe {
     width: 100%;
     height: calc(100vh - 100px);
+    margin-bottom: 20px;
 }
 
 .dataTables_info {
@@ -20,7 +21,7 @@ body {
 }
 
 .details-desc-box {
-    flex: 0 1 calc(100% - 910px);
+    flex: 0 1 calc(100% - 740px);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
     padding: 30px 30px 0 30px;
     background-color: white;
@@ -29,7 +30,7 @@ body {
 
 .details-video-box {
     flex: 0 0 640px;
-    margin: 0 100px;
+    margin: 0 0 0 100px;
 }
 
 .flex-full {
@@ -168,7 +169,6 @@ body {
 }
 
 .lane-text {
-    position: absolute;
     margin: 8px;
 }
 
@@ -177,6 +177,7 @@ body {
 }
 
 .lane-text-box {
+    display: flex;
     margin: 14px 5px;
 }
 
