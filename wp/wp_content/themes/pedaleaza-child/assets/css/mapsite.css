@@ -204,7 +204,10 @@ body {
     z-index: 100;
     font-size: 14px;
     font-weight: normal;
-	width: 15em;
+    width: 12em;
+    padding-left: 8px;
+    padding-right: 0px;
+    text-align: left;
 }
 
 .fa{
@@ -229,10 +232,12 @@ body {
     height: 30px;
     border: 0;
     z-index: 100;
-	/*width:20px;*/
     font-size: 14px;
     font-weight: normal;
-    width: 9em !important;
+    width: 6em !important;
+    padding-left: 8px;
+    padding-right: 0;
+    text-align: left;
 }
 
 /*.link-btn:hover {
