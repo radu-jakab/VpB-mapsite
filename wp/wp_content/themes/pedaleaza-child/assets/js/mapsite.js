@@ -11,7 +11,7 @@ $(document).ready(function () {
             console.log(row);
             //alert( 'Column '+order[0][0]+' is the ordering column' );
             var orderingCol = order[0][0];
-            if (orderingCol < 5){
+            if (orderingCol < 6){
                 orderingCol = 8;
             }
             if(orderingCol > 4){
