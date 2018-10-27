@@ -1,28 +1,43 @@
 $(document).ready(function () {
-    $('#example').DataTable({
+    
+    var table = $('#example').DataTable({
         ajax: "/wp-content/themes/pedaleaza-child/assets/download/current/piste_datatable.json",
         columnDefs: [
             {"className": "dt-center", "targets": "_all"}
         ],
         paging: false,
         rowCallback: function(row, data, index) {
-            console.log(row)
-            if (0 <= data[8] && data[8] < 20) {
-                $(row).addClass('rowTotalTwenty')
+            var order = table.order();
+            console.log(row);
+            //alert( 'Column '+order[0][0]+' is the ordering column' );
+            var orderingCol = order[0][0];
+            if (orderingCol < 5){
+                orderingCol = 8;
             }
-            if (20 <= data[8] && data[8] < 40) {
-                $(row).addClass('rowTotalForty')
+            if(orderingCol > 4){
+                if (0 <= data[orderingCol] && data[orderingCol] < 20) {
+                    $(row).removeClass('rowTotalTwenty rowTotalForty rowTotalSixty rowTotalEighty rowTotalHundred');
+                    $(row).addClass('rowTotalTwenty');
+                }
+                if (20 <= data[orderingCol] && data[orderingCol] < 40) {
+                    $(row).removeClass('rowTotalTwenty rowTotalForty rowTotalSixty rowTotalEighty rowTotalHundred');
+                    $(row).addClass('rowTotalForty');
+                }
+                if (40 <= data[orderingCol] && data[orderingCol] < 60) {
+                    $(row).removeClass('rowTotalTwenty rowTotalForty rowTotalSixty rowTotalEighty rowTotalHundred');
+                    $(row).addClass('rowTotalSixty');
+                }
+                if (60 <= data[orderingCol] && data[orderingCol] < 80) {
+                    $(row).removeClass('rowTotalTwenty rowTotalForty rowTotalSixty rowTotalEighty rowTotalHundred');
+                    $(row).addClass('rowTotalEighty');
+                }
+                if (80 <= data[orderingCol] && data[orderingCol] < 100) {
+                    $(row).removeClass('rowTotalTwenty rowTotalForty rowTotalSixty rowTotalEighty rowTotalHundred');
+                    $(row).addClass('rowTotalHundred');
+                }
             }
-            if (40 <= data[8] && data[8] < 60) {
-                $(row).addClass('rowTotalSixty')
-            }
-            if (60 <= data[8] && data[8] < 80) {
-                $(row).addClass('rowTotalEighty')
-            }
-            if (80 <= data[8] && data[8] < 100) {
-                $(row).addClass('rowTotalHundred')
-            }
-        }
+        },
     });
 });
+
 
