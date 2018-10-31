@@ -3,9 +3,6 @@ function populateFileds() {
     let laneInfo = sessionStorage.getItem(laneId);
     if (laneInfo !== null && laneInfo !== '[object Object]') {
         setFields(JSON.parse(laneInfo));
-
-        // add the movie URL
-        $("#movieBox").src(laneInfo.movieLink);
     } else {
         loadSessionStorage(setFields, laneId);
     }
@@ -55,6 +52,9 @@ function setFields(laneInfo) {
     $("#percentage-meter-bar").css({"border-color": getRGB(laneInfo.evaluationTotal)});
     $("#percentage-meter-fill").css({"border-color": getRGB(laneInfo.evaluationTotal)});
     $("#percentage-meter-div").addClass("p" + Math.floor(laneInfo.evaluationTotal));
+
+    // add the movie URL
+    $("#movieBox").attr('src', laneInfo.movieLink);
 }
 
 function getRGB(value) {
@@ -83,13 +83,15 @@ function buildScoreBar(percent) {
 
 function loadSessionStorage(callback, laneId) {
     $.getJSON("/wp-content/themes/pedaleaza-child/assets/download/current/piste_detalii.json", function (data) {
-        data.forEach(function (lane) {
-            sessionStorage.setItem(storageNumber + '-' + lane.direction, JSON.stringify(lane));
+        data.forEach(function (lane, index, array) {
+            sessionStorage.setItem(lane.number + '-' + lane.direction, JSON.stringify(lane));
+            if (index === array.length - 1)
+                callback(JSON.parse(sessionStorage.getItem(laneId)));
         });
-        callback(JSON.parse(sessionStorage.getItem(laneId)));
     });
 }
 
 $(document).ready(function () {
-    populateFileds();
+    if (document.URL.includes("pedaleaza.ro/vrempiste/detalii-pista/?laneId"))
+        populateFileds();
 });

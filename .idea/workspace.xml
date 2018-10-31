@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0b5d7df-f4ca-44f3-801d-3b6a998cab75" name="Default" comment="" />
+    <list default="true" id="b0b5d7df-f4ca-44f3-801d-3b6a998cab75" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/wp/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,13 +36,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="25" />
-          <entry key="js" value="143" />
+          <entry key="js" value="262" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="25" />
-          <entry key="JavaScript" value="143" />
+          <entry key="JavaScript" value="262" />
         </counts>
       </usages-collector>
     </session>
@@ -50,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp/vrempiste/detalii-pista/wp_page_source.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="-204">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -62,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="86" column="83" selection-start-line="86" selection-start-column="83" selection-end-line="86" selection-end-column="83" />
+            <state relative-caret-position="453">
+              <caret line="91" column="1" lean-forward="true" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
@@ -84,7 +86,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>gradient-bar</find>
       <find>gradient-label</find>
       <find>desc-box</find>
       <find>gradient-score</find>
@@ -114,6 +115,7 @@
       <find>map-i</find>
       <find>pedaleaza.ro</find>
       <find>pedalea</find>
+      <find>name</find>
     </findStrings>
     <replaceStrings>
       <replace>cycle-lane.html/lane-detail?</replace>
@@ -301,12 +303,12 @@
       <workItem from="1531997585387" duration="673000" />
       <workItem from="1532525891736" duration="864000" />
       <workItem from="1532938965434" duration="32000" />
-      <workItem from="1540985310148" duration="2279000" />
+      <workItem from="1540985310148" duration="5507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66111000" />
+    <option name="totallyTimeSpent" value="69339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -458,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/vrempiste/detalii-pista/wp_page_source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="-204">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
@@ -468,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="86" column="83" selection-start-line="86" selection-start-column="83" selection-end-line="86" selection-end-column="83" />
+        <state relative-caret-position="453">
+          <caret line="91" column="1" lean-forward="true" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
