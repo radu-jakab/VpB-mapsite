@@ -1,9 +1,12 @@
 function populateFileds() {
     let laneId = new URL(document.URL).searchParams.get("laneId");
     let laneInfo = sessionStorage.getItem(laneId);
-    if (laneInfo !== null && laneInfo !== '[object Object]')
+    if (laneInfo !== null && laneInfo !== '[object Object]') {
         setFields(JSON.parse(laneInfo));
-    else {
+
+        // add the movie URL
+        $("#movieBox").src(laneInfo.movieLink);
+    } else {
         loadSessionStorage(setFields, laneId);
     }
 }
@@ -81,7 +84,8 @@ function buildScoreBar(percent) {
 function loadSessionStorage(callback, laneId) {
     $.getJSON("/wp-content/themes/pedaleaza-child/assets/download/current/piste_detalii.json", function (data) {
         data.forEach(function (lane) {
-            sessionStorage.setItem(lane.number + '-' + lane.direction, JSON.stringify(lane));
+            let storageNumber = lane.number < 10 ? '0' + lane.number : lane.number;
+            sessionStorage.setItem(storageNumber + '-' + lane.direction, JSON.stringify(lane));
         });
         callback(JSON.parse(sessionStorage.getItem(laneId)));
     });

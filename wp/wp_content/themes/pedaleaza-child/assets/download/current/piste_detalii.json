@@ -40,6 +40,7 @@
   "to" : "Sensul giratoriu - Buziașului",
   "via" : "Sens giratoriu",
   "distanceKM" : 0.42,
+  "movieLink" : "https://www.youtube.com/watch?v=cPfn3ejO6qM",
   "evaluationTotal" : 38.75
 }, {
   "number" : 2,
@@ -83,6 +84,7 @@
   "to" : "Orion, colț cu Venus",
   "via" : "Strada Orion",
   "distanceKM" : 0.58,
+  "movieLink" : "https://www.youtube.com/watch?v=4f_gy_JoMok",
   "evaluationTotal" : 41.25
 }, {
   "number" : 2,
@@ -126,6 +128,7 @@
   "to" : "Orion, colț cu Rebreanu",
   "via" : "Strada Orion",
   "distanceKM" : 0.59,
+  "movieLink" : "https://www.youtube.com/watch?v=1Bb6oalGZBM",
   "evaluationTotal" : 51.25
 }, {
   "number" : 3,
@@ -169,6 +172,7 @@
   "to" : "Sudului, colț cu Rebreanu",
   "via" : "Bulevardul Liviu Rebreanu",
   "distanceKM" : 0.93,
+  "movieLink" : "https://www.youtube.com/watch?v=gNwvs5HslOg",
   "evaluationTotal" : 41.25
 }, {
   "number" : 3,
@@ -212,6 +216,7 @@
   "to" : "Martirilor, colț cu Rebreanu",
   "via" : "Bulevardul Liviu Rebreanu",
   "distanceKM" : 0.14,
+  "movieLink" : "https://www.youtube.com/watch?v=nIPAaQR9J8M",
   "evaluationTotal" : 31.25
 }, {
   "number" : 4,
@@ -255,6 +260,7 @@
   "to" : "Sensul giratoriu - Buziașului",
   "via" : "Bulevardul Liviu Rebreanu",
   "distanceKM" : 0.77,
+  "movieLink" : "https://www.youtube.com/watch?v=9pUxe57DYgo",
   "evaluationTotal" : 50.0
 }, {
   "number" : 4,
@@ -298,6 +304,7 @@
   "to" : "Sudului, colț cu Rebreanu",
   "via" : "Bulevardul Liviu Rebreanu",
   "distanceKM" : 0.75,
+  "movieLink" : "https://www.youtube.com/watch?v=w34QmzN6dDw",
   "evaluationTotal" : 48.75
 }, {
   "number" : 5,
@@ -341,6 +348,7 @@
   "to" : "Baza 2",
   "via" : "Continuare - bulevardul Sudului",
   "distanceKM" : 0.77,
+  "movieLink" : "https://www.youtube.com/watch?v=DkZVCbpzAPA",
   "evaluationTotal" : 68.75
 }, {
   "number" : 5,
@@ -384,6 +392,7 @@
   "to" : "Sudului, colț cu Rebreanu",
   "via" : "Continuare - bulevardul Sudului",
   "distanceKM" : 0.35,
+  "movieLink" : "https://www.youtube.com/watch?v=H_F4xdV9X2E",
   "evaluationTotal" : 70.0
 }, {
   "number" : 6,
@@ -427,6 +436,7 @@
   "to" : "Poartă - Tribuna II",
   "via" : "Stadionul Dan Păltinișanu",
   "distanceKM" : 0.91,
+  "movieLink" : "https://www.youtube.com/watch?v=UDmXxUA415M",
   "evaluationTotal" : 87.5
 }, {
   "number" : 7,
@@ -444,7 +454,7 @@
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
     "Rugozitate" : 2.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -458,10 +468,10 @@
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.25,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 25.0,
     "Obstacole / observații" : 15.0
   },
@@ -470,7 +480,8 @@
   "to" : "Eroilor, colț cu Ripensia",
   "via" : "Bulevardul Eroilor de la Tisa",
   "distanceKM" : 0.94,
-  "evaluationTotal" : 46.25
+  "movieLink" : "https://www.youtube.com/watch?v=hyZhnCg4Uio",
+  "evaluationTotal" : 48.75
 }, {
   "number" : 7,
   "direction" : "intors",
@@ -487,7 +498,7 @@
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
     "Rugozitate" : 2.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -501,10 +512,10 @@
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.25,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 25.0,
     "Obstacole / observații" : 8.75
   },
@@ -513,7 +524,8 @@
   "to" : "Eroilor, colț cu Ștefan Cel Mare",
   "via" : "Bulevardul Eroilor de la Tisa",
   "distanceKM" : 0.94,
-  "evaluationTotal" : 40.0
+  "movieLink" : "https://www.youtube.com/watch?v=Kx-pq59Rx9A",
+  "evaluationTotal" : 42.5
 }, {
   "number" : 8,
   "direction" : "dus",
@@ -530,7 +542,7 @@
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
     "Rugozitate" : 10.0,
-    "Alte piste" : 5.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -544,10 +556,10 @@
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.5
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 11.25,
     "Calitate Pistă" : 33.75,
     "Obstacole / observații" : 12.5
   },
@@ -556,7 +568,8 @@
   "to" : "Eroilor, colț cu Cluj",
   "via" : "Bulevardul Eroilor de la Tisa",
   "distanceKM" : 0.38,
-  "evaluationTotal" : 52.5
+  "movieLink" : "https://www.youtube.com/watch?v=pv959urVzFA",
+  "evaluationTotal" : 57.5
 }, {
   "number" : 8,
   "direction" : "intors",
@@ -573,7 +586,7 @@
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
     "Rugozitate" : 10.0,
-    "Alte piste" : 5.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -587,10 +600,10 @@
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.5
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 11.25,
     "Calitate Pistă" : 30.0,
     "Obstacole / observații" : 7.5
   },
@@ -599,7 +612,8 @@
   "to" : "Eroilor, colț cu Ripensia",
   "via" : "Bulevardul Eroilor de la Tisa",
   "distanceKM" : 0.38,
-  "evaluationTotal" : 43.75
+  "movieLink" : "https://www.youtube.com/watch?v=JYGH5YycnEY",
+  "evaluationTotal" : 48.75
 }, {
   "number" : 9,
   "direction" : "dus",
@@ -642,6 +656,7 @@
   "to" : "Piața Bălcescu, colț cu Porumbescu",
   "via" : "Piața Nicolae Bălcescu",
   "distanceKM" : 0.33,
+  "movieLink" : "https://www.youtube.com/watch?v=L_38guLX20k",
   "evaluationTotal" : 60.0
 }, {
   "number" : 10,
@@ -656,7 +671,7 @@
     "Mașini parcate" : 2.5,
     "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
-    "Traversări" : 1.25,
+    "Traversări" : 0.0,
     "Marcaje" : 1.25,
     "Rugozitate" : 5.0,
     "Alte piste" : 5.0
@@ -670,13 +685,13 @@
     "Mașini parcate" : 0.5,
     "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
-    "Traversări" : 0.25,
+    "Traversări" : 0.0,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.5,
     "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 23.75,
     "Obstacole / observații" : 11.25
   },
@@ -685,7 +700,8 @@
   "to" : "Mihai Viteazu, colț cu Piața Bălcescu",
   "via" : "Bulevardul Mihai Viteazu",
   "distanceKM" : 0.26,
-  "evaluationTotal" : 41.25
+  "movieLink" : "https://www.youtube.com/watch?v=adxnOBxl1Ok",
+  "evaluationTotal" : 40.0
 }, {
   "number" : 10,
   "direction" : "intors",
@@ -699,7 +715,7 @@
     "Mașini parcate" : 1.25,
     "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
-    "Traversări" : 1.25,
+    "Traversări" : 0.0,
     "Marcaje" : 2.5,
     "Rugozitate" : 2.5,
     "Alte piste" : 5.0
@@ -713,13 +729,13 @@
     "Mașini parcate" : 0.25,
     "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
-    "Traversări" : 0.25,
+    "Traversări" : 0.0,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.25,
     "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 22.5,
     "Obstacole / observații" : 8.75
   },
@@ -728,7 +744,8 @@
   "to" : "Vasile Pârvan, colț cu Mihai Viteazu",
   "via" : "Bulevardul Mihai Viteazu",
   "distanceKM" : 0.24,
-  "evaluationTotal" : 37.5
+  "movieLink" : "https://www.youtube.com/watch?v=2US1eAAofA0",
+  "evaluationTotal" : 36.25
 }, {
   "number" : 11,
   "direction" : "dus",
@@ -771,6 +788,7 @@
   "to" : "Str. Oituz",
   "via" : "Bvd. Antenei / Str. Popa Sapca",
   "distanceKM" : 0.69,
+  "movieLink" : "https://www.youtube.com/watch?v=oL8fmezP3HM",
   "evaluationTotal" : 60.0
 }, {
   "number" : 11,
@@ -814,6 +832,7 @@
   "to" : "Giratoriu Iulius Mall",
   "via" : "Bvd. Antenei / Str. Popa Sapca",
   "distanceKM" : 0.7,
+  "movieLink" : "https://www.youtube.com/watch?v=Scr6m4VkCmw",
   "evaluationTotal" : 62.5
 }, {
   "number" : 12,
@@ -831,7 +850,7 @@
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
     "Rugozitate" : 2.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -845,10 +864,10 @@
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.25,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 11.25,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 32.5,
     "Obstacole / observații" : 5.0
   },
@@ -857,7 +876,8 @@
   "to" : "Carol I, colț cu Iuliu Maniu",
   "via" : "Bulevardul Regele Carol I",
   "distanceKM" : 0.81,
-  "evaluationTotal" : 48.75
+  "movieLink" : "",
+  "evaluationTotal" : 46.25
 }, {
   "number" : 12,
   "direction" : "intors",
@@ -871,10 +891,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
-    "Traversări" : 5.0,
+    "Traversări" : 2.5,
     "Marcaje" : 2.5,
     "Rugozitate" : 2.5,
-    "Alte piste" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -885,13 +905,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
-    "Traversări" : 1.0,
+    "Traversări" : 0.5,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.25,
-    "Alte piste" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 10.0,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 28.75,
     "Obstacole / observații" : 13.75
   },
@@ -900,7 +920,8 @@
   "to" : "Piața Sinaia",
   "via" : "Bulevardul Regele Carol I",
   "distanceKM" : 0.76,
-  "evaluationTotal" : 52.5
+  "movieLink" : "",
+  "evaluationTotal" : 47.5
 }, {
   "number" : 13,
   "direction" : "dus",
@@ -943,6 +964,7 @@
   "to" : "Piața Libertății",
   "via" : "Strada Victor Vlad Delamarina",
   "distanceKM" : 0.11,
+  "movieLink" : "https://www.youtube.com/watch?v=nyZWHigCySg",
   "evaluationTotal" : 78.75
 }, {
   "number" : 13,
@@ -986,50 +1008,52 @@
   "to" : "Strada Sfântul Ioan",
   "via" : "Strada Victor Vlad Delamarina",
   "distanceKM" : 0.11,
+  "movieLink" : "https://www.youtube.com/watch?v=lR6DDR_Bwog",
   "evaluationTotal" : 78.75
 }, {
   "number" : 14,
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
+    "Stare" : 7.5,
+    "Lățime" : 3.75,
+    "Curățenie" : 2.5,
+    "Borduri" : 5.0,
+    "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
+    "Mobilier urban" : 2.5,
+    "Siguranță" : 5.0,
     "Traversări" : 0.0,
-    "Marcaje" : 0.0,
-    "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Marcaje" : 2.5,
+    "Rugozitate" : 7.5,
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
+    "Stare" : 0.5,
+    "Lățime" : 0.25,
+    "Curățenie" : 0.5,
+    "Borduri" : 0.5,
+    "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
+    "Mobilier urban" : 0.5,
+    "Siguranță" : 0.5,
     "Traversări" : 0.0,
-    "Marcaje" : 0.0,
-    "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Marcaje" : 0.5,
+    "Rugozitate" : 0.75,
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 0.0,
-    "Calitate Pistă" : 0.0,
-    "Obstacole / observații" : 0.0
+    "Conectivitate" : 2.5,
+    "Calitate Pistă" : 31.25,
+    "Obstacole / observații" : 10.0
   },
   "remarks" : "",
   "from" : "Iuliu Maniu, colț cu Tudor Vladimirescu",
   "to" : "Piața Iuliu Maniu",
   "via" : "Bulevardul Iuliu Maniu",
-  "distanceKM" : 0.78,
-  "evaluationTotal" : 0.0
+  "distanceKM" : 0.53,
+  "movieLink" : "",
+  "evaluationTotal" : 43.75
 }, {
   "number" : 14,
   "direction" : "intors",
@@ -1037,42 +1061,43 @@
   "evaluation" : {
     "Stare" : 7.5,
     "Lățime" : 3.75,
-    "Curățenie" : 3.75,
+    "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
-    "Mașini parcate" : 1.25,
-    "Mobilier urban" : 3.75,
+    "Mașini parcate" : 0.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
-    "Traversări" : 5.0,
+    "Traversări" : 0.0,
     "Marcaje" : 2.5,
     "Rugozitate" : 7.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
     "Lățime" : 0.25,
-    "Curățenie" : 0.75,
+    "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
-    "Mașini parcate" : 0.25,
-    "Mobilier urban" : 0.75,
+    "Mașini parcate" : 0.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
-    "Traversări" : 1.0,
+    "Traversări" : 0.0,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 12.5,
+    "Conectivitate" : 2.5,
     "Calitate Pistă" : 31.25,
-    "Obstacole / observații" : 11.25
+    "Obstacole / observații" : 6.25
   },
   "remarks" : "",
   "from" : "Piața Iuliu Maniu",
   "to" : "Iuliu Maniu, colț cu Tudor Vladimirescu",
   "via" : "Bulevardul Iuliu Maniu",
-  "distanceKM" : 0.78,
-  "evaluationTotal" : 55.0
+  "distanceKM" : 0.53,
+  "movieLink" : "",
+  "evaluationTotal" : 40.0
 }, {
   "number" : 15,
   "direction" : "dus",
@@ -1115,6 +1140,7 @@
   "to" : "Bulevardul Republicii, colț cu Jiul",
   "via" : "Bulevardul Republicii",
   "distanceKM" : 0.43,
+  "movieLink" : "https://www.youtube.com/watch?v=a81tAo587FY",
   "evaluationTotal" : 55.0
 }, {
   "number" : 15,
@@ -1158,6 +1184,7 @@
   "to" : "Piața Regina Maria",
   "via" : "Bulevardul Republicii",
   "distanceKM" : 0.42,
+  "movieLink" : "https://www.youtube.com/watch?v=NdGbOCTs1fA",
   "evaluationTotal" : 60.0
 }, {
   "number" : 16,
@@ -1201,6 +1228,7 @@
   "to" : "Strada Gării, colț cu Pop de Băsești",
   "via" : "Republicii / Strada Gării",
   "distanceKM" : 0.5,
+  "movieLink" : "https://www.youtube.com/watch?v=ESy3qAyHPPQ",
   "evaluationTotal" : 46.25
 }, {
   "number" : 16,
@@ -1244,6 +1272,7 @@
   "to" : "Bulevardul Republicii, colț cu Jiul",
   "via" : "Republicii / Strada Gării",
   "distanceKM" : 0.47,
+  "movieLink" : "https://www.youtube.com/watch?v=zavMSAxg8GU",
   "evaluationTotal" : 50.0
 }, {
   "number" : 17,
@@ -1287,6 +1316,7 @@
   "to" : "Moise Doboșan, colț cu Tazlău",
   "via" : "strada Moise Doboșan",
   "distanceKM" : 1.67,
+  "movieLink" : "https://www.youtube.com/watch?v=_bbeeeJHjnU",
   "evaluationTotal" : 53.75
 }, {
   "number" : 17,
@@ -1330,6 +1360,7 @@
   "to" : "Moise Doboșan, colț cu Macilor",
   "via" : "strada Moise Doboșan",
   "distanceKM" : 1.67,
+  "movieLink" : "https://www.youtube.com/watch?v=Q63qvNdLMrg",
   "evaluationTotal" : 51.25
 }, {
   "number" : 18,
@@ -1373,6 +1404,7 @@
   "to" : "Ovidiu Balea, colț cu Ciocârliei",
   "via" : "strada Locotenent Ovidiu Balea",
   "distanceKM" : 0.6,
+  "movieLink" : "https://www.youtube.com/watch?v=sOZnOg2GMuo",
   "evaluationTotal" : 70.0
 }, {
   "number" : 18,
@@ -1416,6 +1448,7 @@
   "to" : "Sensul giratoriu - Mehala",
   "via" : "strada Locotenent Ovidiu Balea",
   "distanceKM" : 0.26,
+  "movieLink" : "https://www.youtube.com/watch?v=jQpINtUGnRY",
   "evaluationTotal" : 66.25
 }, {
   "number" : 19,
@@ -1459,6 +1492,7 @@
   "to" : "Grigore Alexandrescu",
   "via" : "strada Crișan",
   "distanceKM" : 1.04,
+  "movieLink" : "",
   "evaluationTotal" : 53.75
 }, {
   "number" : 19,
@@ -1502,6 +1536,7 @@
   "to" : "Ioan Plavoșin",
   "via" : "strada Crișan",
   "distanceKM" : 1.04,
+  "movieLink" : "",
   "evaluationTotal" : 56.25
 }, {
   "number" : 20,
@@ -1545,6 +1580,7 @@
   "to" : "Calea Sever Bocu, colț cu Ion Ionescu de la Brad",
   "via" : "Calea Sever Bocu",
   "distanceKM" : 1.07,
+  "movieLink" : "https://www.youtube.com/watch?v=yXhqIDaAX-w",
   "evaluationTotal" : 41.25
 }, {
   "number" : 20,
@@ -1588,6 +1624,7 @@
   "to" : "Calea Sever Bocu, colț cu Amurgului",
   "via" : "Calea Sever Bocu",
   "distanceKM" : 1.23,
+  "movieLink" : "https://www.youtube.com/watch?v=oNMf0DBEjTo",
   "evaluationTotal" : 37.5
 }, {
   "number" : 21,
@@ -1631,6 +1668,7 @@
   "to" : "C-tin Brâncoveanu, colț cu Porumbescu",
   "via" : "Gen. Ion Dragalina /\n C-tin Brâncoveanu",
   "distanceKM" : 0.81,
+  "movieLink" : "https://www.youtube.com/watch?v=dJX4B6ibWe8",
   "evaluationTotal" : 38.75
 }, {
   "number" : 21,
@@ -1674,6 +1712,7 @@
   "to" : "Gen. Ion Dragalina, colț cu Regele Carol I",
   "via" : "Gen. Ion Dragalina /\n C-tin Brâncoveanu",
   "distanceKM" : 0.8,
+  "movieLink" : "https://www.youtube.com/watch?v=1fxmkUEF5xE",
   "evaluationTotal" : 40.0
 }, {
   "number" : 22,
@@ -1717,6 +1756,7 @@
   "to" : "Calea Șagului, colț cu Vulturilor",
   "via" : "Calea Șagului",
   "distanceKM" : 0.55,
+  "movieLink" : "https://www.youtube.com/watch?v=a9yF-rd5gGc",
   "evaluationTotal" : 40.0
 }, {
   "number" : 23,
@@ -1760,6 +1800,7 @@
   "to" : "Șagului, colț cu Ana Ipătescu",
   "via" : "Calea Șagului",
   "distanceKM" : 0.45,
+  "movieLink" : "https://www.youtube.com/watch?v=lfYbpvz_Igk",
   "evaluationTotal" : 46.25
 }, {
   "number" : 23,
@@ -1803,6 +1844,7 @@
   "to" : "Șagului, colț cu Rebreanu",
   "via" : "Calea Șagului",
   "distanceKM" : 0.46,
+  "movieLink" : "https://www.youtube.com/watch?v=zIKylesTM_Y",
   "evaluationTotal" : 45.0
 }, {
   "number" : 24,
@@ -1846,6 +1888,7 @@
   "to" : "Steaua, capăt spre Emil Zola",
   "via" : "Strada Steaua",
   "distanceKM" : 0.36,
+  "movieLink" : "https://www.youtube.com/watch?v=atAgV5aieys",
   "evaluationTotal" : 46.25
 }, {
   "number" : 24,
@@ -1889,6 +1932,7 @@
   "to" : "Steaua, colț cu Izlaz",
   "via" : "Strada Steaua",
   "distanceKM" : 0.38,
+  "movieLink" : "https://www.youtube.com/watch?v=9DdbzXNbqlI",
   "evaluationTotal" : 43.75
 }, {
   "number" : 25,
@@ -1931,7 +1975,8 @@
   "from" : "Bujorilor, colț cu Șagului",
   "to" : "Bujorilor, colț cu Chișodei",
   "via" : "strada Bujorilor",
-  "distanceKM" : 1.59,
+  "distanceKM" : 0.92,
+  "movieLink" : "https://www.youtube.com/watch?v=5chB2hkd1Xk",
   "evaluationTotal" : 46.25
 }, {
   "number" : 26,
@@ -1975,6 +2020,7 @@
   "to" : "Torontalului, colț cu Circumvalațiunii",
   "via" : "Torontalului",
   "distanceKM" : 0.52,
+  "movieLink" : "https://www.youtube.com/watch?v=bcIjAr-ZF8U",
   "evaluationTotal" : 72.5
 }, {
   "number" : 26,
@@ -2018,6 +2064,7 @@
   "to" : "Torontalului, colț cu Miresei",
   "via" : "Torontalului",
   "distanceKM" : 0.52,
+  "movieLink" : "https://www.youtube.com/watch?v=sCLHjI4Dfoo",
   "evaluationTotal" : 68.75
 }, {
   "number" : 27,
@@ -2032,10 +2079,10 @@
     "Mașini parcate" : 1.25,
     "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2046,13 +2093,13 @@
     "Mașini parcate" : 0.25,
     "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 10.0,
+    "Conectivitate" : 6.25,
     "Calitate Pistă" : 21.25,
     "Obstacole / observații" : 6.25
   },
@@ -2061,11 +2108,12 @@
   "to" : "Cetății, colț cu Gh. Lazăr",
   "via" : "Bulevardul Cetății",
   "distanceKM" : 1.0,
-  "evaluationTotal" : 37.5
+  "movieLink" : "https://www.youtube.com/watch?v=2W7sBLnnVdE",
+  "evaluationTotal" : 33.75
 }, {
   "number" : 27,
   "direction" : "intors",
-  "segments" : [ "2" ],
+  "segments" : [ "2", "3" ],
   "evaluation" : {
     "Stare" : 7.5,
     "Lățime" : 3.75,
@@ -2078,7 +2126,7 @@
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2092,10 +2140,10 @@
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 10.0,
+    "Conectivitate" : 7.5,
     "Calitate Pistă" : 27.5,
     "Obstacole / observații" : 8.75
   },
@@ -2103,8 +2151,9 @@
   "from" : "Cetății, colț cu Gh. Lazăr",
   "to" : "Cetății, colț cu Torontalului",
   "via" : "Bulevardul Cetății",
-  "distanceKM" : 0.65,
-  "evaluationTotal" : 46.25
+  "distanceKM" : 0.27,
+  "movieLink" : "https://www.youtube.com/watch?v=tomzMSuTL8w",
+  "evaluationTotal" : 43.75
 }, {
   "number" : 28,
   "direction" : "dus",
@@ -2118,10 +2167,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 3.75,
     "Siguranță" : 0.0,
-    "Traversări" : 3.75,
+    "Traversări" : 2.5,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -2132,13 +2181,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.75,
     "Siguranță" : 0.0,
-    "Traversări" : 0.75,
+    "Traversări" : 0.5,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 11.25,
+    "Conectivitate" : 7.5,
     "Calitate Pistă" : 28.75,
     "Obstacole / observații" : 13.75
   },
@@ -2147,7 +2196,8 @@
   "to" : "gh. Lazăr, colț cu Circumvalațiunii",
   "via" : "Strada Gheorghe Lazăr",
   "distanceKM" : 0.65,
-  "evaluationTotal" : 53.75
+  "movieLink" : "https://www.youtube.com/watch?v=eYCVYlgwl4E",
+  "evaluationTotal" : 50.0
 }, {
   "number" : 28,
   "direction" : "intors",
@@ -2164,7 +2214,7 @@
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.25,
@@ -2178,10 +2228,10 @@
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 10.0,
+    "Conectivitate" : 7.5,
     "Calitate Pistă" : 31.25,
     "Obstacole / observații" : 10.0
   },
@@ -2190,7 +2240,8 @@
   "to" : "Gh. Lazăr, colț cu Cetății",
   "via" : "Strada Gheorghe Lazăr",
   "distanceKM" : 0.52,
-  "evaluationTotal" : 51.25
+  "movieLink" : "https://www.youtube.com/watch?v=Tlm19idNeYo",
+  "evaluationTotal" : 48.75
 }, {
   "number" : 29,
   "direction" : "dus",
@@ -2233,6 +2284,7 @@
   "to" : "Circumvalațiunii, colț cu Gh. Lazăr",
   "via" : "Calea Circumvalațiunii",
   "distanceKM" : 0.69,
+  "movieLink" : "https://www.youtube.com/watch?v=LingPXjzQsQ",
   "evaluationTotal" : 48.75
 }, {
   "number" : 29,
@@ -2276,6 +2328,7 @@
   "to" : "Circumvalațiunii, colț cu Torontalului",
   "via" : "Calea Circumvalațiunii",
   "distanceKM" : 0.07,
+  "movieLink" : "https://www.youtube.com/watch?v=NXNS9F2vKEc",
   "evaluationTotal" : 51.25
 }, {
   "number" : 30,
@@ -2290,7 +2343,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 3.75,
     "Rugozitate" : 0.0,
     "Alte piste" : 10.0
@@ -2304,13 +2357,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.0,
     "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 12.5,
+    "Conectivitate" : 11.25,
     "Calitate Pistă" : 28.75,
     "Obstacole / observații" : 16.25
   },
@@ -2319,50 +2372,52 @@
   "to" : "str. Piatra Craiului, colț cu Ferdinand I",
   "via" : "Strada Piatra Craiului",
   "distanceKM" : 0.19,
-  "evaluationTotal" : 57.5
+  "movieLink" : "https://www.youtube.com/watch?v=nNTPo5LEuzk",
+  "evaluationTotal" : 56.25
 }, {
   "number" : 30,
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 5.0,
+    "Borduri" : 7.5,
+    "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.0,
-    "Marcaje" : 0.0,
+    "Siguranță" : 5.0,
+    "Traversări" : 1.25,
+    "Marcaje" : 5.0,
     "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 1.0,
+    "Borduri" : 0.75,
+    "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.0,
-    "Marcaje" : 0.0,
+    "Siguranță" : 0.5,
+    "Traversări" : 0.25,
+    "Marcaje" : 1.0,
     "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 0.0,
-    "Calitate Pistă" : 0.0,
-    "Obstacole / observații" : 0.0
+    "Conectivitate" : 11.25,
+    "Calitate Pistă" : 32.5,
+    "Obstacole / observații" : 10.0
   },
   "remarks" : "",
   "from" : "str. Piatra Craiului, colț cu Ferdinand I",
   "to" : "str. Piatra Craiului, colț cu Republicii",
   "via" : "Strada Piatra Craiului",
   "distanceKM" : 0.17,
-  "evaluationTotal" : 0.0
+  "movieLink" : "",
+  "evaluationTotal" : 53.75
 }, {
   "number" : 31,
   "direction" : "dus",
@@ -2376,7 +2431,7 @@
     "Mașini parcate" : 3.75,
     "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
-    "Traversări" : 5.0,
+    "Traversări" : 2.5,
     "Marcaje" : 2.5,
     "Rugozitate" : 0.0,
     "Alte piste" : 2.5
@@ -2390,13 +2445,13 @@
     "Mașini parcate" : 0.75,
     "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
-    "Traversări" : 1.0,
+    "Traversări" : 0.5,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.0,
     "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 7.5,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 20.0,
     "Obstacole / observații" : 10.0
   },
@@ -2405,50 +2460,52 @@
   "to" : "Piața 700",
   "via" : "Republicii / Sf. Ioan",
   "distanceKM" : 0.52,
-  "evaluationTotal" : 37.5
+  "movieLink" : "https://www.youtube.com/watch?v=pUZf6rN--hU",
+  "evaluationTotal" : 35.0
 }, {
   "number" : 31,
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 3.75,
+    "Borduri" : 2.5,
+    "Observații" : 1.25,
     "Mașini parcate" : 0.0,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.0,
-    "Marcaje" : 0.0,
-    "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Mobilier urban" : 1.25,
+    "Siguranță" : 2.5,
+    "Traversări" : 1.25,
+    "Marcaje" : 5.0,
+    "Rugozitate" : 10.0,
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 0.75,
+    "Borduri" : 0.25,
+    "Observații" : 0.25,
     "Mașini parcate" : 0.0,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.0,
-    "Marcaje" : 0.0,
-    "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Mobilier urban" : 0.25,
+    "Siguranță" : 0.25,
+    "Traversări" : 0.25,
+    "Marcaje" : 1.0,
+    "Rugozitate" : 1.0,
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 0.0,
-    "Calitate Pistă" : 0.0,
-    "Obstacole / observații" : 0.0
+    "Conectivitate" : 3.75,
+    "Calitate Pistă" : 35.0,
+    "Obstacole / observații" : 6.25
   },
   "remarks" : "",
   "from" : "Piața 700",
   "to" : "Piața Regina Maria",
   "via" : "Republicii / Sf. Ioan",
-  "distanceKM" : 0.42,
-  "evaluationTotal" : 0.0
+  "distanceKM" : 0.25,
+  "movieLink" : "",
+  "evaluationTotal" : 45.0
 }, {
   "number" : 32,
   "direction" : "dus",
@@ -2491,6 +2548,7 @@
   "to" : "Podul Traian",
   "via" : "Bulevardul Regele Ferdinand I",
   "distanceKM" : 0.24,
+  "movieLink" : "https://www.youtube.com/watch?v=_inXInZJ7ys",
   "evaluationTotal" : 58.75
 }, {
   "number" : 32,
@@ -2534,6 +2592,7 @@
   "to" : "Piața Victoriei",
   "via" : "Bulevardul Regele Ferdinand I",
   "distanceKM" : 0.36,
+  "movieLink" : "https://www.youtube.com/watch?v=KxFTMVv9_TM",
   "evaluationTotal" : 57.5
 }, {
   "number" : 33,
@@ -2551,7 +2610,7 @@
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
     "Rugozitate" : 5.0,
-    "Alte piste" : 10.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2565,10 +2624,10 @@
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.5,
-    "Alte piste" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 11.25,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 26.25,
     "Obstacole / observații" : 10.0
   },
@@ -2577,7 +2636,8 @@
   "to" : "Arieș, colț cu Rebreanu",
   "via" : "Strada Cluj / Arieș",
   "distanceKM" : 0.28,
-  "evaluationTotal" : 47.5
+  "movieLink" : "https://www.youtube.com/watch?v=PT3_6DTvoyg",
+  "evaluationTotal" : 45.0
 }, {
   "number" : 33,
   "direction" : "intors",
@@ -2594,7 +2654,7 @@
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
     "Rugozitate" : 2.5,
-    "Alte piste" : 10.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2608,10 +2668,10 @@
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.25,
-    "Alte piste" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 11.25,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 22.5,
     "Obstacole / observații" : 10.0
   },
@@ -2620,7 +2680,8 @@
   "to" : "Cluj, colț cu Pârvan",
   "via" : "Strada Cluj / Arieș",
   "distanceKM" : 0.82,
-  "evaluationTotal" : 43.75
+  "movieLink" : "https://www.youtube.com/watch?v=a8RNLHLaW7s",
+  "evaluationTotal" : 41.25
 }, {
   "number" : 34,
   "direction" : "dus",
@@ -2663,11 +2724,12 @@
   "to" : "Pod spre UPT",
   "via" : "Bulevardul Regele Ferdinand I",
   "distanceKM" : 0.29,
+  "movieLink" : "https://www.youtube.com/watch?v=knYFAwTX-Wg",
   "evaluationTotal" : 53.75
 }, {
   "number" : 34,
   "direction" : "intors",
-  "segments" : [ "2", "3" ],
+  "segments" : [ "2" ],
   "evaluation" : {
     "Stare" : 7.5,
     "Lățime" : 3.75,
@@ -2705,7 +2767,8 @@
   "from" : "Pod spre UPT",
   "to" : "Piața Victoriei",
   "via" : "Bulevardul Regele Ferdinand I",
-  "distanceKM" : 0.0,
+  "distanceKM" : 0.19,
+  "movieLink" : "",
   "evaluationTotal" : 51.25
 }, {
   "number" : 35,
@@ -2749,6 +2812,7 @@
   "to" : "Pestalozzi, colț cu Ștefan Cel Mare",
   "via" : "Strada Pestalozzi",
   "distanceKM" : 0.47,
+  "movieLink" : "https://www.youtube.com/watch?v=wmgpUV4pkXw",
   "evaluationTotal" : 45.0
 }, {
   "number" : 35,
@@ -2759,7 +2823,7 @@
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
-    "Observații" : 0.0,
+    "Observații" : 1.25,
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
@@ -2773,7 +2837,7 @@
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
-    "Observații" : 0.0,
+    "Observații" : 0.25,
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
@@ -2785,14 +2849,15 @@
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
     "Calitate Pistă" : 0.0,
-    "Obstacole / observații" : 0.0
+    "Obstacole / observații" : 1.25
   },
   "remarks" : "",
   "from" : "Pestalozzi, colț cu Ștefan Cel Mare",
   "to" : "Pestalozzi, colț cu Coposu",
   "via" : "Strada Pestalozzi",
   "distanceKM" : 0.57,
-  "evaluationTotal" : 0.0
+  "movieLink" : "https://www.youtube.com/watch?v=m2FfUY75hOg",
+  "evaluationTotal" : 1.25
 }, {
   "number" : 36,
   "direction" : "dus",
@@ -2835,6 +2900,7 @@
   "to" : "Piața Consiliul Europei",
   "via" : "Strada Al. Ioan Cuza",
   "distanceKM" : 0.07,
+  "movieLink" : "https://www.youtube.com/watch?v=KbjdXTYbhNU",
   "evaluationTotal" : 56.25
 }, {
   "number" : 36,
@@ -2878,6 +2944,7 @@
   "to" : "Piața Mărăști",
   "via" : "Strada Al. Ioan Cuza",
   "distanceKM" : 0.07,
+  "movieLink" : "https://www.youtube.com/watch?v=_LCEdR59iXU",
   "evaluationTotal" : 55.0
 }, {
   "number" : 37,
@@ -2895,7 +2962,7 @@
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
     "Rugozitate" : 5.0,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2909,10 +2976,10 @@
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.5,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 11.25,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 26.25,
     "Obstacole / observații" : 10.0
   },
@@ -2921,7 +2988,8 @@
   "to" : "Piața Regina Maria",
   "via" : "Bulevardul Regele Ferdinand I",
   "distanceKM" : 0.24,
-  "evaluationTotal" : 47.5
+  "movieLink" : "https://www.youtube.com/watch?v=ut22NG2ppdw",
+  "evaluationTotal" : 45.0
 }, {
   "number" : 38,
   "direction" : "dus",
@@ -2935,10 +3003,10 @@
     "Mașini parcate" : 3.75,
     "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 3.75,
     "Rugozitate" : 7.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2949,13 +3017,13 @@
     "Mașini parcate" : 0.75,
     "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 5.0,
+    "Conectivitate" : 1.25,
     "Calitate Pistă" : 35.0,
     "Obstacole / observații" : 10.0
   },
@@ -2964,7 +3032,8 @@
   "to" : "Take Ionescu, Piata Badea Cartan",
   "via" : "Take Ionescu",
   "distanceKM" : 1.15,
-  "evaluationTotal" : 50.0
+  "movieLink" : "",
+  "evaluationTotal" : 46.25
 }, {
   "number" : 38,
   "direction" : "intors",
@@ -2978,10 +3047,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 7.5,
-    "Traversări" : 3.75,
+    "Traversări" : 1.25,
     "Marcaje" : 2.5,
     "Rugozitate" : 7.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -2992,13 +3061,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.75,
-    "Traversări" : 0.75,
+    "Traversări" : 0.25,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 1.25,
     "Calitate Pistă" : 33.75,
     "Obstacole / observații" : 10.0
   },
@@ -3007,7 +3076,8 @@
   "to" : "Punctele Cardinale",
   "via" : "Take Ionescu",
   "distanceKM" : 1.16,
-  "evaluationTotal" : 50.0
+  "movieLink" : "https://www.youtube.com/watch?v=pYhjd_3r4rc",
+  "evaluationTotal" : 45.0
 }, {
   "number" : 39,
   "direction" : "dus",
@@ -3050,6 +3120,7 @@
   "to" : "Torontalului, colț cu Miresei",
   "via" : "Torontalului",
   "distanceKM" : 1.26,
+  "movieLink" : "https://www.youtube.com/watch?v=xwE8cZk49nA",
   "evaluationTotal" : 53.75
 }, {
   "number" : 39,
@@ -3093,6 +3164,7 @@
   "to" : "Torontalului, colț cu Gr. Alexandrescu",
   "via" : "Torontalului",
   "distanceKM" : 1.27,
+  "movieLink" : "https://www.youtube.com/watch?v=5XjKmHN2xmE",
   "evaluationTotal" : 50.0
 }, {
   "number" : 40,
@@ -3107,7 +3179,7 @@
     "Mașini parcate" : 3.75,
     "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
-    "Traversări" : 5.0,
+    "Traversări" : 3.75,
     "Marcaje" : 3.75,
     "Rugozitate" : 0.0,
     "Alte piste" : 7.5
@@ -3121,13 +3193,13 @@
     "Mașini parcate" : 0.75,
     "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
-    "Traversări" : 1.0,
+    "Traversări" : 0.75,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.0,
     "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 12.5,
+    "Conectivitate" : 11.25,
     "Calitate Pistă" : 25.0,
     "Obstacole / observații" : 12.5
   },
@@ -3136,7 +3208,8 @@
   "to" : "Vasile Pârvan, colț cu Mihai Viteazu",
   "via" : "Vasile Pârvan",
   "distanceKM" : 0.77,
-  "evaluationTotal" : 50.0
+  "movieLink" : "https://www.youtube.com/watch?v=XM5FedFrcig",
+  "evaluationTotal" : 48.75
 }, {
   "number" : 40,
   "direction" : "intors",
@@ -3150,7 +3223,7 @@
     "Mașini parcate" : 3.75,
     "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
-    "Traversări" : 5.0,
+    "Traversări" : 3.75,
     "Marcaje" : 2.5,
     "Rugozitate" : 0.0,
     "Alte piste" : 7.5
@@ -3164,13 +3237,13 @@
     "Mașini parcate" : 0.75,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
-    "Traversări" : 1.0,
+    "Traversări" : 0.75,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.0,
     "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 12.5,
+    "Conectivitate" : 11.25,
     "Calitate Pistă" : 21.25,
     "Obstacole / observații" : 15.0
   },
@@ -3179,11 +3252,12 @@
   "to" : "Vasile Pârvan, colț cu Cluj",
   "via" : "Vasile Pârvan",
   "distanceKM" : 0.77,
-  "evaluationTotal" : 48.75
+  "movieLink" : "https://www.youtube.com/watch?v=nsGFUB1xQq4",
+  "evaluationTotal" : 47.5
 }, {
   "number" : 41,
   "direction" : "dus",
-  "segments" : [ "1" ],
+  "segments" : [ "1", "2" ],
   "evaluation" : {
     "Stare" : 3.75,
     "Lățime" : 3.75,
@@ -3221,7 +3295,8 @@
   "from" : "Loga, colț cu 20 decembrie 1989",
   "to" : "Loga, colț cu Michelangelo",
   "via" : "Bulevardul C.D. Loga",
-  "distanceKM" : 0.14,
+  "distanceKM" : 0.51,
+  "movieLink" : "https://www.youtube.com/watch?v=urodjXyPg4w",
   "evaluationTotal" : 48.75
 }, {
   "number" : 42,
@@ -3230,57 +3305,14 @@
   "evaluation" : {
     "Stare" : 7.5,
     "Lățime" : 3.75,
-    "Curățenie" : 3.75,
+    "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
-    "Traversări" : 3.75,
-    "Marcaje" : 1.25,
-    "Rugozitate" : 5.0,
-    "Alte piste" : 10.0
-  },
-  "evaluationPercentage" : {
-    "Stare" : 0.5,
-    "Lățime" : 0.25,
-    "Curățenie" : 0.75,
-    "Borduri" : 0.5,
-    "Observații" : 0.5,
-    "Mașini parcate" : 1.0,
-    "Mobilier urban" : 0.75,
-    "Siguranță" : 0.5,
-    "Traversări" : 0.75,
-    "Marcaje" : 0.25,
-    "Rugozitate" : 0.5,
-    "Alte piste" : 1.0
-  },
-  "evaluationByCategories" : {
-    "Conectivitate" : 13.75,
-    "Calitate Pistă" : 27.5,
-    "Obstacole / observații" : 15.0
-  },
-  "remarks" : "",
-  "from" : "Strada Michelangelo, colț cu Ion. I.C. Brărianu",
-  "to" : "Pasaj Michelangelo",
-  "via" : "Strada Michelangelo",
-  "distanceKM" : 0.53,
-  "evaluationTotal" : 56.25
-}, {
-  "number" : 42,
-  "direction" : "intors",
-  "segments" : [ "2" ],
-  "evaluation" : {
-    "Stare" : 7.5,
-    "Lățime" : 3.75,
-    "Curățenie" : 2.5,
-    "Borduri" : 5.0,
-    "Observații" : 2.5,
-    "Mașini parcate" : 1.25,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 5.0,
-    "Traversări" : 3.75,
-    "Marcaje" : 1.25,
+    "Traversări" : 2.5,
+    "Marcaje" : 2.5,
     "Rugozitate" : 5.0,
     "Alte piste" : 10.0
   },
@@ -3290,25 +3322,70 @@
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
-    "Mașini parcate" : 0.25,
-    "Mobilier urban" : 0.0,
+    "Mașini parcate" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
-    "Traversări" : 0.75,
-    "Marcaje" : 0.25,
+    "Traversări" : 0.5,
+    "Marcaje" : 0.5,
     "Rugozitate" : 0.5,
     "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 13.75,
-    "Calitate Pistă" : 27.5,
-    "Obstacole / observații" : 6.25
+    "Conectivitate" : 12.5,
+    "Calitate Pistă" : 28.75,
+    "Obstacole / observații" : 13.75
+  },
+  "remarks" : "",
+  "from" : "Strada Michelangelo, colț cu Ion. I.C. Brărianu",
+  "to" : "Pasaj Michelangelo",
+  "via" : "Strada Michelangelo",
+  "distanceKM" : 0.53,
+  "movieLink" : "",
+  "evaluationTotal" : 55.0
+}, {
+  "number" : 42,
+  "direction" : "intors",
+  "segments" : [ "2" ],
+  "evaluation" : {
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 3.75,
+    "Borduri" : 5.0,
+    "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
+    "Mobilier urban" : 2.5,
+    "Siguranță" : 2.5,
+    "Traversări" : 3.75,
+    "Marcaje" : 3.75,
+    "Rugozitate" : 0.0,
+    "Alte piste" : 5.0
+  },
+  "evaluationPercentage" : {
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 0.75,
+    "Borduri" : 0.5,
+    "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
+    "Mobilier urban" : 0.5,
+    "Siguranță" : 0.25,
+    "Traversări" : 0.75,
+    "Marcaje" : 0.75,
+    "Rugozitate" : 0.0,
+    "Alte piste" : 0.5
+  },
+  "evaluationByCategories" : {
+    "Conectivitate" : 8.75,
+    "Calitate Pistă" : 26.25,
+    "Obstacole / observații" : 11.25
   },
   "remarks" : "",
   "from" : "Pasaj Michelangelo",
   "to" : "Strada Michelangelo, colț cu Ion. I.C. Brărianu",
   "via" : "Strada Michelangelo",
-  "distanceKM" : 0.51,
-  "evaluationTotal" : 47.5
+  "distanceKM" : 0.27,
+  "movieLink" : "",
+  "evaluationTotal" : 46.25
 }, {
   "number" : 43,
   "direction" : "dus",
@@ -3351,6 +3428,7 @@
   "to" : "Loga, colț cu Revoluției din 1989",
   "via" : "Bulevardul C.D. Loga",
   "distanceKM" : 0.5,
+  "movieLink" : "https://www.youtube.com/watch?v=aICYVnRiLWU",
   "evaluationTotal" : 52.5
 }, {
   "number" : 43,
@@ -3365,7 +3443,7 @@
     "Mașini parcate" : 1.25,
     "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
-    "Traversări" : 0.0,
+    "Traversări" : 1.25,
     "Marcaje" : 2.5,
     "Rugozitate" : 7.5,
     "Alte piste" : 5.0
@@ -3379,13 +3457,13 @@
     "Mașini parcate" : 0.25,
     "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
-    "Traversări" : 0.0,
+    "Traversări" : 0.25,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.75,
     "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 5.0,
+    "Conectivitate" : 6.25,
     "Calitate Pistă" : 26.25,
     "Obstacole / observații" : 8.75
   },
@@ -3394,7 +3472,8 @@
   "to" : "Loga, colț cu Michelangelo",
   "via" : "Bulevardul C.D. Loga",
   "distanceKM" : 0.51,
-  "evaluationTotal" : 40.0
+  "movieLink" : "https://www.youtube.com/watch?v=MWpwwQAuXZ8",
+  "evaluationTotal" : 41.25
 }, {
   "number" : 44,
   "direction" : "dus",
@@ -3408,10 +3487,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 7.5,
-    "Traversări" : 3.75,
+    "Traversări" : 1.25,
     "Marcaje" : 1.25,
     "Rugozitate" : 10.0,
-    "Alte piste" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
     "Stare" : 1.0,
@@ -3422,13 +3501,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.75,
-    "Traversări" : 0.75,
+    "Traversări" : 0.25,
     "Marcaje" : 0.25,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 8.75,
+    "Conectivitate" : 3.75,
     "Calitate Pistă" : 45.0,
     "Obstacole / observații" : 13.75
   },
@@ -3437,7 +3516,8 @@
   "to" : "Ion. I.C. Brărianu, colț cu Revoluției 1989",
   "via" : "Bulevardul Ion I.C. Brătianu",
   "distanceKM" : 0.27,
-  "evaluationTotal" : 67.5
+  "movieLink" : "https://www.youtube.com/watch?v=5sluFsMY2GY",
+  "evaluationTotal" : 62.5
 }, {
   "number" : 44,
   "direction" : "intors",
@@ -3451,10 +3531,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
-    "Traversări" : 3.75,
+    "Traversări" : 2.5,
     "Marcaje" : 1.25,
     "Rugozitate" : 10.0,
-    "Alte piste" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -3465,13 +3545,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
-    "Traversări" : 0.75,
+    "Traversări" : 0.5,
     "Marcaje" : 0.25,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 8.75,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 43.75,
     "Obstacole / observații" : 16.25
   },
@@ -3480,7 +3560,8 @@
   "to" : "Ion. I.C. Brărianu, colț cu Michelangelo",
   "via" : "Bulevardul Ion I.C. Brătianu",
   "distanceKM" : 0.24,
-  "evaluationTotal" : 68.75
+  "movieLink" : "https://www.youtube.com/watch?v=nnMVwgk_pRw",
+  "evaluationTotal" : 65.0
 }, {
   "number" : 45,
   "direction" : "dus",
@@ -3494,7 +3575,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
-    "Traversări" : 3.75,
+    "Traversări" : 1.25,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 2.5
@@ -3508,13 +3589,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
-    "Traversări" : 0.75,
+    "Traversări" : 0.25,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 3.75,
     "Calitate Pistă" : 43.75,
     "Obstacole / observații" : 16.25
   },
@@ -3523,7 +3604,8 @@
   "to" : "Carol Telbisz, colț cu Proclamația de la Timișoara",
   "via" : "Carol Telbisz",
   "distanceKM" : 0.26,
-  "evaluationTotal" : 66.25
+  "movieLink" : "",
+  "evaluationTotal" : 63.75
 }, {
   "number" : 45,
   "direction" : "intors",
@@ -3537,7 +3619,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
-    "Traversări" : 3.75,
+    "Traversări" : 1.25,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 2.5
@@ -3551,13 +3633,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
-    "Traversări" : 0.75,
+    "Traversări" : 0.25,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 3.75,
     "Calitate Pistă" : 46.25,
     "Obstacole / observații" : 16.25
   },
@@ -3566,7 +3648,8 @@
   "to" : "Carol Telbisz, colț cu Ion I.C. Brătianu",
   "via" : "Carol Telbisz",
   "distanceKM" : 0.26,
-  "evaluationTotal" : 68.75
+  "movieLink" : "",
+  "evaluationTotal" : 66.25
 }, {
   "number" : 46,
   "direction" : "dus",
@@ -3609,6 +3692,7 @@
   "to" : "Ion. I.C. Brărianu, colț cu Carol Telbisz",
   "via" : "Bulevardul Ion I.C. Brătianu",
   "distanceKM" : 0.26,
+  "movieLink" : "",
   "evaluationTotal" : 65.0
 }, {
   "number" : 47,
@@ -3652,6 +3736,7 @@
   "to" : "Batania, colț cu Torac",
   "via" : "Strada Batania",
   "distanceKM" : 0.36,
+  "movieLink" : "",
   "evaluationTotal" : 51.25
 }, {
   "number" : 47,
@@ -3695,6 +3780,7 @@
   "to" : "Batania, colț cu Stan Vidrighin",
   "via" : "Strada Batania",
   "distanceKM" : 0.36,
+  "movieLink" : "",
   "evaluationTotal" : 52.5
 }, {
   "number" : 48,
@@ -3738,6 +3824,7 @@
   "to" : "Sens giratoriu - bulevardul Antenei",
   "via" : "Calea Alexandru Ioan Cuza",
   "distanceKM" : 0.14,
+  "movieLink" : "",
   "evaluationTotal" : 0.0
 }, {
   "number" : 48,
@@ -3781,6 +3868,7 @@
   "to" : "Calea Alexandru Ioan Cuza",
   "via" : "Calea Alexandru Ioan Cuza",
   "distanceKM" : 0.44,
+  "movieLink" : "",
   "evaluationTotal" : 0.0
 }, {
   "number" : 49,
@@ -3795,7 +3883,7 @@
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 2.5,
     "Rugozitate" : 10.0,
     "Alte piste" : 0.0
@@ -3809,13 +3897,13 @@
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.5,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 2.5,
+    "Conectivitate" : 1.25,
     "Calitate Pistă" : 27.5,
     "Obstacole / observații" : 6.25
   },
@@ -3824,7 +3912,8 @@
   "to" : "Aradului, colț cu Liege",
   "via" : "Calea Aradului",
   "distanceKM" : 0.5,
-  "evaluationTotal" : 36.25
+  "movieLink" : "",
+  "evaluationTotal" : 35.0
 }, {
   "number" : 49,
   "direction" : "intors",
@@ -3838,7 +3927,7 @@
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 2.5,
     "Rugozitate" : 10.0,
     "Alte piste" : 0.0
@@ -3852,13 +3941,13 @@
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.5,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 2.5,
+    "Conectivitate" : 1.25,
     "Calitate Pistă" : 33.75,
     "Obstacole / observații" : 10.0
   },
@@ -3867,7 +3956,8 @@
   "to" : "Aradului, colț cu Amurgului",
   "via" : "Calea Aradului",
   "distanceKM" : 0.52,
-  "evaluationTotal" : 46.25
+  "movieLink" : "",
+  "evaluationTotal" : 45.0
 }, {
   "number" : 50,
   "direction" : "dus",
@@ -3884,7 +3974,7 @@
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -3898,10 +3988,10 @@
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 2.5,
+    "Conectivitate" : 0.0,
     "Calitate Pistă" : 25.0,
     "Obstacole / observații" : 3.75
   },
@@ -3910,7 +4000,8 @@
   "to" : "Simion Bărnuțiu, colț cu Dorobanților",
   "via" : "Simion Bărnuțiu",
   "distanceKM" : 1.06,
-  "evaluationTotal" : 31.25
+  "movieLink" : "",
+  "evaluationTotal" : 28.75
 }, {
   "number" : 50,
   "direction" : "intors",
@@ -3927,7 +4018,7 @@
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -3941,10 +4032,10 @@
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 2.5,
+    "Conectivitate" : 0.0,
     "Calitate Pistă" : 25.0,
     "Obstacole / observații" : 2.5
   },
@@ -3953,7 +4044,8 @@
   "to" : "Piata Badea Cartan",
   "via" : "Simion Bărnuțiu",
   "distanceKM" : 1.07,
-  "evaluationTotal" : 30.0
+  "movieLink" : "",
+  "evaluationTotal" : 27.5
 }, {
   "number" : 51,
   "direction" : "dus",
@@ -3967,10 +4059,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
-    "Traversări" : 5.0,
+    "Traversări" : 2.5,
     "Marcaje" : 5.0,
     "Rugozitate" : 10.0,
-    "Alte piste" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -3981,13 +4073,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
-    "Traversări" : 1.0,
+    "Traversări" : 0.5,
     "Marcaje" : 1.0,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 10.0,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 45.0,
     "Obstacole / observații" : 17.5
   },
@@ -3996,7 +4088,8 @@
   "to" : "Gheorghe Lazăr, colț cu Gheorghe Dima",
   "via" : "strada Mărășești / Gheorghe Lazăr",
   "distanceKM" : 0.46,
-  "evaluationTotal" : 72.5
+  "movieLink" : "",
+  "evaluationTotal" : 67.5
 }, {
   "number" : 51,
   "direction" : "intors",
@@ -4010,10 +4103,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
-    "Traversări" : 5.0,
+    "Traversări" : 2.5,
     "Marcaje" : 5.0,
     "Rugozitate" : 10.0,
-    "Alte piste" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -4024,13 +4117,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
-    "Traversări" : 1.0,
+    "Traversări" : 0.5,
     "Marcaje" : 1.0,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 10.0,
+    "Conectivitate" : 5.0,
     "Calitate Pistă" : 47.5,
     "Obstacole / observații" : 17.5
   },
@@ -4039,7 +4132,8 @@
   "to" : "Piața Victoriei",
   "via" : "strada Mărășești / Gheorghe Lazăr",
   "distanceKM" : 0.47,
-  "evaluationTotal" : 75.0
+  "movieLink" : "",
+  "evaluationTotal" : 70.0
 }, {
   "number" : 52,
   "direction" : "dus",
@@ -4082,6 +4176,7 @@
   "to" : "Parcul Botanic",
   "via" : "strada Gheorghe Dima",
   "distanceKM" : 0.12,
+  "movieLink" : "",
   "evaluationTotal" : 60.0
 }, {
   "number" : 52,
@@ -4125,6 +4220,7 @@
   "to" : "Gheorghe Dima, colț cu Gheorghe Lazăr",
   "via" : "strada Gheorghe Dima",
   "distanceKM" : 0.11,
+  "movieLink" : "",
   "evaluationTotal" : 71.25
 }, {
   "number" : 53,
@@ -4168,6 +4264,7 @@
   "to" : "Solventul",
   "via" : "Malurile Begăi",
   "distanceKM" : 0.96,
+  "movieLink" : "",
   "evaluationTotal" : 57.5
 }, {
   "number" : 53,
@@ -4211,6 +4308,7 @@
   "to" : "Uzina de apă - Plopi",
   "via" : "Malurile Begăi",
   "distanceKM" : 0.51,
+  "movieLink" : "",
   "evaluationTotal" : 62.5
 }, {
   "number" : 54,
@@ -4225,7 +4323,7 @@
     "Mașini parcate" : 1.25,
     "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 1.25,
     "Rugozitate" : 7.5,
     "Alte piste" : 10.0
@@ -4239,13 +4337,13 @@
     "Mașini parcate" : 0.25,
     "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.25,
     "Rugozitate" : 0.75,
     "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 12.5,
+    "Conectivitate" : 11.25,
     "Calitate Pistă" : 30.0,
     "Obstacole / observații" : 7.5
   },
@@ -4254,7 +4352,8 @@
   "to" : "Strada Cluj",
   "via" : "Victor Babes",
   "distanceKM" : 0.8,
-  "evaluationTotal" : 50.0
+  "movieLink" : "",
+  "evaluationTotal" : 48.75
 }, {
   "number" : 54,
   "direction" : "intors",
@@ -4297,6 +4396,7 @@
   "to" : "Mihai Viteazul",
   "via" : "Victor Babes",
   "distanceKM" : 0.8,
+  "movieLink" : "",
   "evaluationTotal" : 47.5
 }, {
   "number" : 55,
@@ -4340,6 +4440,7 @@
   "to" : "Calea Martirilor",
   "via" : "Eneas / Diaconu Coresi",
   "distanceKM" : 2.43,
+  "movieLink" : "",
   "evaluationTotal" : 46.25
 }, {
   "number" : 55,
@@ -4383,6 +4484,7 @@
   "to" : "Calea Șagului",
   "via" : "Eneas / Diaconu Coresi",
   "distanceKM" : 2.43,
+  "movieLink" : "",
   "evaluationTotal" : 48.75
 }, {
   "number" : 56,
@@ -4426,6 +4528,7 @@
   "to" : "Gazprom",
   "via" : "Sens giratoriu - Antenei",
   "distanceKM" : 0.24,
+  "movieLink" : "",
   "evaluationTotal" : 67.5
 }, {
   "number" : 57,
@@ -4469,6 +4572,7 @@
   "to" : "Sens giratoriu - Galeria 1",
   "via" : "Bvd. Antenei",
   "distanceKM" : 0.35,
+  "movieLink" : "",
   "evaluationTotal" : 65.0
 }, {
   "number" : 57,
@@ -4512,6 +4616,7 @@
   "to" : "Sens giratoriu - Gazprom",
   "via" : "Bvd. Antenei",
   "distanceKM" : 0.34,
+  "movieLink" : "",
   "evaluationTotal" : 65.0
 }, {
   "number" : 58,
@@ -4555,6 +4660,7 @@
   "to" : "Continental Automotive",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.71,
+  "movieLink" : "",
   "evaluationTotal" : 53.75
 }, {
   "number" : 58,
@@ -4598,6 +4704,7 @@
   "to" : "Sens Giratoriu AEM",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.71,
+  "movieLink" : "",
   "evaluationTotal" : 53.75
 }, {
   "number" : 59,
@@ -4641,6 +4748,7 @@
   "to" : "Coriolan Brediceanu",
   "via" : "Calea Circumvalatiunii",
   "distanceKM" : 0.08,
+  "movieLink" : "",
   "evaluationTotal" : 52.5
 }, {
   "number" : 60,
@@ -4655,10 +4763,10 @@
     "Mașini parcate" : 2.5,
     "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
-    "Traversări" : 5.0,
+    "Traversări" : 2.5,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
-    "Alte piste" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
     "Stare" : 1.0,
@@ -4669,13 +4777,13 @@
     "Mașini parcate" : 0.5,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
-    "Traversări" : 1.0,
+    "Traversări" : 0.5,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 7.5,
+    "Conectivitate" : 2.5,
     "Calitate Pistă" : 50.0,
     "Obstacole / observații" : 17.5
   },
@@ -4684,7 +4792,8 @@
   "to" : "Viaduct - Piața 700 (CBC)",
   "via" : "Str. Coriolan Brediceanu",
   "distanceKM" : 0.22,
-  "evaluationTotal" : 75.0
+  "movieLink" : "",
+  "evaluationTotal" : 70.0
 }, {
   "number" : 60,
   "direction" : "intors",
@@ -4698,10 +4807,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
-    "Traversări" : 5.0,
+    "Traversări" : 2.5,
     "Marcaje" : 3.75,
     "Rugozitate" : 7.5,
-    "Alte piste" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.75,
@@ -4712,13 +4821,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
-    "Traversări" : 1.0,
+    "Traversări" : 0.5,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 7.5,
+    "Conectivitate" : 2.5,
     "Calitate Pistă" : 41.25,
     "Obstacole / observații" : 17.5
   },
@@ -4727,7 +4836,8 @@
   "to" : "Calea Circumvalatiunii",
   "via" : "Str. Coriolan Brediceanu",
   "distanceKM" : 0.22,
-  "evaluationTotal" : 66.25
+  "movieLink" : "",
+  "evaluationTotal" : 61.25
 }, {
   "number" : 61,
   "direction" : "dus",
@@ -4770,6 +4880,7 @@
   "to" : "Strada Gh. Lazar",
   "via" : "Str. Nikolaus Berwanger",
   "distanceKM" : 0.23,
+  "movieLink" : "",
   "evaluationTotal" : 51.25
 }, {
   "number" : 62,
@@ -4813,6 +4924,7 @@
   "to" : "Strada Gh. Lazar",
   "via" : "Str. Gheorghe Dima",
   "distanceKM" : 0.24,
+  "movieLink" : "",
   "evaluationTotal" : 48.75
 }, {
   "number" : 63,
@@ -4830,7 +4942,7 @@
     "Traversări" : 5.0,
     "Marcaje" : 3.75,
     "Rugozitate" : 7.5,
-    "Alte piste" : 10.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -4844,10 +4956,10 @@
     "Traversări" : 1.0,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.75,
-    "Alte piste" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 15.0,
+    "Conectivitate" : 12.5,
     "Calitate Pistă" : 36.25,
     "Obstacole / observații" : 15.0
   },
@@ -4856,7 +4968,8 @@
   "to" : "Strada Paris",
   "via" : "Str. Colonel Enescu",
   "distanceKM" : 0.12,
-  "evaluationTotal" : 66.25
+  "movieLink" : "",
+  "evaluationTotal" : 63.75
 }, {
   "number" : 64,
   "direction" : "dus",
@@ -4870,10 +4983,10 @@
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
-    "Traversări" : 3.75,
+    "Traversări" : 2.5,
     "Marcaje" : 3.75,
     "Rugozitate" : 7.5,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -4884,13 +4997,13 @@
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
-    "Traversări" : 0.75,
+    "Traversări" : 0.5,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.75,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 11.25,
+    "Conectivitate" : 7.5,
     "Calitate Pistă" : 32.5,
     "Obstacole / observații" : 6.25
   },
@@ -4899,7 +5012,8 @@
   "to" : "Bvd. Republicii",
   "via" : "Str. Paris",
   "distanceKM" : 0.4,
-  "evaluationTotal" : 50.0
+  "movieLink" : "",
+  "evaluationTotal" : 46.25
 }, {
   "number" : 65,
   "direction" : "dus",
@@ -4913,7 +5027,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
-    "Traversări" : 1.25,
+    "Traversări" : 0.0,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 0.0
@@ -4927,13 +5041,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
-    "Traversări" : 0.25,
+    "Traversări" : 0.0,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 1.25,
+    "Conectivitate" : 0.0,
     "Calitate Pistă" : 35.0,
     "Obstacole / observații" : 13.75
   },
@@ -4942,7 +5056,8 @@
   "to" : "Calea Stan Vidrighin",
   "via" : "Str. Aurel Paunescu Podeanu",
   "distanceKM" : 0.99,
-  "evaluationTotal" : 50.0
+  "movieLink" : "",
+  "evaluationTotal" : 48.75
 }, {
   "number" : 65,
   "direction" : "intors",
@@ -4956,7 +5071,7 @@
     "Mașini parcate" : 3.75,
     "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
-    "Traversări" : 2.5,
+    "Traversări" : 1.25,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 0.0
@@ -4970,13 +5085,13 @@
     "Mașini parcate" : 0.75,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
-    "Traversări" : 0.5,
+    "Traversări" : 0.25,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 2.5,
+    "Conectivitate" : 1.25,
     "Calitate Pistă" : 43.75,
     "Obstacole / observații" : 13.75
   },
@@ -4985,7 +5100,8 @@
   "to" : "Sens giratoriu - stadion",
   "via" : "Str. Aurel Paunescu Podeanu",
   "distanceKM" : 0.91,
-  "evaluationTotal" : 60.0
+  "movieLink" : "",
+  "evaluationTotal" : 58.75
 }, {
   "number" : 66,
   "direction" : "dus",
@@ -5028,6 +5144,7 @@
   "to" : "Sens giratoriu - piata Iosefin",
   "via" : "Str. Iancu Vacarescu",
   "distanceKM" : 0.65,
+  "movieLink" : "",
   "evaluationTotal" : 53.75
 }, {
   "number" : 66,
@@ -5071,6 +5188,7 @@
   "to" : "Splai Tudor Vladimirescu",
   "via" : "Str. Iancu Vacarescu",
   "distanceKM" : 0.64,
+  "movieLink" : "",
   "evaluationTotal" : 57.5
 }, {
   "number" : 67,
@@ -5114,6 +5232,7 @@
   "to" : "Bvd. Republicii",
   "via" : "Str. General Ion Dragalina",
   "distanceKM" : 0.14,
+  "movieLink" : "",
   "evaluationTotal" : 36.25
 }, {
   "number" : 67,
@@ -5157,6 +5276,7 @@
   "to" : "Splai Nicolae Titulescu",
   "via" : "Str. General Ion Dragalina",
   "distanceKM" : 0.17,
+  "movieLink" : "",
   "evaluationTotal" : 48.75
 }, {
   "number" : 68,
@@ -5199,7 +5319,8 @@
   "from" : "Piata Marasti",
   "to" : "Piata Marasti",
   "via" : "Piața Mărăști",
-  "distanceKM" : 0.27,
+  "distanceKM" : 0.35,
+  "movieLink" : "",
   "evaluationTotal" : 63.75
 }, {
   "number" : 69,
@@ -5243,6 +5364,7 @@
   "to" : "SSI Schaefer",
   "via" : "Bulevardul Industriei",
   "distanceKM" : 0.48,
+  "movieLink" : "",
   "evaluationTotal" : 41.25
 }, {
   "number" : 70,
@@ -5286,6 +5408,7 @@
   "to" : "Eroilor",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.37,
+  "movieLink" : "",
   "evaluationTotal" : 57.5
 }, {
   "number" : 70,
@@ -5296,7 +5419,7 @@
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
-    "Observații" : 0.0,
+    "Observații" : 1.25,
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
@@ -5310,7 +5433,7 @@
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
-    "Observații" : 0.0,
+    "Observații" : 0.25,
     "Mașini parcate" : 0.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
@@ -5322,14 +5445,15 @@
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
     "Calitate Pistă" : 0.0,
-    "Obstacole / observații" : 0.0
+    "Obstacole / observații" : 1.25
   },
   "remarks" : "",
   "from" : "Eroilor",
   "to" : "Michelangelo",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.37,
-  "evaluationTotal" : 0.0
+  "movieLink" : "",
+  "evaluationTotal" : 1.25
 }, {
   "number" : 71,
   "direction" : "dus",
@@ -5343,7 +5467,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 2.5,
     "Siguranță" : 10.0,
-    "Traversări" : 5.0,
+    "Traversări" : 1.25,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 2.5
@@ -5357,13 +5481,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.5,
     "Siguranță" : 1.0,
-    "Traversări" : 1.0,
+    "Traversări" : 0.25,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 7.5,
+    "Conectivitate" : 3.75,
     "Calitate Pistă" : 46.25,
     "Obstacole / observații" : 12.5
   },
@@ -5372,7 +5496,52 @@
   "to" : "Str. Spatarul Milescu",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.11,
-  "evaluationTotal" : 66.25
+  "movieLink" : "",
+  "evaluationTotal" : 62.5
+}, {
+  "number" : 71,
+  "direction" : "intors",
+  "segments" : [ "2" ],
+  "evaluation" : {
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 2.5,
+    "Borduri" : 7.5,
+    "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
+    "Mobilier urban" : 2.5,
+    "Siguranță" : 10.0,
+    "Traversări" : 1.25,
+    "Marcaje" : 3.75,
+    "Rugozitate" : 10.0,
+    "Alte piste" : 2.5
+  },
+  "evaluationPercentage" : {
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 0.5,
+    "Borduri" : 0.75,
+    "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
+    "Mobilier urban" : 0.5,
+    "Siguranță" : 1.0,
+    "Traversări" : 0.25,
+    "Marcaje" : 0.75,
+    "Rugozitate" : 1.0,
+    "Alte piste" : 0.25
+  },
+  "evaluationByCategories" : {
+    "Conectivitate" : 3.75,
+    "Calitate Pistă" : 46.25,
+    "Obstacole / observații" : 11.25
+  },
+  "remarks" : "",
+  "from" : "Str. Spatarul Milescu",
+  "to" : "Str. Matei Millo",
+  "via" : "Calea Buziasului",
+  "distanceKM" : 0.0,
+  "movieLink" : "",
+  "evaluationTotal" : 61.25
 }, {
   "number" : 72,
   "direction" : "dus",
@@ -5386,10 +5555,10 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
-    "Traversări" : 5.0,
+    "Traversări" : 3.75,
     "Marcaje" : 3.75,
     "Rugozitate" : 0.0,
-    "Alte piste" : 7.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
@@ -5400,13 +5569,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
-    "Traversări" : 1.0,
+    "Traversări" : 0.75,
     "Marcaje" : 0.75,
     "Rugozitate" : 0.0,
-    "Alte piste" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 12.5,
+    "Conectivitate" : 8.75,
     "Calitate Pistă" : 27.5,
     "Obstacole / observații" : 8.75
   },
@@ -5415,7 +5584,8 @@
   "to" : "Str. Ady Endre",
   "via" : "Bvd. 16 Decembrie 1989",
   "distanceKM" : 0.4,
-  "evaluationTotal" : 48.75
+  "movieLink" : "",
+  "evaluationTotal" : 45.0
 }, {
   "number" : 73,
   "direction" : "dus",
@@ -5458,6 +5628,7 @@
   "to" : "Piata N. Balcescu",
   "via" : "Str. Ciprian Porumbescu",
   "distanceKM" : 0.33,
+  "movieLink" : "",
   "evaluationTotal" : 25.0
 }, {
   "number" : 73,
@@ -5501,6 +5672,7 @@
   "to" : "Bvd. C-tin Brancoveanu",
   "via" : "Str. Ciprian Porumbescu",
   "distanceKM" : 0.37,
+  "movieLink" : "",
   "evaluationTotal" : 40.0
 }, {
   "number" : 74,
@@ -5544,6 +5716,7 @@
   "to" : "Bvd. C D Loga",
   "via" : "Str. 20 Decembrie 1989",
   "distanceKM" : 0.07,
+  "movieLink" : "",
   "evaluationTotal" : 46.25
 }, {
   "number" : 75,
@@ -5587,6 +5760,7 @@
   "to" : "Sens Giratoriu Pestalozzi",
   "via" : "Bvd. Corneliu Coposu",
   "distanceKM" : 0.53,
+  "movieLink" : "",
   "evaluationTotal" : 58.75
 }, {
   "number" : 75,
@@ -5630,6 +5804,7 @@
   "to" : "Pasaj Michelangelo",
   "via" : "Bvd. Corneliu Coposu",
   "distanceKM" : 0.63,
+  "movieLink" : "",
   "evaluationTotal" : 58.75
 }, {
   "number" : 76,
@@ -5673,6 +5848,7 @@
   "to" : "Str. Michelangelo",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.34,
+  "movieLink" : "",
   "evaluationTotal" : 43.75
 }, {
   "number" : 76,
@@ -5716,6 +5892,7 @@
   "to" : "Bvd. Revolutiei",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.35,
+  "movieLink" : "",
   "evaluationTotal" : 50.0
 }, {
   "number" : 77,
@@ -5759,6 +5936,7 @@
   "to" : "Str. 20 Decembrie 1989",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.43,
+  "movieLink" : "",
   "evaluationTotal" : 58.75
 }, {
   "number" : 77,
@@ -5802,6 +5980,7 @@
   "to" : "Str. Michelangelo",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.42,
+  "movieLink" : "",
   "evaluationTotal" : 41.25
 }, {
   "number" : 78,
@@ -5845,6 +6024,7 @@
   "to" : "Str. Gradinii",
   "via" : "Intrare Shopping Mall Timisoara",
   "distanceKM" : 0.47,
+  "movieLink" : "",
   "evaluationTotal" : 82.5
 }, {
   "number" : 79,
@@ -5888,6 +6068,7 @@
   "to" : "Calea Urseni",
   "via" : "Str. Musicescu",
   "distanceKM" : 0.11,
+  "movieLink" : "",
   "evaluationTotal" : 40.0
 }, {
   "number" : 79,
@@ -5931,6 +6112,7 @@
   "to" : "Str. Panselelor",
   "via" : "Str. Musicescu",
   "distanceKM" : 0.65,
+  "movieLink" : "",
   "evaluationTotal" : 48.75
 }, {
   "number" : 80,
@@ -5974,6 +6156,7 @@
   "to" : "Pasaj Sacalaz",
   "via" : "Str. Locotenent Ovidiu Balea",
   "distanceKM" : 0.72,
+  "movieLink" : "",
   "evaluationTotal" : 48.75
 }, {
   "number" : 81,
@@ -6017,6 +6200,7 @@
   "to" : "Str. 1 Decembrie 1918",
   "via" : "Calea Stefan cel Mare",
   "distanceKM" : 0.46,
+  "movieLink" : "",
   "evaluationTotal" : 46.25
 }, {
   "number" : 81,
@@ -6060,6 +6244,7 @@
   "to" : "Str. Stefan Octavian Iosif",
   "via" : "Calea Stefan cel Mare",
   "distanceKM" : 0.4,
+  "movieLink" : "",
   "evaluationTotal" : 42.5
 }, {
   "number" : 82,
@@ -6099,10 +6284,11 @@
     "Obstacole / observații" : 0.0
   },
   "remarks" : "",
-  "from" : "Str. Mures",
-  "to" : "Str. Musicescu",
-  "via" : "Str. Gheorghe Cotosman",
-  "distanceKM" : 0.34,
+  "from" : "Str. 20. Decembrie 1989",
+  "to" : "Piața Victoriei",
+  "via" : "C.D. Loga",
+  "distanceKM" : 0.14,
+  "movieLink" : "",
   "evaluationTotal" : 13.75
 }, {
   "number" : 83,
@@ -6146,6 +6332,7 @@
   "to" : "Aleea Cristalului",
   "via" : "Str. Versului / Sănătății",
   "distanceKM" : 0.58,
+  "movieLink" : "",
   "evaluationTotal" : 56.25
 }, {
   "number" : 83,
@@ -6189,6 +6376,7 @@
   "to" : "Str. Martir Ioan Stanciu",
   "via" : "Str. Versului / Sănătății",
   "distanceKM" : 0.58,
+  "movieLink" : "",
   "evaluationTotal" : 60.0
 }, {
   "number" : 84,
@@ -6232,6 +6420,7 @@
   "to" : "Bvd. Corneliu Coposu",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.18,
+  "movieLink" : "",
   "evaluationTotal" : 57.5
 }, {
   "number" : 84,
@@ -6275,6 +6464,7 @@
   "to" : "Eroilor",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.18,
+  "movieLink" : "",
   "evaluationTotal" : 47.5
 }, {
   "number" : 85,
@@ -6318,6 +6508,7 @@
   "to" : "capat",
   "via" : "Str. Chimistilor",
   "distanceKM" : 0.27,
+  "movieLink" : "",
   "evaluationTotal" : 56.25
 }, {
   "number" : 85,
@@ -6361,6 +6552,7 @@
   "to" : "Calea Stan Vidrighin",
   "via" : "Str. Chimistilor",
   "distanceKM" : 0.27,
+  "movieLink" : "",
   "evaluationTotal" : 58.75
 }, {
   "number" : 86,
@@ -6404,6 +6596,7 @@
   "to" : "Str. Demetriade",
   "via" : "(strada nouă de la mall către Demetriade)",
   "distanceKM" : 0.1,
+  "movieLink" : "",
   "evaluationTotal" : 66.25
 }, {
   "number" : 86,
@@ -6411,7 +6604,7 @@
   "segments" : [ "2" ],
   "evaluation" : {
     "Stare" : 7.5,
-    "Lățime" : 0.0,
+    "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 2.5,
     "Observații" : 0.0,
@@ -6425,7 +6618,7 @@
   },
   "evaluationPercentage" : {
     "Stare" : 0.5,
-    "Lățime" : 0.0,
+    "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.25,
     "Observații" : 0.0,
@@ -6439,7 +6632,7 @@
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
-    "Calitate Pistă" : 20.0,
+    "Calitate Pistă" : 23.75,
     "Obstacole / observații" : 5.0
   },
   "remarks" : "",
@@ -6447,7 +6640,8 @@
   "to" : "Sens Giratoriu Bvd. Antenei",
   "via" : "(strada nouă de la mall către Demetriade)",
   "distanceKM" : 0.41,
-  "evaluationTotal" : 31.25
+  "movieLink" : "",
+  "evaluationTotal" : 35.0
 }, {
   "number" : 87,
   "direction" : "dus",
@@ -6490,6 +6684,7 @@
   "to" : "Str. C-tin cel Mare",
   "via" : "Str. Brazilor ",
   "distanceKM" : 0.14,
+  "movieLink" : "",
   "evaluationTotal" : 52.5
 }, {
   "number" : 87,
@@ -6533,6 +6728,7 @@
   "to" : "Constantin Rădulescu Motru",
   "via" : "Str. Brazilor ",
   "distanceKM" : 0.14,
+  "movieLink" : "",
   "evaluationTotal" : 55.0
 }, {
   "number" : 88,
@@ -6576,6 +6772,7 @@
   "to" : "Str. Crisan",
   "via" : "Str. Grigore Alexandrescu",
   "distanceKM" : 0.12,
+  "movieLink" : "",
   "evaluationTotal" : 66.25
 }, {
   "number" : 88,
@@ -6619,6 +6816,7 @@
   "to" : "Str. Closca",
   "via" : "Str. Grigore Alexandrescu",
   "distanceKM" : 0.12,
+  "movieLink" : "",
   "evaluationTotal" : 63.75
 }, {
   "number" : 89,
@@ -6662,6 +6860,7 @@
   "to" : "Bvd. Cetatii",
   "via" : "Str. Crisan",
   "distanceKM" : 0.21,
+  "movieLink" : "",
   "evaluationTotal" : 58.75
 }, {
   "number" : 89,
@@ -6705,6 +6904,7 @@
   "to" : "Str. Ioan Plavosin",
   "via" : "Str. Crisan",
   "distanceKM" : 0.21,
+  "movieLink" : "",
   "evaluationTotal" : 58.75
 }, {
   "number" : 90,
@@ -6748,50 +6948,140 @@
   "to" : "Str. Locotenent Ovidiu Balea",
   "via" : "Sens Giratoriu Str. Closca",
   "distanceKM" : 0.08,
+  "movieLink" : "",
   "evaluationTotal" : 63.75
 }, {
   "number" : 91,
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
+    "Stare" : 11.25,
+    "Lățime" : 15.0,
+    "Curățenie" : 5.0,
+    "Borduri" : 7.5,
+    "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
+    "Mobilier urban" : 5.0,
+    "Siguranță" : 10.0,
+    "Traversări" : 1.25,
+    "Marcaje" : 5.0,
+    "Rugozitate" : 10.0,
+    "Alte piste" : 2.5
+  },
+  "evaluationPercentage" : {
+    "Stare" : 0.75,
+    "Lățime" : 1.0,
+    "Curățenie" : 1.0,
+    "Borduri" : 0.75,
+    "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
+    "Mobilier urban" : 1.0,
+    "Siguranță" : 1.0,
+    "Traversări" : 0.25,
+    "Marcaje" : 1.0,
+    "Rugozitate" : 1.0,
+    "Alte piste" : 0.25
+  },
+  "evaluationByCategories" : {
+    "Conectivitate" : 3.75,
+    "Calitate Pistă" : 58.75,
+    "Obstacole / observații" : 18.75
+  },
+  "remarks" : "",
+  "from" : "Mitropolit Vasile Lazarescu",
+  "to" : "Galeria 1",
+  "via" : "Calea Sever Bocu",
+  "distanceKM" : 0.24,
+  "movieLink" : "",
+  "evaluationTotal" : 81.25
+}, {
+  "number" : 92,
+  "direction" : "dus",
+  "segments" : [ "1" ],
+  "evaluation" : {
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 5.0,
+    "Borduri" : 5.0,
+    "Observații" : 1.25,
+    "Mașini parcate" : 2.5,
     "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.0,
-    "Marcaje" : 0.0,
-    "Rugozitate" : 0.0,
+    "Siguranță" : 2.5,
+    "Traversări" : 2.5,
+    "Marcaje" : 3.75,
+    "Rugozitate" : 7.5,
     "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Stare" : 0.0,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
-    "Borduri" : 0.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 1.0,
+    "Borduri" : 0.5,
+    "Observații" : 0.25,
+    "Mașini parcate" : 0.5,
     "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.0,
-    "Marcaje" : 0.0,
-    "Rugozitate" : 0.0,
+    "Siguranță" : 0.25,
+    "Traversări" : 0.5,
+    "Marcaje" : 0.75,
+    "Rugozitate" : 0.75,
     "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 0.0,
-    "Calitate Pistă" : 0.0,
-    "Obstacole / observații" : 0.0
+    "Conectivitate" : 2.5,
+    "Calitate Pistă" : 33.75,
+    "Obstacole / observații" : 8.75
   },
   "remarks" : "",
-  "from" : "Piața Consiliul Europei",
-  "to" : "Galeria 1",
-  "via" : "Calea Sever Bocu",
-  "distanceKM" : 0.53,
-  "evaluationTotal" : 0.0
+  "from" : "Constantin Prezan",
+  "to" : "Giroc",
+  "via" : "Calea Martirilor",
+  "distanceKM" : 1.13,
+  "movieLink" : "",
+  "evaluationTotal" : 45.0
+}, {
+  "number" : 92,
+  "direction" : "intors",
+  "segments" : [ "2", "3" ],
+  "evaluation" : {
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 5.0,
+    "Borduri" : 5.0,
+    "Observații" : 0.0,
+    "Mașini parcate" : 2.5,
+    "Mobilier urban" : 0.0,
+    "Siguranță" : 0.0,
+    "Traversări" : 2.5,
+    "Marcaje" : 3.75,
+    "Rugozitate" : 7.5,
+    "Alte piste" : 0.0
+  },
+  "evaluationPercentage" : {
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 1.0,
+    "Borduri" : 0.5,
+    "Observații" : 0.0,
+    "Mașini parcate" : 0.5,
+    "Mobilier urban" : 0.0,
+    "Siguranță" : 0.0,
+    "Traversări" : 0.5,
+    "Marcaje" : 0.75,
+    "Rugozitate" : 0.75,
+    "Alte piste" : 0.0
+  },
+  "evaluationByCategories" : {
+    "Conectivitate" : 2.5,
+    "Calitate Pistă" : 31.25,
+    "Obstacole / observații" : 7.5
+  },
+  "remarks" : "",
+  "from" : "Giroc",
+  "to" : "Constantin Prezan",
+  "via" : "Calea Martirilor",
+  "distanceKM" : 0.31,
+  "movieLink" : "",
+  "evaluationTotal" : 41.25
 }, {
   "number" : 93,
   "direction" : "dus",
@@ -6805,7 +7095,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
-    "Traversări" : 1.25,
+    "Traversări" : 2.5,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 5.0
@@ -6819,13 +7109,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
-    "Traversări" : 0.25,
+    "Traversări" : 0.5,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 6.25,
+    "Conectivitate" : 7.5,
     "Calitate Pistă" : 41.25,
     "Obstacole / observații" : 15.0
   },
@@ -6834,7 +7124,8 @@
   "to" : "Incuboxx",
   "via" : "Circumvalațiunii",
   "distanceKM" : 0.13,
-  "evaluationTotal" : 62.5
+  "movieLink" : "",
+  "evaluationTotal" : 63.75
 }, {
   "number" : 93,
   "direction" : "intors",
@@ -6848,7 +7139,7 @@
     "Mașini parcate" : 5.0,
     "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
-    "Traversări" : 1.25,
+    "Traversări" : 2.5,
     "Marcaje" : 3.75,
     "Rugozitate" : 10.0,
     "Alte piste" : 0.0
@@ -6862,13 +7153,13 @@
     "Mașini parcate" : 1.0,
     "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
-    "Traversări" : 0.25,
+    "Traversări" : 0.5,
     "Marcaje" : 0.75,
     "Rugozitate" : 1.0,
     "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 1.25,
+    "Conectivitate" : 2.5,
     "Calitate Pistă" : 42.5,
     "Obstacole / observații" : 16.25
   },
@@ -6877,5 +7168,6 @@
   "to" : "Nera",
   "via" : "Circumvalațiunii",
   "distanceKM" : 0.15,
-  "evaluationTotal" : 60.0
+  "movieLink" : "",
+  "evaluationTotal" : 61.25
 } ]
