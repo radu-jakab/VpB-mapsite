@@ -84,7 +84,6 @@ function buildScoreBar(percent) {
 function loadSessionStorage(callback, laneId) {
     $.getJSON("/wp-content/themes/pedaleaza-child/assets/download/current/piste_detalii.json", function (data) {
         data.forEach(function (lane) {
-            let storageNumber = lane.number < 10 ? '0' + lane.number : lane.number;
             sessionStorage.setItem(storageNumber + '-' + lane.direction, JSON.stringify(lane));
         });
         callback(JSON.parse(sessionStorage.getItem(laneId)));
