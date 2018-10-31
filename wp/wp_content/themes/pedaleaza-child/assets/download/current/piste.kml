@@ -5,7 +5,7 @@
         <description></description>
         <Style id="5-stele-normal">
             <LineStyle>
-                <color>64147800</color>
+                <color>6448aa04</color>
                 <width>3.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -14,7 +14,7 @@
         </Style>
         <Style id="5-stele-highlight">
             <LineStyle>
-                <color>64147800</color>
+                <color>6448aa04</color>
                 <width>4.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -33,7 +33,7 @@
         </StyleMap>
         <Style id="4-stele-normal">
             <LineStyle>
-                <color>64F06414</color>
+                <color>643cca98</color>
                 <width>3.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -42,7 +42,7 @@
         </Style>
         <Style id="4-stele-highlight">
             <LineStyle>
-                <color>64F06414</color>
+                <color>643cca98</color>
                 <width>4.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -61,7 +61,7 @@
         </StyleMap>
         <Style id="3-stele-normal">
             <LineStyle>
-                <color>6414F0FF</color>
+                <color>641eebf5</color>
                 <width>3.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -70,7 +70,7 @@
         </Style>
         <Style id="3-stele-highlight">
             <LineStyle>
-                <color>6414F0FF</color>
+                <color>641eebf5</color>
                 <width>4.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -89,7 +89,7 @@
         </StyleMap>
         <Style id="2-stele-normal">
             <LineStyle>
-                <color>641478FF</color>
+                <color>641f87f6</color>
                 <width>3.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -98,7 +98,7 @@
         </Style>
         <Style id="2-stele-highlight">
             <LineStyle>
-                <color>641478FF</color>
+                <color>641f87f6</color>
                 <width>4.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -117,7 +117,7 @@
         </StyleMap>
         <Style id="1-stea-normal">
             <LineStyle>
-                <color>641400FF</color>
+                <color>642422ed</color>
                 <width>3.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -126,7 +126,7 @@
         </Style>
         <Style id="1-stea-highlight">
             <LineStyle>
-                <color>641400FF</color>
+                <color>642422ed</color>
                 <width>4.0</width>
             </LineStyle>
             <BalloonStyle>
@@ -545,6 +545,15 @@
                 <LineString>
                     <tessellate>1</tessellate>
                     <coordinates>21.2653095,45.7304324 21.2666988,45.7300111</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
+                <name>Pista 71 - segment 2</name>
+                <description>Punctaj total: 61.25&lt;br&gt;&lt;br&gt;Conectivitate: 3.75 / 15.0&lt;br&gt;Calitate Pistă: 46.25 / 65.0&lt;br&gt;Obstacole / observații: 11.25 / 20.0&lt;br&gt;https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=71-intors</description>
+                <styleUrl>#4-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.2653066,45.7304146 21.2666933,45.7299933</coordinates>
                 </LineString>
             </Placemark>
             <Placemark>
