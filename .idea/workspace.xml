@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0b5d7df-f4ca-44f3-801d-3b6a998cab75" name="Default" comment="" />
+    <list default="true" id="b0b5d7df-f4ca-44f3-801d-3b6a998cab75" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp/vrempiste/detalii-pista/wp_page_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/wp/vrempiste/detalii-pista/wp_page_source.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,6 +18,7 @@
     <session id="-1690880358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -33,13 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="25" />
+          <entry key="html" value="35" />
           <entry key="js" value="262" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="25" />
+          <entry key="HTML" value="35" />
           <entry key="JavaScript" value="262" />
         </counts>
       </usages-collector>
@@ -50,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp/vrempiste/detalii-pista/wp_page_source.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="255">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -62,12 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="113">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
             </state>
           </provider>
         </entry>
@@ -84,9 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>gradient-label</find>
-      <find>desc-box</find>
-      <find>gradient-score</find>
       <find>detai</find>
       <find>borde</find>
       <find>border</find>
@@ -114,6 +111,9 @@
       <find>pedaleaza.ro</find>
       <find>pedalea</find>
       <find>name</find>
+      <find>storage</find>
+      <find>sessionstora</find>
+      <find>sessionsto</find>
     </findStrings>
     <replaceStrings>
       <replace>cycle-lane.html/lane-detail?</replace>
@@ -122,6 +122,8 @@
     <dirStrings>
       <dir>D:\Repos\VpB-mapsite\css</dir>
       <dir>D:\Repos\VpB-mapsite</dir>
+      <dir>D:\Repos\VpB-mapsite\wp\vrempiste</dir>
+      <dir>D:\Repos\VpB-mapsite\wp</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -301,12 +303,12 @@
       <workItem from="1531997585387" duration="673000" />
       <workItem from="1532525891736" duration="864000" />
       <workItem from="1532938965434" duration="32000" />
-      <workItem from="1540985310148" duration="6441000" />
+      <workItem from="1540985310148" duration="7703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70273000" />
+    <option name="totallyTimeSpent" value="71535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -458,8 +460,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/vrempiste/detalii-pista/wp_page_source.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="255">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
@@ -468,12 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="113">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
