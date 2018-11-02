@@ -1,70 +1,66 @@
-<!--
-
-<a class="menu-option" id="linkHarta" href="#harta">Harta</a>
-<a class="menu-option" id="linkCatalog" href="#catalog">Catalog</a>
-<a class="menu-option" id="linkBarem" href="/cycle-lane/standards.html">Barem</a>
-
--->
 <p style="height:1px;">
-<a href="#harta">
-<button class="link-btn" id="linkHarta"><i class="fas fa-map-marked-alt"></i> Harta</button>
-</a>
-<a href="#catalog">
-<button class="link-btn" id="linkCatalog"><i class="fas fa-book-open"></i> Catalog</button>
-</a>
-<a href="/vrempsite/barem">
-<button class="link-btn" id="linkBarem"><i class="fas fa-clipboard-list"></i> Barem</button>
-</a>
+    <a href="#harta">
+        <button class="link-btn" id="linkHarta"><i class="fas fa-map-marked-alt"></i> Harta</button>
+    </a>
+    <a href="#catalog">
+        <button class="link-btn" id="linkCatalog"><i class="fas fa-book-open"></i> Catalog</button>
+    </a>
+    <a href="/vrempsite/barem">
+        <button class="link-btn" id="linkBarem"><i class="fas fa-clipboard-list"></i> Barem</button>
+    </a>
 </p>
 
 
 <div class="page-box">
+    <p style="height:1px;">
+        <a href="/wp-content/themes/pedaleaza-child/assets/download/current/piste.kml" download="Piste Timisoara.kml">
+            <button class="download-btn" id="downloadHarta"><i class="fa fa-download"></i> Descarcă harta</button>
+        </a>
+        <a href="/wp-content/themes/pedaleaza-child/assets/download/current/piste_datatable.json"
+           download="Piste Timisoara - evaluare.json">
+            <button class="download-btn" id="downloadCatalog"><i class="fa fa-download"></i> Descarcă catalogul</button>
+        </a>
+        <a href="/wp-content/themes/pedaleaza-child/assets/download/current/piste_detalii.json"
+           download="Piste Timisoara - detalii.json">
+            <button class="download-btn" id="downloadPiste"><i class="fa fa-download"></i> Descarcă detalii piste
+            </button>
+        </a>
+    </p>
 
-<p style="height:1px;">
-<a href="/wp-content/themes/pedaleaza-child/assets/download/current/piste.kml" download="Piste Timisoara.kml">
-<button class="download-btn" id="downloadHarta"><i class="fa fa-download"></i> Descarcă harta</button>
-</a>
-<a href="/wp-content/themes/pedaleaza-child/assets/download/current/piste_datatable.json" download="Piste Timisoara - evaluare.json">
-<button class="download-btn" id="downloadCatalog"><i class="fa fa-download"></i> Descarcă catalogul</button>
-</a>
-<a href="/wp-content/themes/pedaleaza-child/assets/download/current/piste_detalii.json" download="Piste Timisoara - detalii.json">
-<button class="download-btn" id="downloadPiste"><i class="fa fa-download"></i> Descarcă detalii piste</button>
-</a>
-</p>
-
-<h1 id="harta" style="width:100%;">Harta piste</h1>
-<iframe src="https://www.google.com/maps/d/embed?mid=1Piq46ei6e4Hop-t99MYQ9nouPgozjc08" width="640" height="480"></iframe>
-<h1 id="catalog" style="width:100%; margin-top: 3rem;">Catalog piste</h1>
-<table id="example" class="display" style="width: 100%; font-size: 1.0rem;">
-<thead>
-<tr>
-<th>Numar Pista</th>
-<th>De la</th>
-<th>Pana la</th>
-<th>Via</th>
-<th>Distanta (km)</th>
-<th>Calitate pista</th>
-<th>Conectivitate</th>
-<th>Obstacole</th>
-<th>Scor total</th>
-</tr>
-</thead>
-<tfoot>
-<tr>
-<th>Numar Pista</th>
-<th>De la</th>
-<th>Pana la</th>
-<th>Via</th>
-<th>Distanta (km)</th>
-<th>Calitate pista</th>
-<th>Conectivitate</th>
-<th>Obstacole</th>
-<th>Scor total</th>
-</tr>
-</tfoot>
-</table>
+    <h2 id="harta" style="width:100%;">Harta piste</h2>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1Piq46ei6e4Hop-t99MYQ9nouPgozjc08" width="640"
+            height="480"></iframe>
+    <h2 id="catalog" style="width:100%; margin-top: 3rem;">Catalog piste</h2>
+    <table id="example" class="display" style="width: 100%; font-size: 1.0rem;">
+        <thead>
+        <tr>
+            <th>Numar Pista</th>
+            <th>De la</th>
+            <th>Pana la</th>
+            <th>Via</th>
+            <th>Distanta (km)</th>
+            <th>Calitate pista</th>
+            <th>Conectivitate</th>
+            <th>Obstacole</th>
+            <th>Scor total</th>
+        </tr>
+        </thead>
+        <tfoot>
+        <tr>
+            <th>Numar Pista</th>
+            <th>De la</th>
+            <th>Pana la</th>
+            <th>Via</th>
+            <th>Distanta (km)</th>
+            <th>Calitate pista</th>
+            <th>Conectivitate</th>
+            <th>Obstacole</th>
+            <th>Scor total</th>
+        </tr>
+        </tfoot>
+    </table>
 </div>
 
 <div style="display:none">
-[table id=1 /]
+    [table id=1 /]
 </div>
