@@ -1668,6 +1668,15 @@
                 </LineString>
             </Placemark>
             <Placemark>
+                <name>Pista 82 - segment 1</name>
+                <description>Punctaj total: 52.5&lt;br&gt;&lt;br&gt;Conectivitate: 8.75 / 15.0&lt;br&gt;Calitate Pistă: 30.0 / 65.0&lt;br&gt;Obstacole / observații: 13.75 / 20.0&lt;br&gt;https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=82-dus</description>
+                <styleUrl>#3-stele</styleUrl>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <coordinates>21.22505,45.751184 21.2258,45.75104 21.2269056,45.7508758</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark>
                 <name>Pista 83 - segment 1</name>
                 <description>Punctaj total: 56.25&lt;br&gt;&lt;br&gt;Conectivitate: 2.5 / 15.0&lt;br&gt;Calitate Pistă: 40.0 / 65.0&lt;br&gt;Obstacole / observații: 13.75 / 20.0&lt;br&gt;https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=83-dus</description>
                 <styleUrl>#3-stele</styleUrl>
@@ -1943,15 +1952,6 @@
                 <LineString>
                     <tessellate>1</tessellate>
                     <coordinates>21.2368128,45.7491413 21.2370267,45.7490454 21.2373397,45.7489968 21.2377474,45.7488948 21.2382036,45.7487441 21.238531,45.7486071 21.2386208,45.7485631 21.238826,45.7484545 21.2391211,45.7482767 21.239164,45.7482411 21.2393705,45.7481026 21.239628,45.7479155 21.2399257,45.7476328 21.2401698,45.7473521 21.2403468,45.7470189</coordinates>
-                </LineString>
-            </Placemark>
-            <Placemark>
-                <name>Pista 82 - segment 1</name>
-                <description>Punctaj total: 13.75&lt;br&gt;&lt;br&gt;Conectivitate: 2.5 / 15.0&lt;br&gt;Calitate Pistă: 11.25 / 65.0&lt;br&gt;Obstacole / observații: 0.0 / 20.0&lt;br&gt;https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=82-dus</description>
-                <styleUrl>#1-stea</styleUrl>
-                <LineString>
-                    <tessellate>1</tessellate>
-                    <coordinates>21.22505,45.751184 21.2258,45.75104 21.2269056,45.7508758</coordinates>
                 </LineString>
             </Placemark>
         </Folder>

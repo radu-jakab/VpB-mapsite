@@ -16,6 +16,22 @@ body {
     margin-bottom: 20px;
 }
 
+.datatable {
+    width: 100%;
+    font-size: 1.0rem;
+    top: -40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+
+.datatable a {
+    color: black;
+}
+
+.datatable a:hover {
+    font-weight: bold;
+}
+
 .dataTables_info {
     display: none;
 }
@@ -81,12 +97,12 @@ body {
 
 .detail-eval-box {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
     width: 100%;
     margin-top: 30px;
     padding: 30px;
     display: flex;
     flex-flow: row wrap;
-    background-color: white;
     font-weight: bold;
 }
 
@@ -96,30 +112,9 @@ body {
     flex: 0 0 100%;
 }
 
-.header {
-    position: fixed;
-    top: 75px;
-    height: 28px;
-    z-index: 100;
-    width: 79%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: black;
-    -webkit-box-shadow: 0 1px 1px #000000;
-    -moz-box-shadow: 0 1px 1px #000000;
-    box-shadow: 0 1px 1px #000000;
-}
-
-.footer {
-    width: 100%;
-    display: flex;
-    background-color: black;
-}
-
 .menu-option {
-    position:fixed;
-    right:0px;
+    position: fixed;
+    right: 0px;
     width: 100px;
     margin-top: 3px;
     text-align: center;
@@ -185,19 +180,19 @@ body {
 
 .download-btn {
     position: fixed;
-    right: 0px;
+    right: 0;
     height: 30px;
     background-color: lightblue;
     border: 0;
     z-index: 100;
-    font-size: 0px;
+    font-size: 0;
     font-weight: normal;
-	width: 20px;
+    width: 20px;
 }
 
 .download-btn:hover {
     position: fixed;
-    right: 0px;
+    right: 0;
     height: 30px;
     background-color: lightblue;
     border: 0;
@@ -206,29 +201,29 @@ body {
     font-weight: normal;
     width: 12em;
     padding-left: 8px;
-    padding-right: 0px;
+    padding-right: 0;
     text-align: left;
 }
 
-.fa{
-	font-size: 14px! important;
+.fa {
+    font-size: 14px ! important;
 }
 
 #downloadHarta {
-    top:220px;
+    top: 220px;
 }
 
 #downloadCatalog {
-    top:255px;
+    top: 255px;
 }
 
 #downloadPiste {
-    top:290px;
+    top: 290px;
 }
 
 .link-btn {
     position: fixed;
-    right: 0px;
+    right: 0;
     height: 30px;
     border: 0;
     z-index: 100;
@@ -252,15 +247,15 @@ body {
 }*/
 
 #linkHarta {
-    top:115px;
+    top: 115px;
 }
 
 #linkCatalog {
-    top:150px;
+    top: 150px;
 }
 
 #linkBarem {
-    top:185px;
+    top: 185px;
 }
 
 .standards-criterion-box {
@@ -282,6 +277,7 @@ body {
     flex-flow: row wrap;
     width: 100%;
 }
+
 /*
 .entry-title {
  display: none !important;   
@@ -289,21 +285,21 @@ body {
 */
 
 .rowTotalTwenty {
-    background-color: #ed2224 !important;
+    background-color: rgba(237, 34, 36, 0.3) !important;
 }
 
 .rowTotalForty {
-    background-color: #f6871f !important;
+    background-color: rgba(246, 135, 31, 0.3) !important;
 }
 
 .rowTotalSixty {
-    background-color: #f5eb1e !important;
+    background-color: rgba(245, 127, 30, 0.3) !important;
 }
 
 .rowTotalEighty {
-    background-color: #98ca3c !important;
+    background-color: rgba(152, 202, 60, 0.3) !important;
 }
 
 .rowTotalHundred {
-    background-color: #04aa48 !important;
+    background-color: rgba(4, 170, 72, 0.3) !important;
 }

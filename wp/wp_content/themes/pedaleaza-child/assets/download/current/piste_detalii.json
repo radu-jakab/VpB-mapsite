@@ -215,7 +215,7 @@
   "from" : "Sudului, colț cu Rebreanu",
   "to" : "Martirilor, colț cu Rebreanu",
   "via" : "Bulevardul Liviu Rebreanu",
-  "distanceKM" : 0.14,
+  "distanceKM" : 0.87,
   "movieLink" : "https://www.youtube.com/embed/nIPAaQR9J8M",
   "evaluationTotal" : 31.25
 }, {
@@ -699,7 +699,7 @@
   "from" : "Vasile Pârvan, colț cu Mihai Viteazu",
   "to" : "Mihai Viteazu, colț cu Piața Bălcescu",
   "via" : "Bulevardul Mihai Viteazu",
-  "distanceKM" : 0.26,
+  "distanceKM" : 0.6,
   "movieLink" : "https://www.youtube.com/embed/adxnOBxl1Ok",
   "evaluationTotal" : 40.0
 }, {
@@ -743,7 +743,7 @@
   "from" : "Mihai Viteazu, colț cu Piața Bălcescu",
   "to" : "Vasile Pârvan, colț cu Mihai Viteazu",
   "via" : "Bulevardul Mihai Viteazu",
-  "distanceKM" : 0.24,
+  "distanceKM" : 0.53,
   "movieLink" : "https://www.youtube.com/embed/2US1eAAofA0",
   "evaluationTotal" : 36.25
 }, {
@@ -876,7 +876,7 @@
   "to" : "Carol I, colț cu Iuliu Maniu",
   "via" : "Bulevardul Regele Carol I",
   "distanceKM" : 0.81,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Eekdw_xdEpM",
   "evaluationTotal" : 46.25
 }, {
   "number" : 12,
@@ -920,7 +920,7 @@
   "to" : "Piața Sinaia",
   "via" : "Bulevardul Regele Carol I",
   "distanceKM" : 0.76,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/YMbpYSAPTX8",
   "evaluationTotal" : 47.5
 }, {
   "number" : 13,
@@ -1052,7 +1052,7 @@
   "to" : "Piața Iuliu Maniu",
   "via" : "Bulevardul Iuliu Maniu",
   "distanceKM" : 0.53,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/C4mHuX61wNU",
   "evaluationTotal" : 43.75
 }, {
   "number" : 14,
@@ -1096,7 +1096,7 @@
   "to" : "Iuliu Maniu, colț cu Tudor Vladimirescu",
   "via" : "Bulevardul Iuliu Maniu",
   "distanceKM" : 0.53,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/YRdShE8nmFg",
   "evaluationTotal" : 40.0
 }, {
   "number" : 15,
@@ -1492,7 +1492,7 @@
   "to" : "Grigore Alexandrescu",
   "via" : "strada Crișan",
   "distanceKM" : 1.04,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/O5eBqftQ6kc",
   "evaluationTotal" : 53.75
 }, {
   "number" : 19,
@@ -1536,7 +1536,7 @@
   "to" : "Ioan Plavoșin",
   "via" : "strada Crișan",
   "distanceKM" : 1.04,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/-KikcxmDL2A",
   "evaluationTotal" : 56.25
 }, {
   "number" : 20,
@@ -2151,7 +2151,7 @@
   "from" : "Cetății, colț cu Gh. Lazăr",
   "to" : "Cetății, colț cu Torontalului",
   "via" : "Bulevardul Cetății",
-  "distanceKM" : 0.27,
+  "distanceKM" : 0.92,
   "movieLink" : "https://www.youtube.com/embed/tomzMSuTL8w",
   "evaluationTotal" : 43.75
 }, {
@@ -2327,7 +2327,7 @@
   "from" : "Circumvalațiunii, colț cu Gh. Lazăr",
   "to" : "Circumvalațiunii, colț cu Torontalului",
   "via" : "Calea Circumvalațiunii",
-  "distanceKM" : 0.07,
+  "distanceKM" : 0.75,
   "movieLink" : "https://www.youtube.com/embed/NXNS9F2vKEc",
   "evaluationTotal" : 51.25
 }, {
@@ -2368,8 +2368,8 @@
     "Obstacole / observații" : 16.25
   },
   "remarks" : "",
-  "from" : "str. Piatra Craiului, colț cu Republicii",
-  "to" : "str. Piatra Craiului, colț cu Ferdinand I",
+  "from" : "Republicii",
+  "to" : "Ferdinand I",
   "via" : "Strada Piatra Craiului",
   "distanceKM" : 0.19,
   "movieLink" : "https://www.youtube.com/embed/nNTPo5LEuzk",
@@ -2412,11 +2412,11 @@
     "Obstacole / observații" : 10.0
   },
   "remarks" : "",
-  "from" : "str. Piatra Craiului, colț cu Ferdinand I",
-  "to" : "str. Piatra Craiului, colț cu Republicii",
+  "from" : "Ferdinand I",
+  "to" : "Republicii",
   "via" : "Strada Piatra Craiului",
   "distanceKM" : 0.17,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/v4SySt3RUW4",
   "evaluationTotal" : 53.75
 }, {
   "number" : 31,
@@ -2504,7 +2504,7 @@
   "to" : "Piața Regina Maria",
   "via" : "Republicii / Sf. Ioan",
   "distanceKM" : 0.25,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/7_m3trhP3_g",
   "evaluationTotal" : 45.0
 }, {
   "number" : 32,
@@ -2635,7 +2635,7 @@
   "from" : "Cluj, colț cu Pârvan",
   "to" : "Arieș, colț cu Rebreanu",
   "via" : "Strada Cluj / Arieș",
-  "distanceKM" : 0.28,
+  "distanceKM" : 1.07,
   "movieLink" : "https://www.youtube.com/embed/PT3_6DTvoyg",
   "evaluationTotal" : 45.0
 }, {
@@ -2679,7 +2679,7 @@
   "from" : "Arieș, colț cu Rebreanu",
   "to" : "Cluj, colț cu Pârvan",
   "via" : "Strada Cluj / Arieș",
-  "distanceKM" : 0.82,
+  "distanceKM" : 1.19,
   "movieLink" : "https://www.youtube.com/embed/a8RNLHLaW7s",
   "evaluationTotal" : 41.25
 }, {
@@ -2724,7 +2724,7 @@
   "to" : "Pod spre UPT",
   "via" : "Bulevardul Regele Ferdinand I",
   "distanceKM" : 0.29,
-  "movieLink" : "https://www.youtube.com/embed/knYFAwTX-Wg",
+  "movieLink" : "https://www.youtube.com/embed/cusncrtNujQ",
   "evaluationTotal" : 53.75
 }, {
   "number" : 34,
@@ -2768,7 +2768,7 @@
   "to" : "Piața Victoriei",
   "via" : "Bulevardul Regele Ferdinand I",
   "distanceKM" : 0.19,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/pm1yku80gVA",
   "evaluationTotal" : 51.25
 }, {
   "number" : 35,
@@ -2899,7 +2899,7 @@
   "from" : "Piața Mărăști",
   "to" : "Piața Consiliul Europei",
   "via" : "Strada Al. Ioan Cuza",
-  "distanceKM" : 0.07,
+  "distanceKM" : 0.61,
   "movieLink" : "https://www.youtube.com/embed/KbjdXTYbhNU",
   "evaluationTotal" : 56.25
 }, {
@@ -3032,7 +3032,7 @@
   "to" : "Take Ionescu, Piata Badea Cartan",
   "via" : "Take Ionescu",
   "distanceKM" : 1.15,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/xOTwqsd7tYs",
   "evaluationTotal" : 46.25
 }, {
   "number" : 38,
@@ -3340,7 +3340,7 @@
   "to" : "Pasaj Michelangelo",
   "via" : "Strada Michelangelo",
   "distanceKM" : 0.53,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/__EcMCncVpQ",
   "evaluationTotal" : 55.0
 }, {
   "number" : 42,
@@ -3384,7 +3384,7 @@
   "to" : "Strada Michelangelo, colț cu Ion. I.C. Brărianu",
   "via" : "Strada Michelangelo",
   "distanceKM" : 0.27,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Ezbmk95S6zg",
   "evaluationTotal" : 46.25
 }, {
   "number" : 43,
@@ -3600,11 +3600,11 @@
     "Obstacole / observații" : 16.25
   },
   "remarks" : "",
-  "from" : "Carol Telbisz, colț cu Ion I.C. Brătianu",
-  "to" : "Carol Telbisz, colț cu Proclamația de la Timișoara",
+  "from" : "Ion I.C. Brătianu",
+  "to" : "Proclamația de la Timișoara",
   "via" : "Carol Telbisz",
   "distanceKM" : 0.26,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/qMovrcaHHAg",
   "evaluationTotal" : 63.75
 }, {
   "number" : 45,
@@ -3644,11 +3644,11 @@
     "Obstacole / observații" : 16.25
   },
   "remarks" : "",
-  "from" : "Carol Telbisz, colț cu Proclamația de la Timișoara",
-  "to" : "Carol Telbisz, colț cu Ion I.C. Brătianu",
+  "from" : "Proclamația de la Timișoara",
+  "to" : "Ion I.C. Brătianu",
   "via" : "Carol Telbisz",
   "distanceKM" : 0.26,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/u62XNInFe-g",
   "evaluationTotal" : 66.25
 }, {
   "number" : 46,
@@ -3692,7 +3692,7 @@
   "to" : "Ion. I.C. Brărianu, colț cu Carol Telbisz",
   "via" : "Bulevardul Ion I.C. Brătianu",
   "distanceKM" : 0.26,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/clPaP2m2Ru0",
   "evaluationTotal" : 65.0
 }, {
   "number" : 47,
@@ -3736,7 +3736,7 @@
   "to" : "Batania, colț cu Torac",
   "via" : "Strada Batania",
   "distanceKM" : 0.36,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/le0WFHx0Pnc",
   "evaluationTotal" : 51.25
 }, {
   "number" : 47,
@@ -3780,7 +3780,7 @@
   "to" : "Batania, colț cu Stan Vidrighin",
   "via" : "Strada Batania",
   "distanceKM" : 0.36,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/9GWdP6VpLZg",
   "evaluationTotal" : 52.5
 }, {
   "number" : 48,
@@ -3912,7 +3912,7 @@
   "to" : "Aradului, colț cu Liege",
   "via" : "Calea Aradului",
   "distanceKM" : 0.5,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/TLQ1NkmWqDI",
   "evaluationTotal" : 35.0
 }, {
   "number" : 49,
@@ -3956,7 +3956,7 @@
   "to" : "Aradului, colț cu Amurgului",
   "via" : "Calea Aradului",
   "distanceKM" : 0.52,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/H9PBdXPOq4M",
   "evaluationTotal" : 45.0
 }, {
   "number" : 50,
@@ -4000,7 +4000,7 @@
   "to" : "Simion Bărnuțiu, colț cu Dorobanților",
   "via" : "Simion Bărnuțiu",
   "distanceKM" : 1.06,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/qjangXPgHC4",
   "evaluationTotal" : 28.75
 }, {
   "number" : 50,
@@ -4044,7 +4044,7 @@
   "to" : "Piata Badea Cartan",
   "via" : "Simion Bărnuțiu",
   "distanceKM" : 1.07,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/7VuBnnlTiK4",
   "evaluationTotal" : 27.5
 }, {
   "number" : 51,
@@ -4088,7 +4088,7 @@
   "to" : "Gheorghe Lazăr, colț cu Gheorghe Dima",
   "via" : "strada Mărășești / Gheorghe Lazăr",
   "distanceKM" : 0.46,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/79sbTDpAQsw",
   "evaluationTotal" : 67.5
 }, {
   "number" : 51,
@@ -4132,7 +4132,7 @@
   "to" : "Piața Victoriei",
   "via" : "strada Mărășești / Gheorghe Lazăr",
   "distanceKM" : 0.47,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/x9YRfb4-jx8",
   "evaluationTotal" : 70.0
 }, {
   "number" : 52,
@@ -4176,7 +4176,7 @@
   "to" : "Parcul Botanic",
   "via" : "strada Gheorghe Dima",
   "distanceKM" : 0.12,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/CF3kb73u7mo",
   "evaluationTotal" : 60.0
 }, {
   "number" : 52,
@@ -4220,7 +4220,7 @@
   "to" : "Gheorghe Dima, colț cu Gheorghe Lazăr",
   "via" : "strada Gheorghe Dima",
   "distanceKM" : 0.11,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/GMXXoxa6L_M",
   "evaluationTotal" : 71.25
 }, {
   "number" : 53,
@@ -4263,8 +4263,8 @@
   "from" : "Uzina de apă - Plopi",
   "to" : "Solventul",
   "via" : "Malurile Begăi",
-  "distanceKM" : 0.96,
-  "movieLink" : "",
+  "distanceKM" : 6.6,
+  "movieLink" : "https://www.youtube.com/embed/xoPXhbqydG0",
   "evaluationTotal" : 57.5
 }, {
   "number" : 53,
@@ -4307,8 +4307,8 @@
   "from" : "Splaiul Sofocle",
   "to" : "Uzina de apă - Plopi",
   "via" : "Malurile Begăi",
-  "distanceKM" : 0.51,
-  "movieLink" : "",
+  "distanceKM" : 7.41,
+  "movieLink" : "https://www.youtube.com/embed/KZMeDLzy4M4",
   "evaluationTotal" : 62.5
 }, {
   "number" : 54,
@@ -4352,7 +4352,7 @@
   "to" : "Strada Cluj",
   "via" : "Victor Babes",
   "distanceKM" : 0.8,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/JAUZ50aMhMc",
   "evaluationTotal" : 48.75
 }, {
   "number" : 54,
@@ -4396,7 +4396,7 @@
   "to" : "Mihai Viteazul",
   "via" : "Victor Babes",
   "distanceKM" : 0.8,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/lQEdN9JZd1k",
   "evaluationTotal" : 47.5
 }, {
   "number" : 55,
@@ -4440,7 +4440,7 @@
   "to" : "Calea Martirilor",
   "via" : "Eneas / Diaconu Coresi",
   "distanceKM" : 2.43,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/nuMqGj5eozM",
   "evaluationTotal" : 46.25
 }, {
   "number" : 55,
@@ -4484,7 +4484,7 @@
   "to" : "Calea Șagului",
   "via" : "Eneas / Diaconu Coresi",
   "distanceKM" : 2.43,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/VEWu_HSx0bU",
   "evaluationTotal" : 48.75
 }, {
   "number" : 56,
@@ -4528,7 +4528,7 @@
   "to" : "Gazprom",
   "via" : "Sens giratoriu - Antenei",
   "distanceKM" : 0.24,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/bXR4OgsNN-g",
   "evaluationTotal" : 67.5
 }, {
   "number" : 57,
@@ -4572,7 +4572,7 @@
   "to" : "Sens giratoriu - Galeria 1",
   "via" : "Bvd. Antenei",
   "distanceKM" : 0.35,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/802XCP1yfRI",
   "evaluationTotal" : 65.0
 }, {
   "number" : 57,
@@ -4616,7 +4616,7 @@
   "to" : "Sens giratoriu - Gazprom",
   "via" : "Bvd. Antenei",
   "distanceKM" : 0.34,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/vA40sKdssww",
   "evaluationTotal" : 65.0
 }, {
   "number" : 58,
@@ -4660,7 +4660,7 @@
   "to" : "Continental Automotive",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.71,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/74nWw5puIwM",
   "evaluationTotal" : 53.75
 }, {
   "number" : 58,
@@ -4704,7 +4704,7 @@
   "to" : "Sens Giratoriu AEM",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.71,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/f-7Hli7SNRI",
   "evaluationTotal" : 53.75
 }, {
   "number" : 59,
@@ -4747,8 +4747,8 @@
   "from" : "Strada Gh. Lazar",
   "to" : "Coriolan Brediceanu",
   "via" : "Calea Circumvalatiunii",
-  "distanceKM" : 0.08,
-  "movieLink" : "",
+  "distanceKM" : 0.34,
+  "movieLink" : "https://www.youtube.com/embed/ZIVF4eqhrdc",
   "evaluationTotal" : 52.5
 }, {
   "number" : 60,
@@ -4792,7 +4792,7 @@
   "to" : "Viaduct - Piața 700 (CBC)",
   "via" : "Str. Coriolan Brediceanu",
   "distanceKM" : 0.22,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/wEH0J9UDO4Y",
   "evaluationTotal" : 70.0
 }, {
   "number" : 60,
@@ -4836,7 +4836,7 @@
   "to" : "Calea Circumvalatiunii",
   "via" : "Str. Coriolan Brediceanu",
   "distanceKM" : 0.22,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/J6xbUIjYvZE",
   "evaluationTotal" : 61.25
 }, {
   "number" : 61,
@@ -4880,7 +4880,7 @@
   "to" : "Strada Gh. Lazar",
   "via" : "Str. Nikolaus Berwanger",
   "distanceKM" : 0.23,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/V1Q9ve6t-8Y",
   "evaluationTotal" : 51.25
 }, {
   "number" : 62,
@@ -4924,7 +4924,7 @@
   "to" : "Strada Gh. Lazar",
   "via" : "Str. Gheorghe Dima",
   "distanceKM" : 0.24,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/_u7njSq0MOg",
   "evaluationTotal" : 48.75
 }, {
   "number" : 63,
@@ -4968,7 +4968,7 @@
   "to" : "Strada Paris",
   "via" : "Str. Colonel Enescu",
   "distanceKM" : 0.12,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/4GU0zPKVHXM",
   "evaluationTotal" : 63.75
 }, {
   "number" : 64,
@@ -5012,7 +5012,7 @@
   "to" : "Bvd. Republicii",
   "via" : "Str. Paris",
   "distanceKM" : 0.4,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/R2zRbbg7xHs",
   "evaluationTotal" : 46.25
 }, {
   "number" : 65,
@@ -5056,7 +5056,7 @@
   "to" : "Calea Stan Vidrighin",
   "via" : "Str. Aurel Paunescu Podeanu",
   "distanceKM" : 0.99,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/4QVnuRDadwM",
   "evaluationTotal" : 48.75
 }, {
   "number" : 65,
@@ -5100,7 +5100,7 @@
   "to" : "Sens giratoriu - stadion",
   "via" : "Str. Aurel Paunescu Podeanu",
   "distanceKM" : 0.91,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/tWuqiXiIJNE",
   "evaluationTotal" : 58.75
 }, {
   "number" : 66,
@@ -5144,7 +5144,7 @@
   "to" : "Sens giratoriu - piata Iosefin",
   "via" : "Str. Iancu Vacarescu",
   "distanceKM" : 0.65,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/kRdcvQuJuQk",
   "evaluationTotal" : 53.75
 }, {
   "number" : 66,
@@ -5188,7 +5188,7 @@
   "to" : "Splai Tudor Vladimirescu",
   "via" : "Str. Iancu Vacarescu",
   "distanceKM" : 0.64,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/WWHc-pIWDoU",
   "evaluationTotal" : 57.5
 }, {
   "number" : 67,
@@ -5232,7 +5232,7 @@
   "to" : "Bvd. Republicii",
   "via" : "Str. General Ion Dragalina",
   "distanceKM" : 0.14,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/lPtbOUcbUXg",
   "evaluationTotal" : 36.25
 }, {
   "number" : 67,
@@ -5276,7 +5276,7 @@
   "to" : "Splai Nicolae Titulescu",
   "via" : "Str. General Ion Dragalina",
   "distanceKM" : 0.17,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/3ZtoiUpMG-0",
   "evaluationTotal" : 48.75
 }, {
   "number" : 68,
@@ -5320,7 +5320,7 @@
   "to" : "Piata Marasti",
   "via" : "Piața Mărăști",
   "distanceKM" : 0.35,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/XLXjFtmYd5k",
   "evaluationTotal" : 63.75
 }, {
   "number" : 69,
@@ -5364,7 +5364,7 @@
   "to" : "SSI Schaefer",
   "via" : "Bulevardul Industriei",
   "distanceKM" : 0.48,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/SpyFY8rT7ss",
   "evaluationTotal" : 41.25
 }, {
   "number" : 70,
@@ -5408,7 +5408,7 @@
   "to" : "Eroilor",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.37,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/e3uN7YmPcLw",
   "evaluationTotal" : 57.5
 }, {
   "number" : 70,
@@ -5452,7 +5452,7 @@
   "to" : "Michelangelo",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.37,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/1B6wcoq3o6s",
   "evaluationTotal" : 1.25
 }, {
   "number" : 71,
@@ -5496,7 +5496,7 @@
   "to" : "Str. Spatarul Milescu",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.11,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Bm6rTPcoQF4",
   "evaluationTotal" : 62.5
 }, {
   "number" : 71,
@@ -5540,7 +5540,7 @@
   "to" : "Str. Matei Millo",
   "via" : "Calea Buziasului",
   "distanceKM" : 0.11,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Bm6rTPcoQF4",
   "evaluationTotal" : 61.25
 }, {
   "number" : 72,
@@ -5584,7 +5584,7 @@
   "to" : "Str. Ady Endre",
   "via" : "Bvd. 16 Decembrie 1989",
   "distanceKM" : 0.4,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/E6moVGg5wIo",
   "evaluationTotal" : 45.0
 }, {
   "number" : 73,
@@ -5627,8 +5627,8 @@
   "from" : "Bvd. C-tin Brancoveanu",
   "to" : "Piata N. Balcescu",
   "via" : "Str. Ciprian Porumbescu",
-  "distanceKM" : 0.33,
-  "movieLink" : "",
+  "distanceKM" : 0.51,
+  "movieLink" : "https://www.youtube.com/embed/ZKpSpdvQWbA",
   "evaluationTotal" : 25.0
 }, {
   "number" : 73,
@@ -5671,8 +5671,8 @@
   "from" : "Piata N. Balcescu",
   "to" : "Bvd. C-tin Brancoveanu",
   "via" : "Str. Ciprian Porumbescu",
-  "distanceKM" : 0.37,
-  "movieLink" : "",
+  "distanceKM" : 0.55,
+  "movieLink" : "https://www.youtube.com/embed/qwra5bzh-90",
   "evaluationTotal" : 40.0
 }, {
   "number" : 74,
@@ -5715,8 +5715,8 @@
   "from" : "Piata Iancu Huniade",
   "to" : "Bvd. C D Loga",
   "via" : "Str. 20 Decembrie 1989",
-  "distanceKM" : 0.07,
-  "movieLink" : "",
+  "distanceKM" : 0.16,
+  "movieLink" : "https://www.youtube.com/embed/STRXCjD_j9g",
   "evaluationTotal" : 46.25
 }, {
   "number" : 75,
@@ -5760,7 +5760,7 @@
   "to" : "Sens Giratoriu Pestalozzi",
   "via" : "Bvd. Corneliu Coposu",
   "distanceKM" : 0.53,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/8H5f3A5D8UQ",
   "evaluationTotal" : 58.75
 }, {
   "number" : 75,
@@ -5804,7 +5804,7 @@
   "to" : "Pasaj Michelangelo",
   "via" : "Bvd. Corneliu Coposu",
   "distanceKM" : 0.63,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/kVmUN_mq7fM",
   "evaluationTotal" : 58.75
 }, {
   "number" : 76,
@@ -5848,7 +5848,7 @@
   "to" : "Str. Michelangelo",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.34,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/KmlGjKOmLEQ",
   "evaluationTotal" : 43.75
 }, {
   "number" : 76,
@@ -5892,7 +5892,7 @@
   "to" : "Bvd. Revolutiei",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.35,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/MFoBKRCPz1o",
   "evaluationTotal" : 50.0
 }, {
   "number" : 77,
@@ -5936,7 +5936,7 @@
   "to" : "Str. 20 Decembrie 1989",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.43,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Dgy_DIBVqgU",
   "evaluationTotal" : 58.75
 }, {
   "number" : 77,
@@ -5980,7 +5980,7 @@
   "to" : "Str. Michelangelo",
   "via" : "Bvd.  Mihai Eminescu",
   "distanceKM" : 0.42,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/JU4NcQCLch0",
   "evaluationTotal" : 41.25
 }, {
   "number" : 78,
@@ -6024,7 +6024,7 @@
   "to" : "Str. Gradinii",
   "via" : "Intrare Shopping Mall Timisoara",
   "distanceKM" : 0.47,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/XJxjETbMX_M",
   "evaluationTotal" : 82.5
 }, {
   "number" : 79,
@@ -6067,8 +6067,8 @@
   "from" : "Str. Emil Zola",
   "to" : "Calea Urseni",
   "via" : "Str. Musicescu",
-  "distanceKM" : 0.11,
-  "movieLink" : "",
+  "distanceKM" : 1.32,
+  "movieLink" : "https://www.youtube.com/embed/Ttirx6VpbyE",
   "evaluationTotal" : 40.0
 }, {
   "number" : 79,
@@ -6111,8 +6111,8 @@
   "from" : "Calea Urseni",
   "to" : "Str. Panselelor",
   "via" : "Str. Musicescu",
-  "distanceKM" : 0.65,
-  "movieLink" : "",
+  "distanceKM" : 1.97,
+  "movieLink" : "https://www.youtube.com/embed/VCtk_-jnyS0",
   "evaluationTotal" : 48.75
 }, {
   "number" : 80,
@@ -6156,7 +6156,7 @@
   "to" : "Pasaj Sacalaz",
   "via" : "Str. Locotenent Ovidiu Balea",
   "distanceKM" : 0.72,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/s7DjH8dQC-E",
   "evaluationTotal" : 48.75
 }, {
   "number" : 81,
@@ -6200,7 +6200,7 @@
   "to" : "Str. 1 Decembrie 1918",
   "via" : "Calea Stefan cel Mare",
   "distanceKM" : 0.46,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Smu4eERooZw",
   "evaluationTotal" : 46.25
 }, {
   "number" : 81,
@@ -6244,52 +6244,52 @@
   "to" : "Str. Stefan Octavian Iosif",
   "via" : "Calea Stefan cel Mare",
   "distanceKM" : 0.4,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/ZeWDMhx5Wls",
   "evaluationTotal" : 42.5
 }, {
   "number" : 82,
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Stare" : 3.75,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
+    "Stare" : 11.25,
+    "Lățime" : 3.75,
+    "Curățenie" : 5.0,
     "Borduri" : 5.0,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 2.5,
+    "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
+    "Mobilier urban" : 1.25,
+    "Siguranță" : 7.5,
+    "Traversări" : 3.75,
     "Marcaje" : 2.5,
     "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Stare" : 0.25,
-    "Lățime" : 0.0,
-    "Curățenie" : 0.0,
+    "Stare" : 0.75,
+    "Lățime" : 0.25,
+    "Curățenie" : 1.0,
     "Borduri" : 0.5,
-    "Observații" : 0.0,
-    "Mașini parcate" : 0.0,
-    "Mobilier urban" : 0.0,
-    "Siguranță" : 0.0,
-    "Traversări" : 0.5,
+    "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
+    "Mobilier urban" : 0.25,
+    "Siguranță" : 0.75,
+    "Traversări" : 0.75,
     "Marcaje" : 0.5,
     "Rugozitate" : 0.0,
-    "Alte piste" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
-    "Conectivitate" : 2.5,
-    "Calitate Pistă" : 11.25,
-    "Obstacole / observații" : 0.0
+    "Conectivitate" : 8.75,
+    "Calitate Pistă" : 30.0,
+    "Obstacole / observații" : 13.75
   },
   "remarks" : "",
   "from" : "Str. 20. Decembrie 1989",
   "to" : "Piața Victoriei",
   "via" : "C.D. Loga",
   "distanceKM" : 0.14,
-  "movieLink" : "",
-  "evaluationTotal" : 13.75
+  "movieLink" : "https://www.youtube.com/embed/Zj5EI3tJLq4",
+  "evaluationTotal" : 52.5
 }, {
   "number" : 83,
   "direction" : "dus",
@@ -6332,7 +6332,7 @@
   "to" : "Aleea Cristalului",
   "via" : "Str. Versului / Sănătății",
   "distanceKM" : 0.58,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/oA0PrgIBvZw",
   "evaluationTotal" : 56.25
 }, {
   "number" : 83,
@@ -6376,7 +6376,7 @@
   "to" : "Str. Martir Ioan Stanciu",
   "via" : "Str. Versului / Sănătății",
   "distanceKM" : 0.58,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/FFylilmnj9Y",
   "evaluationTotal" : 60.0
 }, {
   "number" : 84,
@@ -6417,10 +6417,10 @@
   },
   "remarks" : "",
   "from" : "Eroilor",
-  "to" : "Bvd. Corneliu Coposu",
+  "to" : "Str. 1 decembrie 1918",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.18,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/6WM_akl1gjY",
   "evaluationTotal" : 57.5
 }, {
   "number" : 84,
@@ -6460,11 +6460,11 @@
     "Obstacole / observații" : 12.5
   },
   "remarks" : "",
-  "from" : "Bvd. Corneliu Coposu",
+  "from" : "Str. 1 decembrie 1918",
   "to" : "Eroilor",
   "via" : "Aleea Ripensia",
   "distanceKM" : 0.18,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/6WM_akl1gjY",
   "evaluationTotal" : 47.5
 }, {
   "number" : 85,
@@ -6508,7 +6508,7 @@
   "to" : "capat",
   "via" : "Str. Chimistilor",
   "distanceKM" : 0.27,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/GcmSuUDGdmI",
   "evaluationTotal" : 56.25
 }, {
   "number" : 85,
@@ -6552,7 +6552,7 @@
   "to" : "Calea Stan Vidrighin",
   "via" : "Str. Chimistilor",
   "distanceKM" : 0.27,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/ByyUSbpeou0",
   "evaluationTotal" : 58.75
 }, {
   "number" : 86,
@@ -6596,7 +6596,7 @@
   "to" : "Str. Demetriade",
   "via" : "(strada nouă de la mall către Demetriade)",
   "distanceKM" : 0.1,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/cuiSjHTU0LY",
   "evaluationTotal" : 66.25
 }, {
   "number" : 86,
@@ -6640,7 +6640,7 @@
   "to" : "Sens Giratoriu Bvd. Antenei",
   "via" : "(strada nouă de la mall către Demetriade)",
   "distanceKM" : 0.41,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/wB2DZF7eqHI",
   "evaluationTotal" : 35.0
 }, {
   "number" : 87,
@@ -6684,7 +6684,7 @@
   "to" : "Str. C-tin cel Mare",
   "via" : "Str. Brazilor ",
   "distanceKM" : 0.14,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/59JTm06vMLU",
   "evaluationTotal" : 52.5
 }, {
   "number" : 87,
@@ -6728,7 +6728,7 @@
   "to" : "Constantin Rădulescu Motru",
   "via" : "Str. Brazilor ",
   "distanceKM" : 0.14,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/5G-Uafax7W8",
   "evaluationTotal" : 55.0
 }, {
   "number" : 88,
@@ -6772,7 +6772,7 @@
   "to" : "Str. Crisan",
   "via" : "Str. Grigore Alexandrescu",
   "distanceKM" : 0.12,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/B1wbgDWhAIU",
   "evaluationTotal" : 66.25
 }, {
   "number" : 88,
@@ -6816,7 +6816,7 @@
   "to" : "Str. Closca",
   "via" : "Str. Grigore Alexandrescu",
   "distanceKM" : 0.12,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/B1wbgDWhAIU",
   "evaluationTotal" : 63.75
 }, {
   "number" : 89,
@@ -6860,7 +6860,7 @@
   "to" : "Bvd. Cetatii",
   "via" : "Str. Crisan",
   "distanceKM" : 0.21,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/yVuKlQG93jg",
   "evaluationTotal" : 58.75
 }, {
   "number" : 89,
@@ -6904,7 +6904,7 @@
   "to" : "Str. Ioan Plavosin",
   "via" : "Str. Crisan",
   "distanceKM" : 0.21,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/yVuKlQG93jg",
   "evaluationTotal" : 58.75
 }, {
   "number" : 90,
@@ -6948,7 +6948,7 @@
   "to" : "Str. Locotenent Ovidiu Balea",
   "via" : "Sens Giratoriu Str. Closca",
   "distanceKM" : 0.08,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/QeDHdAnKaWU",
   "evaluationTotal" : 63.75
 }, {
   "number" : 91,
@@ -6992,7 +6992,7 @@
   "to" : "Galeria 1",
   "via" : "Calea Sever Bocu",
   "distanceKM" : 0.24,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/Nd47emzfcv4",
   "evaluationTotal" : 81.25
 }, {
   "number" : 92,
@@ -7036,7 +7036,7 @@
   "to" : "Giroc",
   "via" : "Calea Martirilor",
   "distanceKM" : 1.13,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/5UrEDQSBz84",
   "evaluationTotal" : 45.0
 }, {
   "number" : 92,
@@ -7079,8 +7079,8 @@
   "from" : "Giroc",
   "to" : "Constantin Prezan",
   "via" : "Calea Martirilor",
-  "distanceKM" : 0.31,
-  "movieLink" : "",
+  "distanceKM" : 0.66,
+  "movieLink" : "https://www.youtube.com/embed/Wdgi5luv4F8",
   "evaluationTotal" : 41.25
 }, {
   "number" : 93,
@@ -7124,7 +7124,7 @@
   "to" : "Incuboxx",
   "via" : "Circumvalațiunii",
   "distanceKM" : 0.13,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/T35qn2wFEnA",
   "evaluationTotal" : 63.75
 }, {
   "number" : 93,
@@ -7168,6 +7168,6 @@
   "to" : "Nera",
   "via" : "Circumvalațiunii",
   "distanceKM" : 0.15,
-  "movieLink" : "",
+  "movieLink" : "https://www.youtube.com/embed/56LFDVCuVeE",
   "evaluationTotal" : 61.25
 } ]
