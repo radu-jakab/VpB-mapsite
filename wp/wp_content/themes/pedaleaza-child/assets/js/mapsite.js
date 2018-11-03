@@ -16,7 +16,7 @@ $(document).ready(function () {
                 orderingCol = 8;
             }
             if (orderingCol > 4) {
-                if (0 <= data[orderingCol] && data[orderingCol] < 20) {
+                if (0 < data[orderingCol] && data[orderingCol] < 20) {
                     $(row).removeClass('rowTotalTwenty rowTotalForty rowTotalSixty rowTotalEighty rowTotalHundred');
                     $(row).addClass('rowTotalTwenty');
                 }
