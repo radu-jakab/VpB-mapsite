@@ -18,7 +18,7 @@ function setFields(laneInfo) {
     // build score bars
     $("#latime").html(buildScoreBar(laneInfo.evaluationPercentage["Lățime"]));
     $("#stare").html(buildScoreBar(laneInfo.evaluationPercentage["Stare"]));
-    $("#rugozitate").html(buildScoreBar(laneInfo.evaluationPercentage["Rugozitate"]));
+    $("#aderenta").html(buildScoreBar(laneInfo.evaluationPercentage["Aderență"]));
     $("#siguranta").html(buildScoreBar(laneInfo.evaluationPercentage["Siguranță"]));
     $("#marcaje").html(buildScoreBar(laneInfo.evaluationPercentage["Marcaje"]));
     $("#borduri").html(buildScoreBar(laneInfo.evaluationPercentage["Borduri"]));
