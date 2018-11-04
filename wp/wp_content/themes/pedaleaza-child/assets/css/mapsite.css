@@ -16,7 +16,7 @@ body {
     margin-bottom: 20px;
 }
 
-.datatable {
+.vp-datatable {
     width: 100%;
     font-size: 1.0rem;
     top: -40px;
@@ -28,7 +28,7 @@ body {
     color: black;
 }
 
-.datatable a:hover {
+.vp-datatable a:hover {
     font-weight: bold;
 }
 

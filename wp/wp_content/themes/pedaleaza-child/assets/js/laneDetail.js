@@ -34,7 +34,7 @@ function setFields(laneInfo) {
     // add score points
     $("#latime-points").html(buildScorePoints(laneInfo, "Lățime"));
     $("#stare-points").html(buildScorePoints(laneInfo, "Stare"));
-    $("#rugozitate-points").html(buildScorePoints(laneInfo, "Rugozitate"));
+    $("#aderenta-points").html(buildScorePoints(laneInfo, "Aderență"));
     $("#siguranta-points").html(buildScorePoints(laneInfo, "Siguranță"));
     $("#marcaje-points").html(buildScorePoints(laneInfo, "Marcaje"));
     $("#borduri-points").html(buildScorePoints(laneInfo, "Borduri"));
@@ -48,7 +48,7 @@ function setFields(laneInfo) {
     $("#altele-points").html(buildScorePoints(laneInfo, "Observații"));
 
     // percentage meter
-    $("#percentage-meter-number").html(Math.floor(laneInfo.evaluationTotal) + "%");
+    $("#percentage-meter-number").html(Math.floor(laneInfo.evaluationTotal));
     $("#percentage-meter-bar").css({"border-color": getRGB(laneInfo.evaluationTotal)});
     $("#percentage-meter-fill").css({"border-color": getRGB(laneInfo.evaluationTotal)});
     $("#percentage-meter-div").addClass("p" + Math.floor(laneInfo.evaluationTotal));
