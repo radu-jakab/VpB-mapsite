@@ -1,7 +1,7 @@
 $(document).ready(function () {
     Promise.all(
-        [loadYearData('./wp_content/themes/pedaleaza-child/assets/download/current/piste_datatable.json'),
-            loadYearData('./wp_content/themes/pedaleaza-child/assets/download/current/piste_datatable_2019.json')]
+        [loadDataFile('./wp_content/themes/pedaleaza-child/assets/download/current/piste_datatable.json'),
+            loadDataFile('./wp_content/themes/pedaleaza-child/assets/download/current/piste_datatable_2019.json')]
     ).then((values) => {
         const merged = merge2018with2019(values[0].data, values[1].data);
 
@@ -60,19 +60,4 @@ function merge2018with2019(json2018, json2019) {
         item.splice(5, 3);
     }); // remove category scores
     return json2019;
-}
-
-function loadYearData(fileURL) {
-    return new Promise((resolve, reject) => {
-        const request = new XMLHttpRequest();
-        request.open('GET', fileURL, true);
-        request.onload = function () {
-            try {
-                resolve(JSON.parse(request.response.toString()));
-            } catch (e) {
-                reject(e);
-            }
-        };
-        request.send();
-    });
 }

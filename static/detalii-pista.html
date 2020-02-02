@@ -5,7 +5,8 @@
         <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.js"></script>
         <script src="https://use.fontawesome.com/e29cc69f7d.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
-        <script type="text/javascript" src="/wp_content/themes/pedaleaza-child/assets/js/laneDetail.js"></script>
+        <script type="text/javascript" src="/wp_content/themes/pedaleaza-child/assets/js/laneDetail2019.js"></script>
+        <script type="text/javascript" src="/wp_content/themes/pedaleaza-child/assets/js/utils.js"></script>
     </head>
 
     <body>
@@ -66,33 +67,57 @@
                 <label class="detail-eval-title">Caracteristici</label>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Latime</label>
-                    <span id="latime" class="gradient-bar">gradient bar</span>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
+                    <span id="latime" class="gradient-bar"></span>
                     <span id="latime-points" class="gradient-score"></span>
+                    <span id="latime-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="latime-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Stare</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="stare" class="gradient-bar">gradient bar</span>
                     <span id="stare-points" class="gradient-score"></span>
+                    <span id="stare-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="stare-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Aderență</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="aderenta" class="gradient-bar">gradient bar</span>
                     <span id="aderenta-points" class="gradient-score"></span>
+                    <span id="aderenta-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="aderenta-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Siguranta</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="siguranta" class="gradient-bar">gradient bar</span>
                     <span id="siguranta-points" class="gradient-score"></span>
+                    <span id="siguranta-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="siguranta-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Marcaje</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="marcaje" class="gradient-bar">gradient bar</span>
                     <span id="marcaje-points" class="gradient-score"></span>
+                    <span id="marcaje-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="marcaje-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Borduri</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <div id="borduri" class="gradient-bar">gradient bar</div>
                     <span id="borduri-points" class="gradient-score"></span>
+                    <span id="borduri-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="borduri-points-2018" class="gradient-score-secondary"></span>
                 </div>
             </div>
 
@@ -101,13 +126,21 @@
                 <label class="detail-eval-title">Conectivitate</label>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Alte piste</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="alte-piste" class="gradient-bar">gradient bar</span>
                     <span id="alte-piste-points" class="gradient-score"></span>
+                    <span id="alte-piste-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="alte-piste-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Traversari</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="traversari" class="gradient-bar">gradient bar</span>
                     <span id="traversari-points" class="gradient-score"></span>
+                    <span id="traversari-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="traversari-points-2018" class="gradient-score-secondary"></span>
                 </div>
             </div>
 
@@ -116,23 +149,39 @@
                 <label class="detail-eval-title">Obstacole</label>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Mobilier urban</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="mobilier-urban" class="gradient-bar">gradient bar</span>
                     <span id="mobilier-urban-points" class="gradient-score"></span>
+                    <span id="mobilier-urban-2018" class="gradient-bar-secondary" style="margin-left: 0">gradient bar</span>
+                    <span id="mobilier-urban-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Masini parcate</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="masini-parcate" class="gradient-bar">gradient bar</span>
                     <span id="masini-parcate-points" class="gradient-score"></span>
+                    <span id="masini-parcate-2018" class="gradient-bar-secondary" style="margin-left: 0">gradient bar</span>
+                    <span id="masini-parcate-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Curatenie</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="curatenie" class="gradient-bar">gradient bar</span>
                     <span id="curatenie-points" class="gradient-score"></span>
+                    <span id="curatenie-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="curatenie-points-2018" class="gradient-score-secondary"></span>
                 </div>
                 <div class="detail-eval-item">
                     <label class="gradient-label">Altele</label>
+                    <span class="gradient-year">2019</span>
+                    <span class="gradient-year-secondary">2018</span>
                     <span id="altele" class="gradient-bar">gradient bar</span>
                     <span id="altele-points" class="gradient-score"></span>
+                    <span id="altele-2018" class="gradient-bar-secondary">gradient bar</span>
+                    <span id="altele-points-2018" class="gradient-score-secondary"></span>
                 </div>
             </div>
 

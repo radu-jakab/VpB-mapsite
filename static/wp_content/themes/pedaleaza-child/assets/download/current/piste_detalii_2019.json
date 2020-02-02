@@ -3,32 +3,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -47,32 +47,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -91,32 +91,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 0.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -135,32 +135,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 5.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 1.25
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.25
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -179,32 +179,32 @@
   "direction" : "intors",
   "segments" : [ "2", "3" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -223,32 +223,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -267,32 +267,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 7.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.75,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -311,32 +311,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 7.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 5.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.75,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 1.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -355,32 +355,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 10.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 5.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 1.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 1.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 12.5,
@@ -399,32 +399,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 15.0,
     "Curățenie" : 5.0,
     "Borduri" : 10.0,
     "Observații" : 5.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 10.0,
     "Traversări" : 5.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 1.0,
     "Curățenie" : 1.0,
     "Borduri" : 1.0,
     "Observații" : 1.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 1.0,
     "Traversări" : 1.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -443,32 +443,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 0.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.0,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -487,32 +487,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 3.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -531,32 +531,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 7.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 10.0,
-    "Mașini" : 1.25
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.25
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 11.25,
@@ -575,32 +575,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 3.75,
     "Aderență" : 5.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 10.0,
-    "Mașini" : 3.75
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.75
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -619,32 +619,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 5.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 1.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -663,32 +663,32 @@
   "direction" : "dus",
   "segments" : [ "1", "4" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 0.0,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.0,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -707,32 +707,32 @@
   "direction" : "intors",
   "segments" : [ "2", "3" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 2.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 1.25
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.25
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -751,32 +751,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 5.0,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -795,32 +795,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 7.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.75,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -839,32 +839,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -883,32 +883,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 7.5,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.75,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -927,32 +927,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 5.0,
     "Borduri" : 10.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 5.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 1.0,
     "Borduri" : 1.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 1.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -971,32 +971,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 5.0,
     "Borduri" : 10.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 5.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 2.5,
-    "Mașini" : 1.25
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 1.0,
     "Borduri" : 1.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 1.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.25
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -1015,32 +1015,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 7.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 3.75
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.75
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -1059,32 +1059,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 10.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 1.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -1103,32 +1103,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -1147,32 +1147,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 7.5,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 7.5,
     "Traversări" : 1.25,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.5,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.75,
     "Traversări" : 0.25,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -1191,32 +1191,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 0.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -1235,32 +1235,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -1279,32 +1279,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.5
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -1323,32 +1323,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.5
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -1367,32 +1367,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 11.25,
     "Curățenie" : 2.5,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.75,
     "Curățenie" : 0.5,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1411,32 +1411,32 @@
   "direction" : "intors",
   "segments" : [ "2", "3" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 11.25,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 10.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.75,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 1.0,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -1455,32 +1455,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -1499,32 +1499,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -1543,32 +1543,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.5
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1587,32 +1587,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1631,32 +1631,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 2.5,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 2.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.5
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -1675,32 +1675,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -1719,32 +1719,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 0.0,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.0,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.5
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1763,32 +1763,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.25
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1807,32 +1807,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -1851,32 +1851,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 0.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 3.75
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.75
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1895,32 +1895,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1939,32 +1939,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 3.75
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.75
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -1983,32 +1983,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 10.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 1.0,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2027,32 +2027,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 10.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 1.0,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2071,32 +2071,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 3.75,
     "Lățime" : 0.0,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.25,
     "Lățime" : 0.0,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -2115,32 +2115,32 @@
   "direction" : "intors",
   "segments" : [ "2", "3" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2159,32 +2159,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 1.25,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 1.25
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.25
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2203,32 +2203,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 3.75,
     "Lățime" : 0.0,
     "Curățenie" : 3.75,
     "Borduri" : 0.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.25,
     "Lățime" : 0.0,
     "Curățenie" : 0.75,
     "Borduri" : 0.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2247,32 +2247,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -2291,32 +2291,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 5.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -2335,32 +2335,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 10.0,
-    "Mașini" : 0.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.0
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 11.25,
@@ -2379,32 +2379,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 1.25,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 10.0,
-    "Mașini" : 1.25
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.25
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 12.5,
@@ -2423,32 +2423,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 0.0,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 7.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 0.0,
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.75,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.0,
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -2467,32 +2467,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 7.5,
-    "Mașini" : 0.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.75,
-    "Mașini" : 0.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -2511,32 +2511,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 0.0,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 0.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.0,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -2555,32 +2555,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2599,32 +2599,32 @@
   "direction" : "dus",
   "segments" : [ "1", "4" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 7.5,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 1.25,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 10.0,
-    "Mașini" : 1.25
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.5,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.25
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 11.25,
@@ -2643,32 +2643,32 @@
   "direction" : "intors",
   "segments" : [ "2", "3" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 10.0,
-    "Mașini" : 1.25
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.25
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -2687,32 +2687,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2731,32 +2731,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2775,32 +2775,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2819,32 +2819,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -2863,32 +2863,32 @@
   "direction" : "dus",
   "segments" : [ "1", "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -2907,32 +2907,32 @@
   "direction" : "intors",
   "segments" : [ "3" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 2.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -2951,32 +2951,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 0.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -2995,32 +2995,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -3039,32 +3039,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -3083,32 +3083,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -3127,32 +3127,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 5.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
-    "Alte piste" : 2.5,
-    "Mașini" : 3.75
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.75
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -3171,32 +3171,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -3215,32 +3215,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -3259,32 +3259,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 0.0,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 2.5,
     "Aderență" : 2.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
-    "Alte piste" : 7.5,
-    "Mașini" : 2.5
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.25,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.75,
-    "Mașini" : 0.5
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -3303,32 +3303,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 0.0,
-    "Alte piste" : 10.0,
-    "Mașini" : 5.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.0,
-    "Alte piste" : 1.0,
-    "Mașini" : 1.0
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 12.5,
@@ -3347,32 +3347,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -3391,32 +3391,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 0.0,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -3435,32 +3435,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 3.75,
     "Aderență" : 5.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -3479,32 +3479,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -3523,32 +3523,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 5.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 1.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -3567,32 +3567,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 10.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 1.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -3611,32 +3611,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 10.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 1.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -3655,32 +3655,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -3699,32 +3699,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 7.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.75,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -3743,32 +3743,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 7.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.75,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -3787,32 +3787,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 15.0,
     "Curățenie" : 2.5,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 1.0,
     "Curățenie" : 0.5,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -3831,32 +3831,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -3875,32 +3875,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -3919,32 +3919,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 0.0,
     "Curățenie" : 2.5,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.0,
     "Curățenie" : 0.5,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -3963,32 +3963,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -4007,32 +4007,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 5.0,
     "Borduri" : 10.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 1.0,
     "Borduri" : 1.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -4051,32 +4051,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 10.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 1.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -4095,32 +4095,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -4139,32 +4139,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 7.5,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.5,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -4183,32 +4183,32 @@
   "direction" : "dus",
   "segments" : [ "1", "2", "3", "4", "5", "6" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 7.5,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.5,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -4227,32 +4227,32 @@
   "direction" : "intors",
   "segments" : [ "7", "8", "9", "10", "11", "12", "13", "14" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 7.5,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.5,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -4271,32 +4271,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 1.25,
     "Aderență" : 2.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 10.0,
-    "Mașini" : 1.25
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.25
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 11.25,
@@ -4315,32 +4315,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 0.0,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.25,
     "Aderență" : 2.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 1.25,
-    "Alte piste" : 10.0,
-    "Mașini" : 1.25
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.25,
-    "Alte piste" : 1.0,
-    "Mașini" : 0.25
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 12.5,
@@ -4359,32 +4359,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 7.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 2.5,
     "Aderență" : 0.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 3.75,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 2.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.75,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.75,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.5
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -4403,32 +4403,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 3.75,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.75,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -4447,32 +4447,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 5.0,
-    "Alte piste" : 10.0,
-    "Mașini" : 5.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 1.0,
-    "Alte piste" : 1.0,
-    "Mașini" : 1.0
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 11.25,
@@ -4491,32 +4491,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -4535,32 +4535,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -4579,32 +4579,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -4623,32 +4623,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -4667,32 +4667,32 @@
   "direction" : "dus",
   "segments" : [ "1", "2", "3", "4" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -4711,32 +4711,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -4755,32 +4755,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -4799,32 +4799,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 11.25,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 5.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 2.5
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.75,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.5
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -4843,32 +4843,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -4887,32 +4887,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 11.25,
     "Curățenie" : 3.75,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.75,
     "Curățenie" : 0.75,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 10.0,
@@ -4931,32 +4931,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -4975,32 +4975,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 3.75
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.75
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -5019,32 +5019,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 7.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.75,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -5063,32 +5063,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 7.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 2.5,
     "Aderență" : 0.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 3.75,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 2.5
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.75,
     "Observații" : 0.75,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.75,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.5
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -5107,32 +5107,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 3.75,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.75,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -5151,32 +5151,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 2.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 2.5
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.25,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -5195,32 +5195,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 2.5,
     "Aderență" : 2.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 2.5
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.5,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.5
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -5239,32 +5239,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 5.0,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 1.0,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -5283,32 +5283,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -5327,32 +5327,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 5.0,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -5371,32 +5371,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 0.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -5415,32 +5415,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 10.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 1.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -5459,32 +5459,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 10.0,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 1.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -5503,32 +5503,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 3.75,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.75,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 8.75,
@@ -5547,32 +5547,32 @@
   "direction" : "dus",
   "segments" : [ "1", "3" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 7.5,
     "Lățime" : 0.0,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.5,
     "Lățime" : 0.0,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -5591,32 +5591,32 @@
   "direction" : "intors",
   "segments" : [ "2", "4" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 1.25,
     "Aderență" : 5.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 1.25
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.25
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -5635,32 +5635,32 @@
   "direction" : "dus",
   "segments" : [ "1", "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 0.0,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 0.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -5679,32 +5679,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
-    "Alte piste" : 10.0,
-    "Mașini" : 5.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
-    "Alte piste" : 1.0,
-    "Mașini" : 1.0
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 13.75,
@@ -5723,32 +5723,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 3.75,
     "Marcaje" : 2.5,
-    "Alte piste" : 10.0,
-    "Mașini" : 5.0
+    "Alte piste" : 10.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.75,
     "Marcaje" : 0.5,
-    "Alte piste" : 1.0,
-    "Mașini" : 1.0
+    "Alte piste" : 1.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 13.75,
@@ -5767,32 +5767,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 1.25,
     "Aderență" : 7.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 1.25
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.75,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.25
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -5811,32 +5811,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 5.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 3.75
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.75
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -5855,32 +5855,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -5899,32 +5899,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -5943,32 +5943,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 15.0,
     "Curățenie" : 3.75,
     "Borduri" : 7.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 10.0,
     "Traversări" : 1.25,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 1.0,
     "Curățenie" : 0.75,
     "Borduri" : 0.75,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 1.0,
     "Traversări" : 0.25,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -5987,32 +5987,32 @@
   "direction" : "dus",
   "segments" : [ "1", "2", "3", "4", "5" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.25,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.25
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -6031,32 +6031,32 @@
   "direction" : "intors",
   "segments" : [ "6", "7", "8", "9" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 3.75,
     "Aderență" : 7.5,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 3.75
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 0.75,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.75
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -6075,32 +6075,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 15.0,
     "Curățenie" : 0.0,
     "Borduri" : 7.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 1.25,
     "Aderență" : 2.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.25
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.0,
     "Lățime" : 1.0,
     "Curățenie" : 0.0,
     "Borduri" : 0.75,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.25,
     "Aderență" : 0.25,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -6119,32 +6119,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -6163,32 +6163,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 2.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -6207,32 +6207,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 3.75,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 2.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 2.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 7.5,
-    "Mașini" : 5.0
+    "Alte piste" : 7.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.25,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.25,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.25,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.75,
-    "Mașini" : 1.0
+    "Alte piste" : 0.75
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -6251,32 +6251,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 2.5,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.25,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -6295,32 +6295,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -6339,32 +6339,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 7.5,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.75,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -6383,32 +6383,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 7.5,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.75,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -6427,32 +6427,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -6471,32 +6471,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 1.25,
@@ -6515,32 +6515,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 5.0,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 1.0,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -6559,32 +6559,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 2.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 1.25,
     "Marcaje" : 2.5,
-    "Alte piste" : 5.0,
-    "Mașini" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.25,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.25,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -6603,32 +6603,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 1.25,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.25
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.25,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.25
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -6647,32 +6647,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 5.0,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 1.0,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -6691,32 +6691,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -6735,32 +6735,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 2.5,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 2.5,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.5,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.5,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -6779,32 +6779,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 0.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 0.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -6823,32 +6823,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 7.5,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 1.25,
     "Marcaje" : 1.25,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.5,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.25,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 6.25,
@@ -6867,32 +6867,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 7.5,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.5,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 5.0,
@@ -6911,32 +6911,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 15.0,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 10.0,
     "Traversări" : 0.0,
     "Marcaje" : 5.0,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 1.0,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 1.0,
     "Traversări" : 0.0,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -6955,32 +6955,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 2.5,
     "Traversări" : 1.25,
     "Marcaje" : 3.75,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.25,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 3.75,
@@ -6999,32 +6999,32 @@
   "direction" : "intors",
   "segments" : [ "2", "3", "4", "5" ],
   "evaluation" : {
-    "Mobilier" : 0.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 0.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.0,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 0.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -7043,32 +7043,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 7.5,
     "Curățenie" : 3.75,
     "Borduri" : 0.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 3.75,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.5,
     "Curățenie" : 0.75,
     "Borduri" : 0.0,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 0.75,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -7087,32 +7087,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 7.5,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 2.5,
-    "Alte piste" : 2.5,
-    "Mașini" : 5.0
+    "Alte piste" : 2.5
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.0,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.75,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.5,
-    "Alte piste" : 0.25,
-    "Mașini" : 1.0
+    "Alte piste" : 0.25
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -7131,32 +7131,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 7.5,
     "Curățenie" : 5.0,
     "Borduri" : 5.0,
     "Observații" : 2.5,
+    "Mașini parcate" : 5.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 7.5,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.5,
     "Curățenie" : 1.0,
     "Borduri" : 0.5,
     "Observații" : 0.5,
+    "Mașini parcate" : 1.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.75,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 2.5,
@@ -7175,32 +7175,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 1.25,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 2.5,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.25,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.25,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -7219,32 +7219,32 @@
   "direction" : "intors",
   "segments" : [ "2" ],
   "evaluation" : {
-    "Mobilier" : 5.0,
     "Stare" : 15.0,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 5.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 5.0,
     "Siguranță" : 5.0,
     "Traversări" : 2.5,
     "Marcaje" : 5.0,
-    "Alte piste" : 5.0,
-    "Mașini" : 5.0
+    "Alte piste" : 5.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 1.0,
     "Stare" : 1.0,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.5,
     "Observații" : 0.25,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 1.0,
     "Siguranță" : 0.5,
     "Traversări" : 0.5,
     "Marcaje" : 1.0,
-    "Alte piste" : 0.5,
-    "Mașini" : 1.0
+    "Alte piste" : 0.5
   },
   "evaluationByCategories" : {
     "Conectivitate" : 7.5,
@@ -7263,32 +7263,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 3.75,
     "Stare" : 11.25,
     "Lățime" : 15.0,
     "Curățenie" : 3.75,
     "Borduri" : 5.0,
     "Observații" : 3.75,
+    "Mașini parcate" : 5.0,
     "Aderență" : 10.0,
+    "Mobilier urban" : 3.75,
     "Siguranță" : 10.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 5.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.75,
     "Stare" : 0.75,
     "Lățime" : 1.0,
     "Curățenie" : 0.75,
     "Borduri" : 0.5,
     "Observații" : 0.75,
+    "Mașini parcate" : 1.0,
     "Aderență" : 1.0,
+    "Mobilier urban" : 0.75,
     "Siguranță" : 1.0,
     "Traversări" : 0.0,
     "Marcaje" : 0.0,
-    "Alte piste" : 0.0,
-    "Mașini" : 1.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,
@@ -7307,32 +7307,32 @@
   "direction" : "dus",
   "segments" : [ "1" ],
   "evaluation" : {
-    "Mobilier" : 1.25,
     "Stare" : 11.25,
     "Lățime" : 3.75,
     "Curățenie" : 2.5,
     "Borduri" : 0.0,
     "Observații" : 1.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 5.0,
+    "Mobilier urban" : 1.25,
     "Siguranță" : 7.5,
     "Traversări" : 0.0,
     "Marcaje" : 1.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationPercentage" : {
-    "Mobilier" : 0.25,
     "Stare" : 0.75,
     "Lățime" : 0.25,
     "Curățenie" : 0.5,
     "Borduri" : 0.0,
     "Observații" : 0.25,
+    "Mașini parcate" : 0.0,
     "Aderență" : 0.5,
+    "Mobilier urban" : 0.25,
     "Siguranță" : 0.75,
     "Traversări" : 0.0,
     "Marcaje" : 0.25,
-    "Alte piste" : 0.0,
-    "Mașini" : 0.0
+    "Alte piste" : 0.0
   },
   "evaluationByCategories" : {
     "Conectivitate" : 0.0,

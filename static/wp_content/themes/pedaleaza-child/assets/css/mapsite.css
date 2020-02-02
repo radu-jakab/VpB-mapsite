@@ -72,6 +72,11 @@ body {
     float: left;
 }
 
+.gradient-scorebar-secondary {
+    float: left;
+    height: 6px;
+}
+
 .gradient-gray {
     background: #e0e0e0;
     height: 10px;
@@ -79,20 +84,59 @@ body {
     border-radius: 0 5px 5px 0;
 }
 
+.gradient-gray-secondary {
+    background: #e0e0e0;
+    float: right;
+    border-radius: 0 5px 5px 0;
+    height: 6px;
+}
+
 .gradient-label {
     float: left;
     width: 100px;
 }
 
+.gradient-year {
+    position: absolute;
+    margin-left: 5px;
+    font-size: 12px;
+    margin-top: -4px;
+}
+
+.gradient-year-secondary {
+    position: absolute;
+    margin-top: 32px;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
 .gradient-bar {
     width: calc(90% - 200px);
     float: left;
-    margin-top: 5px;
+    margin-top: 12px;
+}
+
+.gradient-bar-secondary {
+    width: calc(90% - 200px);
+    float: left;
+    margin-left: 100px;
+    margin-top: 22px;
 }
 
 .gradient-score {
     float: left;
     margin-left: 10px;
+    font-size: 13px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.gradient-score-secondary {
+    float: left;
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: 300;
+    margin-top: 17px;
 }
 
 .detail-eval-box {
