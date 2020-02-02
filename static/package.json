@@ -1,0 +1,11 @@
+{
+  "name": "vpb.mapsite.static",
+  "version": "1.0.0",
+  "description": "local development version of vpb-mapsite for Vrem Piste project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radu Jakab",
+  "license": "ISC"
+}
