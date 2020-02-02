@@ -1,7 +1,7 @@
 {
   "data": [
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=1-dus' >01-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=1-dus' >01-dus</a>",
       "Sensul giratoriu - Buziașului",
       "Sensul giratoriu - Buziașului",
       "Sens giratoriu",
@@ -12,7 +12,7 @@
       "38.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=2-dus' >02-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=2-dus' >02-dus</a>",
       "Orion, colț cu Rebreanu",
       "Orion, colț cu Venus",
       "Strada Orion",
@@ -23,7 +23,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=2-intors' >02-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=2-intors' >02-intors</a>",
       "Orion, colț cu Venus",
       "Orion, colț cu Rebreanu",
       "Strada Orion",
@@ -34,7 +34,7 @@
       "51.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=3-dus' >03-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=3-dus' >03-dus</a>",
       "Martirilor, colț cu Rebreanu",
       "Sudului, colț cu Rebreanu",
       "Bulevardul Liviu Rebreanu",
@@ -45,7 +45,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=3-intors' >03-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=3-intors' >03-intors</a>",
       "Sudului, colț cu Rebreanu",
       "Martirilor, colț cu Rebreanu",
       "Bulevardul Liviu Rebreanu",
@@ -56,7 +56,7 @@
       "31.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=4-dus' >04-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=4-dus' >04-dus</a>",
       "Sudului, colț cu Rebreanu",
       "Sensul giratoriu - Buziașului",
       "Bulevardul Liviu Rebreanu",
@@ -67,7 +67,7 @@
       "50.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=4-intors' >04-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=4-intors' >04-intors</a>",
       "Sensul giratoriu - Buziașului",
       "Sudului, colț cu Rebreanu",
       "Bulevardul Liviu Rebreanu",
@@ -78,7 +78,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=5-dus' >05-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=5-dus' >05-dus</a>",
       "Sudului, colț cu Rebreanu",
       "Baza 2",
       "Continuare - bulevardul Sudului",
@@ -89,7 +89,7 @@
       "68.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=5-intors' >05-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=5-intors' >05-intors</a>",
       "Strada Cerna",
       "Sudului, colț cu Rebreanu",
       "Continuare - bulevardul Sudului",
@@ -100,7 +100,7 @@
       "70.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=6-dus' >06-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=6-dus' >06-dus</a>",
       "Poartă - Tribuna II",
       "Poartă - Tribuna II",
       "Stadionul Dan Păltinișanu",
@@ -111,7 +111,7 @@
       "87.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=7-dus' >07-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=7-dus' >07-dus</a>",
       "Eroilor, colț cu Ștefan Cel Mare",
       "Eroilor, colț cu Ripensia",
       "Bulevardul Eroilor de la Tisa",
@@ -122,7 +122,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=7-intors' >07-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=7-intors' >07-intors</a>",
       "Eroilor, colț cu Ripensia",
       "Eroilor, colț cu Ștefan Cel Mare",
       "Bulevardul Eroilor de la Tisa",
@@ -133,7 +133,7 @@
       "42.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=8-dus' >08-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=8-dus' >08-dus</a>",
       "Eroilor, colț cu Ripensia",
       "Eroilor, colț cu Cluj",
       "Bulevardul Eroilor de la Tisa",
@@ -144,7 +144,7 @@
       "57.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=8-intors' >08-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=8-intors' >08-intors</a>",
       "Eroilor, colț cu Cluj",
       "Eroilor, colț cu Ripensia",
       "Bulevardul Eroilor de la Tisa",
@@ -155,7 +155,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=9-dus' >09-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=9-dus' >09-dus</a>",
       "Piața Bălcescu, colț cu Mihai Viteazu",
       "Piața Bălcescu, colț cu Porumbescu",
       "Piața Nicolae Bălcescu",
@@ -166,7 +166,7 @@
       "60.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=10-dus' >10-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=10-dus' >10-dus</a>",
       "Vasile Pârvan, colț cu Mihai Viteazu",
       "Mihai Viteazu, colț cu Piața Bălcescu",
       "Bulevardul Mihai Viteazu",
@@ -177,7 +177,7 @@
       "40.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=10-intors' >10-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=10-intors' >10-intors</a>",
       "Mihai Viteazu, colț cu Piața Bălcescu",
       "Vasile Pârvan, colț cu Mihai Viteazu",
       "Bulevardul Mihai Viteazu",
@@ -188,7 +188,7 @@
       "36.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=11-dus' >11-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=11-dus' >11-dus</a>",
       "Giratoriu Iulius Mall",
       "Str. Oituz",
       "Bvd. Antenei / Str. Popa Sapca",
@@ -199,7 +199,7 @@
       "60.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=11-intors' >11-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=11-intors' >11-intors</a>",
       "Str. Oituz",
       "Giratoriu Iulius Mall",
       "Bvd. Antenei / Str. Popa Sapca",
@@ -210,7 +210,7 @@
       "62.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=12-dus' >12-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=12-dus' >12-dus</a>",
       "Piața Sinaia",
       "Carol I, colț cu Iuliu Maniu",
       "Bulevardul Regele Carol I",
@@ -221,7 +221,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=12-intors' >12-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=12-intors' >12-intors</a>",
       "Carol I, colț cu Iuliu Maniu",
       "Piața Sinaia",
       "Bulevardul Regele Carol I",
@@ -232,7 +232,7 @@
       "47.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=13-dus' >13-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=13-dus' >13-dus</a>",
       "Strada Sfântul Ioan",
       "Piața Libertății",
       "Strada Victor Vlad Delamarina",
@@ -243,7 +243,7 @@
       "78.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=13-intors' >13-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=13-intors' >13-intors</a>",
       "Piața Libertății",
       "Strada Sfântul Ioan",
       "Strada Victor Vlad Delamarina",
@@ -254,7 +254,7 @@
       "78.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=14-dus' >14-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=14-dus' >14-dus</a>",
       "Iuliu Maniu, colț cu Tudor Vladimirescu",
       "Piața Iuliu Maniu",
       "Bulevardul Iuliu Maniu",
@@ -265,7 +265,7 @@
       "43.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=14-intors' >14-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=14-intors' >14-intors</a>",
       "Piața Iuliu Maniu",
       "Iuliu Maniu, colț cu Tudor Vladimirescu",
       "Bulevardul Iuliu Maniu",
@@ -276,7 +276,7 @@
       "40.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=15-dus' >15-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=15-dus' >15-dus</a>",
       "Piața Regina Maria",
       "Bulevardul Republicii, colț cu Jiul",
       "Bulevardul Republicii",
@@ -287,7 +287,7 @@
       "55.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=15-intors' >15-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=15-intors' >15-intors</a>",
       "Bulevardul Republicii, colț cu Jiul",
       "Piața Regina Maria",
       "Bulevardul Republicii",
@@ -298,7 +298,7 @@
       "60.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=16-dus' >16-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=16-dus' >16-dus</a>",
       "Bulevardul Republicii, colț cu Jiul",
       "Strada Gării, colț cu Pop de Băsești",
       "Republicii / Strada Gării",
@@ -309,7 +309,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=16-intors' >16-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=16-intors' >16-intors</a>",
       "Pop de Băsești, colț cu Nicolae Titulescu",
       "Bulevardul Republicii, colț cu Jiul",
       "Republicii / Strada Gării",
@@ -320,7 +320,7 @@
       "50.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=17-dus' >17-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=17-dus' >17-dus</a>",
       "Moise Doboșan, colț cu Macilor",
       "Moise Doboșan, colț cu Tazlău",
       "strada Moise Doboșan",
@@ -331,7 +331,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=17-intors' >17-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=17-intors' >17-intors</a>",
       "Moise Doboșan, colț cu Tazlău",
       "Moise Doboșan, colț cu Macilor",
       "strada Moise Doboșan",
@@ -342,7 +342,7 @@
       "51.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=18-dus' >18-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=18-dus' >18-dus</a>",
       "Sensul giratoriu - Mehala",
       "Ovidiu Balea, colț cu Ciocârliei",
       "strada Locotenent Ovidiu Balea",
@@ -353,7 +353,7 @@
       "70.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=18-intors' >18-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=18-intors' >18-intors</a>",
       "Ovidiu Balea, colț cu Ciocârliei",
       "Sensul giratoriu - Mehala",
       "strada Locotenent Ovidiu Balea",
@@ -364,7 +364,7 @@
       "66.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=19-dus' >19-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=19-dus' >19-dus</a>",
       "Ioan Plavoșin",
       "Grigore Alexandrescu",
       "strada Crișan",
@@ -375,7 +375,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=19-intors' >19-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=19-intors' >19-intors</a>",
       "Grigore Alexandrescu",
       "Ioan Plavoșin",
       "strada Crișan",
@@ -386,7 +386,7 @@
       "56.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=20-dus' >20-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=20-dus' >20-dus</a>",
       "Calea Sever Bocu, colț cu Amurgului",
       "Calea Sever Bocu, colț cu Ion Ionescu de la Brad",
       "Calea Sever Bocu",
@@ -397,7 +397,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=20-intors' >20-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=20-intors' >20-intors</a>",
       "Calea Sever Bocu, colț cu Ion Ionescu de la Brad",
       "Calea Sever Bocu, colț cu Amurgului",
       "Calea Sever Bocu",
@@ -408,7 +408,7 @@
       "37.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=21-dus' >21-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=21-dus' >21-dus</a>",
       "Gen. Ion Dragalina, colț cu Regele Carol I",
       "C-tin Brâncoveanu, colț cu Porumbescu",
       "Gen. Ion Dragalina /\n C-tin Brâncoveanu",
@@ -419,7 +419,7 @@
       "38.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=21-intors' >21-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=21-intors' >21-intors</a>",
       "C-tin Brâncoveanu, colț cu Porumbescu",
       "Gen. Ion Dragalina, colț cu Regele Carol I",
       "Gen. Ion Dragalina /\n C-tin Brâncoveanu",
@@ -430,7 +430,7 @@
       "40.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=22-dus' >22-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=22-dus' >22-dus</a>",
       "Piața Iuliu Maniu",
       "Calea Șagului, colț cu Vulturilor",
       "Calea Șagului",
@@ -441,7 +441,7 @@
       "40.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=23-dus' >23-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=23-dus' >23-dus</a>",
       "Șagului, colț cu Rebreanu",
       "Șagului, colț cu Ana Ipătescu",
       "Calea Șagului",
@@ -452,7 +452,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=23-intors' >23-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=23-intors' >23-intors</a>",
       "Șagului, colț cu Ana Ipătescu",
       "Șagului, colț cu Rebreanu",
       "Calea Șagului",
@@ -463,7 +463,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=24-dus' >24-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=24-dus' >24-dus</a>",
       "Steaua, colț cu Izlaz",
       "Steaua, capăt spre Emil Zola",
       "Strada Steaua",
@@ -474,7 +474,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=24-intors' >24-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=24-intors' >24-intors</a>",
       "Steaua, capăt spre Emil Zola",
       "Steaua, colț cu Izlaz",
       "Strada Steaua",
@@ -485,7 +485,7 @@
       "43.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=25-dus' >25-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=25-dus' >25-dus</a>",
       "Bujorilor, colț cu Șagului",
       "Bujorilor, colț cu Chișodei",
       "strada Bujorilor",
@@ -496,7 +496,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=26-dus' >26-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=26-dus' >26-dus</a>",
       "Torontalului, colț cu Miresei",
       "Torontalului, colț cu Circumvalațiunii",
       "Torontalului",
@@ -507,7 +507,7 @@
       "72.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=26-intors' >26-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=26-intors' >26-intors</a>",
       "Torontalului, colț cu Circumvalațiunii",
       "Torontalului, colț cu Miresei",
       "Torontalului",
@@ -518,7 +518,7 @@
       "68.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=27-dus' >27-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=27-dus' >27-dus</a>",
       "Cetății, colț cu Torontalului",
       "Cetății, colț cu Gh. Lazăr",
       "Bulevardul Cetății",
@@ -529,7 +529,7 @@
       "33.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=27-intors' >27-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=27-intors' >27-intors</a>",
       "Cetății, colț cu Gh. Lazăr",
       "Cetății, colț cu Torontalului",
       "Bulevardul Cetății",
@@ -540,7 +540,7 @@
       "43.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=28-dus' >28-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=28-dus' >28-dus</a>",
       "Gh. Lazăr, colț cu Cetății",
       "gh. Lazăr, colț cu Circumvalațiunii",
       "Strada Gheorghe Lazăr",
@@ -551,7 +551,7 @@
       "50.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=28-intors' >28-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=28-intors' >28-intors</a>",
       "gh. Lazăr, colț cu Circumvalațiunii",
       "Gh. Lazăr, colț cu Cetății",
       "Strada Gheorghe Lazăr",
@@ -562,7 +562,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=29-dus' >29-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=29-dus' >29-dus</a>",
       "Circumvalațiunii, colț cu Torontalului",
       "Circumvalațiunii, colț cu Gh. Lazăr",
       "Calea Circumvalațiunii",
@@ -573,7 +573,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=29-intors' >29-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=29-intors' >29-intors</a>",
       "Circumvalațiunii, colț cu Gh. Lazăr",
       "Circumvalațiunii, colț cu Torontalului",
       "Calea Circumvalațiunii",
@@ -584,7 +584,7 @@
       "51.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=30-dus' >30-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=30-dus' >30-dus</a>",
       "Republicii",
       "Ferdinand I",
       "Strada Piatra Craiului",
@@ -595,7 +595,7 @@
       "56.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=30-intors' >30-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=30-intors' >30-intors</a>",
       "Ferdinand I",
       "Republicii",
       "Strada Piatra Craiului",
@@ -606,7 +606,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=31-dus' >31-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=31-dus' >31-dus</a>",
       "Piața Regina Maria",
       "Piața 700",
       "Republicii / Sf. Ioan",
@@ -617,7 +617,7 @@
       "35.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=31-intors' >31-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=31-intors' >31-intors</a>",
       "Piața 700",
       "Piața Regina Maria",
       "Republicii / Sf. Ioan",
@@ -628,7 +628,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=32-dus' >32-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=32-dus' >32-dus</a>",
       "Piața Victoriei",
       "Podul Traian",
       "Bulevardul Regele Ferdinand I",
@@ -639,7 +639,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=32-intors' >32-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=32-intors' >32-intors</a>",
       "Podul Traian",
       "Piața Victoriei",
       "Bulevardul Regele Ferdinand I",
@@ -650,7 +650,7 @@
       "57.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=33-dus' >33-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=33-dus' >33-dus</a>",
       "Cluj, colț cu Pârvan",
       "Arieș, colț cu Rebreanu",
       "Strada Cluj / Arieș",
@@ -661,7 +661,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=33-intors' >33-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=33-intors' >33-intors</a>",
       "Arieș, colț cu Rebreanu",
       "Cluj, colț cu Pârvan",
       "Strada Cluj / Arieș",
@@ -672,7 +672,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=34-dus' >34-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=34-dus' >34-dus</a>",
       "Piața Victoriei",
       "Pod spre UPT",
       "Bulevardul Regele Ferdinand I",
@@ -683,7 +683,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=34-intors' >34-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=34-intors' >34-intors</a>",
       "Pod spre UPT",
       "Piața Victoriei",
       "Bulevardul Regele Ferdinand I",
@@ -694,7 +694,7 @@
       "51.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=35-dus' >35-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=35-dus' >35-dus</a>",
       "Pestalozzi, colț cu Coposu",
       "Pestalozzi, colț cu Ștefan Cel Mare",
       "Strada Pestalozzi",
@@ -705,7 +705,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=35-intors' >35-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=35-intors' >35-intors</a>",
       "Pestalozzi, colț cu Ștefan Cel Mare",
       "Pestalozzi, colț cu Coposu",
       "Strada Pestalozzi",
@@ -716,7 +716,7 @@
       "1.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=36-dus' >36-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=36-dus' >36-dus</a>",
       "Piața Mărăști",
       "Piața Consiliul Europei",
       "Strada Al. Ioan Cuza",
@@ -727,7 +727,7 @@
       "56.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=36-intors' >36-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=36-intors' >36-intors</a>",
       "Piața Consiliul Europei",
       "Piața Mărăști",
       "Strada Al. Ioan Cuza",
@@ -738,7 +738,7 @@
       "55.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=37-dus' >37-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=37-dus' >37-dus</a>",
       "Piața Victoriei",
       "Piața Regina Maria",
       "Bulevardul Regele Ferdinand I",
@@ -749,7 +749,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=38-dus' >38-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=38-dus' >38-dus</a>",
       "Punctele Cardinale",
       "Take Ionescu, Piata Badea Cartan",
       "Take Ionescu",
@@ -760,7 +760,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=38-intors' >38-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=38-intors' >38-intors</a>",
       "Take Ionescu, Piata Badea Cartan",
       "Punctele Cardinale",
       "Take Ionescu",
@@ -771,7 +771,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=39-dus' >39-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=39-dus' >39-dus</a>",
       "Torontalului, colț cu Gr. Alexandrescu",
       "Torontalului, colț cu Miresei",
       "Torontalului",
@@ -782,7 +782,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=39-intors' >39-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=39-intors' >39-intors</a>",
       "Torontalului, colț cu Miresei",
       "Torontalului, colț cu Gr. Alexandrescu",
       "Torontalului",
@@ -793,7 +793,7 @@
       "50.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=40-dus' >40-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=40-dus' >40-dus</a>",
       "Vasile Pârvan, colț cu Cluj",
       "Vasile Pârvan, colț cu Mihai Viteazu",
       "Vasile Pârvan",
@@ -804,7 +804,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=40-intors' >40-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=40-intors' >40-intors</a>",
       "Vasile Pârvan, colț cu Mihai Viteazu",
       "Vasile Pârvan, colț cu Cluj",
       "Vasile Pârvan",
@@ -815,7 +815,7 @@
       "47.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=41-dus' >41-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=41-dus' >41-dus</a>",
       "Loga, colț cu 20 decembrie 1989",
       "Loga, colț cu Michelangelo",
       "Bulevardul C.D. Loga",
@@ -826,7 +826,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=42-dus' >42-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=42-dus' >42-dus</a>",
       "Strada Michelangelo, colț cu Ion. I.C. Brărianu",
       "Pasaj Michelangelo",
       "Strada Michelangelo",
@@ -837,7 +837,7 @@
       "55.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=42-intors' >42-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=42-intors' >42-intors</a>",
       "Pasaj Michelangelo",
       "Strada Michelangelo, colț cu Ion. I.C. Brărianu",
       "Strada Michelangelo",
@@ -848,7 +848,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=43-dus' >43-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=43-dus' >43-dus</a>",
       "Loga, colț cu Michelangelo",
       "Loga, colț cu Revoluției din 1989",
       "Bulevardul C.D. Loga",
@@ -859,7 +859,7 @@
       "52.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=43-intors' >43-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=43-intors' >43-intors</a>",
       "Loga, colț cu Revoluției din 1989",
       "Loga, colț cu Michelangelo",
       "Bulevardul C.D. Loga",
@@ -870,7 +870,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=44-dus' >44-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=44-dus' >44-dus</a>",
       "Ion. I.C. Brărianu, colț cu Michelangelo",
       "Ion. I.C. Brărianu, colț cu Revoluției 1989",
       "Bulevardul Ion I.C. Brătianu",
@@ -881,7 +881,7 @@
       "62.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=44-intors' >44-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=44-intors' >44-intors</a>",
       "Ion. I.C. Brărianu, colț cu Revoluției 1989",
       "Ion. I.C. Brărianu, colț cu Michelangelo",
       "Bulevardul Ion I.C. Brătianu",
@@ -892,7 +892,7 @@
       "65.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=45-dus' >45-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=45-dus' >45-dus</a>",
       "Ion I.C. Brătianu",
       "Proclamația de la Timișoara",
       "Carol Telbisz",
@@ -903,7 +903,7 @@
       "63.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=45-intors' >45-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=45-intors' >45-intors</a>",
       "Proclamația de la Timișoara",
       "Ion I.C. Brătianu",
       "Carol Telbisz",
@@ -914,7 +914,7 @@
       "66.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=46-dus' >46-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=46-dus' >46-dus</a>",
       "Ion. I.C. Brărianu, colț cu Michelangelo",
       "Ion. I.C. Brărianu, colț cu Carol Telbisz",
       "Bulevardul Ion I.C. Brătianu",
@@ -925,7 +925,7 @@
       "65.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=47-dus' >47-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=47-dus' >47-dus</a>",
       "Batania, colț cu Stan Vidrighin",
       "Batania, colț cu Torac",
       "Strada Batania",
@@ -936,7 +936,7 @@
       "51.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=47-intors' >47-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=47-intors' >47-intors</a>",
       "Batania, colț cu Torac",
       "Batania, colț cu Stan Vidrighin",
       "Strada Batania",
@@ -947,7 +947,7 @@
       "52.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=48-dus' >48-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=48-dus' >48-dus</a>",
       "Calea Alexandru Ioan Cuza",
       "Sens giratoriu - bulevardul Antenei",
       "Calea Alexandru Ioan Cuza",
@@ -958,7 +958,7 @@
       "0.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=48-intors' >48-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=48-intors' >48-intors</a>",
       "Sens giratoriu - bulevardul Antenei",
       "Calea Alexandru Ioan Cuza",
       "Calea Alexandru Ioan Cuza",
@@ -969,7 +969,7 @@
       "0.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=49-dus' >49-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=49-dus' >49-dus</a>",
       "Aradului, colț cu Amurgului",
       "Aradului, colț cu Liege",
       "Calea Aradului",
@@ -980,7 +980,7 @@
       "35.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=49-intors' >49-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=49-intors' >49-intors</a>",
       "Aradului, colț cu Liege",
       "Aradului, colț cu Amurgului",
       "Calea Aradului",
@@ -991,7 +991,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=50-dus' >50-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=50-dus' >50-dus</a>",
       "Piata Badea Cartan",
       "Simion Bărnuțiu, colț cu Dorobanților",
       "Simion Bărnuțiu",
@@ -1002,7 +1002,7 @@
       "28.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=50-intors' >50-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=50-intors' >50-intors</a>",
       "Simion Bărnuțiu, colț cu Dorobanților",
       "Piata Badea Cartan",
       "Simion Bărnuțiu",
@@ -1013,7 +1013,7 @@
       "27.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=51-dus' >51-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=51-dus' >51-dus</a>",
       "Piața Victoriei",
       "Gheorghe Lazăr, colț cu Gheorghe Dima",
       "strada Mărășești / Gheorghe Lazăr",
@@ -1024,7 +1024,7 @@
       "67.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=51-intors' >51-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=51-intors' >51-intors</a>",
       "Gheorghe Lazăr, colț cu Gheorghe Dima",
       "Piața Victoriei",
       "strada Mărășești / Gheorghe Lazăr",
@@ -1035,7 +1035,7 @@
       "70.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=52-dus' >52-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=52-dus' >52-dus</a>",
       "Gheorghe Dima, colț cu Gheorghe Lazăr",
       "Parcul Botanic",
       "strada Gheorghe Dima",
@@ -1046,7 +1046,7 @@
       "60.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=52-intors' >52-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=52-intors' >52-intors</a>",
       "Parcul Botanic",
       "Gheorghe Dima, colț cu Gheorghe Lazăr",
       "strada Gheorghe Dima",
@@ -1057,7 +1057,7 @@
       "71.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=53-dus' >53-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=53-dus' >53-dus</a>",
       "Uzina de apă - Plopi",
       "Solventul",
       "Malurile Begăi",
@@ -1068,7 +1068,7 @@
       "57.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=53-intors' >53-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=53-intors' >53-intors</a>",
       "Splaiul Sofocle",
       "Uzina de apă - Plopi",
       "Malurile Begăi",
@@ -1079,7 +1079,7 @@
       "62.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=54-dus' >54-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=54-dus' >54-dus</a>",
       "Mihai Viteazul",
       "Strada Cluj",
       "Victor Babes",
@@ -1090,7 +1090,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=54-intors' >54-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=54-intors' >54-intors</a>",
       "Strada Cluj",
       "Mihai Viteazul",
       "Victor Babes",
@@ -1101,7 +1101,7 @@
       "47.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=55-dus' >55-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=55-dus' >55-dus</a>",
       "Calea Sagului",
       "Calea Martirilor",
       "Eneas / Diaconu Coresi",
@@ -1112,7 +1112,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=55-intors' >55-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=55-intors' >55-intors</a>",
       "Calea Martirilor",
       "Calea Șagului",
       "Eneas / Diaconu Coresi",
@@ -1123,7 +1123,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=56-dus' >56-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=56-dus' >56-dus</a>",
       "Sens giratoriu - Antenei",
       "Gazprom",
       "Sens giratoriu - Antenei",
@@ -1134,7 +1134,7 @@
       "67.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=57-dus' >57-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=57-dus' >57-dus</a>",
       "Sens giratoriu - Gazprom",
       "Sens giratoriu - Galeria 1",
       "Bvd. Antenei",
@@ -1145,7 +1145,7 @@
       "65.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=57-intors' >57-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=57-intors' >57-intors</a>",
       "Sens giratoriu - Galeria 1",
       "Sens giratoriu - Gazprom",
       "Bvd. Antenei",
@@ -1156,7 +1156,7 @@
       "65.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=58-dus' >58-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=58-dus' >58-dus</a>",
       "Sens Giratoriu AEM",
       "Continental Automotive",
       "Calea Buziasului",
@@ -1167,7 +1167,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=58-intors' >58-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=58-intors' >58-intors</a>",
       "Continental Automotive",
       "Sens Giratoriu AEM",
       "Calea Buziasului",
@@ -1178,7 +1178,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=59-dus' >59-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=59-dus' >59-dus</a>",
       "Strada Gh. Lazar",
       "Coriolan Brediceanu",
       "Calea Circumvalatiunii",
@@ -1189,7 +1189,7 @@
       "52.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=60-dus' >60-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=60-dus' >60-dus</a>",
       "Calea Circumvalatiunii",
       "Viaduct - Piața 700 (CBC)",
       "Str. Coriolan Brediceanu",
@@ -1200,7 +1200,7 @@
       "70.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=60-intors' >60-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=60-intors' >60-intors</a>",
       "Viaduct - Piața 700 (CBC)",
       "Calea Circumvalatiunii",
       "Str. Coriolan Brediceanu",
@@ -1211,7 +1211,7 @@
       "61.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=61-dus' >61-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=61-dus' >61-dus</a>",
       "Piata 700",
       "Strada Gh. Lazar",
       "Str. Nikolaus Berwanger",
@@ -1222,7 +1222,7 @@
       "51.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=62-dus' >62-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=62-dus' >62-dus</a>",
       "Str. Nikolaus Berwanger",
       "Strada Gh. Lazar",
       "Str. Gheorghe Dima",
@@ -1233,7 +1233,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=63-dus' >63-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=63-dus' >63-dus</a>",
       "Strada Sf. Ioan",
       "Strada Paris",
       "Str. Colonel Enescu",
@@ -1244,7 +1244,7 @@
       "63.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=64-dus' >64-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=64-dus' >64-dus</a>",
       "Str. Coriolan Brediceanu",
       "Bvd. Republicii",
       "Str. Paris",
@@ -1255,7 +1255,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=65-dus' >65-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=65-dus' >65-dus</a>",
       "Sens giratoriu - stadion",
       "Calea Stan Vidrighin",
       "Str. Aurel Paunescu Podeanu",
@@ -1266,7 +1266,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=65-intors' >65-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=65-intors' >65-intors</a>",
       "Calea Stan Vidrighin",
       "Sens giratoriu - stadion",
       "Str. Aurel Paunescu Podeanu",
@@ -1277,7 +1277,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=66-dus' >66-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=66-dus' >66-dus</a>",
       "Splai Tudor Vladimirescu",
       "Sens giratoriu - piata Iosefin",
       "Str. Iancu Vacarescu",
@@ -1288,7 +1288,7 @@
       "53.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=66-intors' >66-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=66-intors' >66-intors</a>",
       "Sens giratoriu - piata Iosefin",
       "Splai Tudor Vladimirescu",
       "Str. Iancu Vacarescu",
@@ -1299,7 +1299,7 @@
       "57.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=67-dus' >67-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=67-dus' >67-dus</a>",
       "Splai Nicolae Titulescu",
       "Bvd. Republicii",
       "Str. General Ion Dragalina",
@@ -1310,7 +1310,7 @@
       "36.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=67-intors' >67-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=67-intors' >67-intors</a>",
       "Bvd. Republicii",
       "Splai Nicolae Titulescu",
       "Str. General Ion Dragalina",
@@ -1321,7 +1321,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=68-dus' >68-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=68-dus' >68-dus</a>",
       "Piata Marasti",
       "Piata Marasti",
       "Piața Mărăști",
@@ -1332,7 +1332,7 @@
       "63.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=69-dus' >69-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=69-dus' >69-dus</a>",
       "Sens Giratoriu - Buziașului",
       "SSI Schaefer",
       "Bulevardul Industriei",
@@ -1343,7 +1343,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=70-dus' >70-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=70-dus' >70-dus</a>",
       "Michelangelo",
       "Eroilor",
       "Aleea Ripensia",
@@ -1354,7 +1354,7 @@
       "57.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=70-intors' >70-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=70-intors' >70-intors</a>",
       "Eroilor",
       "Michelangelo",
       "Aleea Ripensia",
@@ -1365,7 +1365,7 @@
       "1.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=71-dus' >71-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=71-dus' >71-dus</a>",
       "Str. Matei Millo",
       "Str. Spatarul Milescu",
       "Calea Buziasului",
@@ -1376,7 +1376,7 @@
       "62.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=71-intors' >71-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=71-intors' >71-intors</a>",
       "Str. Spatarul Milescu",
       "Str. Matei Millo",
       "Calea Buziasului",
@@ -1387,7 +1387,7 @@
       "61.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=72-dus' >72-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=72-dus' >72-dus</a>",
       "Str. Gheorghe Doja",
       "Str. Ady Endre",
       "Bvd. 16 Decembrie 1989",
@@ -1398,7 +1398,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=73-dus' >73-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=73-dus' >73-dus</a>",
       "Bvd. C-tin Brancoveanu",
       "Piata N. Balcescu",
       "Str. Ciprian Porumbescu",
@@ -1409,7 +1409,7 @@
       "25.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=73-intors' >73-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=73-intors' >73-intors</a>",
       "Piata N. Balcescu",
       "Bvd. C-tin Brancoveanu",
       "Str. Ciprian Porumbescu",
@@ -1420,7 +1420,7 @@
       "40.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=74-dus' >74-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=74-dus' >74-dus</a>",
       "Piata Iancu Huniade",
       "Bvd. C D Loga",
       "Str. 20 Decembrie 1989",
@@ -1431,7 +1431,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=75-dus' >75-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=75-dus' >75-dus</a>",
       "Pasaj Michelangelo",
       "Sens Giratoriu Pestalozzi",
       "Bvd. Corneliu Coposu",
@@ -1442,7 +1442,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=75-intors' >75-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=75-intors' >75-intors</a>",
       "Sens Giratoriu Pestalozzi",
       "Pasaj Michelangelo",
       "Bvd. Corneliu Coposu",
@@ -1453,7 +1453,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=76-dus' >76-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=76-dus' >76-dus</a>",
       "Bvd. Revolutiei",
       "Str. Michelangelo",
       "Bvd.  Mihai Eminescu",
@@ -1464,7 +1464,7 @@
       "43.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=76-intors' >76-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=76-intors' >76-intors</a>",
       "Str. Michelangelo",
       "Bvd. Revolutiei",
       "Bvd.  Mihai Eminescu",
@@ -1475,7 +1475,7 @@
       "50.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=77-dus' >77-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=77-dus' >77-dus</a>",
       "Str. Michelangelo",
       "Str. 20 Decembrie 1989",
       "Bvd.  Mihai Eminescu",
@@ -1486,7 +1486,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=77-intors' >77-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=77-intors' >77-intors</a>",
       "Str. 20 Decembrie 1989",
       "Str. Michelangelo",
       "Bvd.  Mihai Eminescu",
@@ -1497,7 +1497,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=78-dus' >78-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=78-dus' >78-dus</a>",
       "Calea Sagului",
       "Str. Gradinii",
       "Intrare Shopping Mall Timisoara",
@@ -1508,7 +1508,7 @@
       "82.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=79-dus' >79-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=79-dus' >79-dus</a>",
       "Str. Emil Zola",
       "Calea Urseni",
       "Str. Musicescu",
@@ -1519,7 +1519,7 @@
       "40.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=79-intors' >79-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=79-intors' >79-intors</a>",
       "Calea Urseni",
       "Str. Panselelor",
       "Str. Musicescu",
@@ -1530,7 +1530,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=80-dus' >80-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=80-dus' >80-dus</a>",
       "Pasaj Sacalaz",
       "Pasaj Sacalaz",
       "Str. Locotenent Ovidiu Balea",
@@ -1541,7 +1541,7 @@
       "48.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=81-dus' >81-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=81-dus' >81-dus</a>",
       "Str. Stefan Octavian Iosif",
       "Str. 1 Decembrie 1918",
       "Calea Stefan cel Mare",
@@ -1552,7 +1552,7 @@
       "46.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=81-intors' >81-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=81-intors' >81-intors</a>",
       "Str. 1 Decembrie 1918",
       "Str. Stefan Octavian Iosif",
       "Calea Stefan cel Mare",
@@ -1563,7 +1563,7 @@
       "42.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=82-dus' >82-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=82-dus' >82-dus</a>",
       "Str. 20. Decembrie 1989",
       "Piața Victoriei",
       "C.D. Loga",
@@ -1574,7 +1574,7 @@
       "52.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=83-dus' >83-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=83-dus' >83-dus</a>",
       "Str. Maresal C-tin Prezan",
       "Aleea Cristalului",
       "Str. Versului / Sănătății",
@@ -1585,7 +1585,7 @@
       "56.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=83-intors' >83-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=83-intors' >83-intors</a>",
       "Aleea Cristalului",
       "Str. Martir Ioan Stanciu",
       "Str. Versului / Sănătății",
@@ -1596,7 +1596,7 @@
       "60.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=84-dus' >84-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=84-dus' >84-dus</a>",
       "Eroilor",
       "Str. 1 decembrie 1918",
       "Aleea Ripensia",
@@ -1607,7 +1607,7 @@
       "57.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=84-intors' >84-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=84-intors' >84-intors</a>",
       "Str. 1 decembrie 1918",
       "Eroilor",
       "Aleea Ripensia",
@@ -1618,7 +1618,7 @@
       "47.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=85-dus' >85-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=85-dus' >85-dus</a>",
       "Calea Stan Vidrighin",
       "capat",
       "Str. Chimistilor",
@@ -1629,7 +1629,7 @@
       "56.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=85-intors' >85-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=85-intors' >85-intors</a>",
       "capat",
       "Calea Stan Vidrighin",
       "Str. Chimistilor",
@@ -1640,7 +1640,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=86-dus' >86-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=86-dus' >86-dus</a>",
       "Sens Giratoriu Bvd. Antenei",
       "Str. Demetriade",
       "(strada nouă de la mall către Demetriade)",
@@ -1651,7 +1651,7 @@
       "66.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=86-intors' >86-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=86-intors' >86-intors</a>",
       "Str. Demetriade",
       "Sens Giratoriu Bvd. Antenei",
       "(strada nouă de la mall către Demetriade)",
@@ -1662,7 +1662,7 @@
       "35.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=87-dus' >87-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=87-dus' >87-dus</a>",
       "Constantin Rădulescu Motru",
       "Str. C-tin cel Mare",
       "Str. Brazilor ",
@@ -1673,7 +1673,7 @@
       "52.5"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=87-intors' >87-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=87-intors' >87-intors</a>",
       "Str. C-tin cel Mare",
       "Constantin Rădulescu Motru",
       "Str. Brazilor ",
@@ -1684,7 +1684,7 @@
       "55.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=88-dus' >88-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=88-dus' >88-dus</a>",
       "Str. Closca",
       "Str. Crisan",
       "Str. Grigore Alexandrescu",
@@ -1695,7 +1695,7 @@
       "66.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=88-intors' >88-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=88-intors' >88-intors</a>",
       "Str. Crisan",
       "Str. Closca",
       "Str. Grigore Alexandrescu",
@@ -1706,7 +1706,7 @@
       "63.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=89-dus' >89-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=89-dus' >89-dus</a>",
       "Str. Ioan Plavosin",
       "Bvd. Cetatii",
       "Str. Crisan",
@@ -1717,7 +1717,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=89-intors' >89-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=89-intors' >89-intors</a>",
       "Bvd. Cetatii",
       "Str. Ioan Plavosin",
       "Str. Crisan",
@@ -1728,7 +1728,7 @@
       "58.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=90-dus' >90-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=90-dus' >90-dus</a>",
       "Str. Grigore Alexandrescu",
       "Str. Locotenent Ovidiu Balea",
       "Sens Giratoriu Str. Closca",
@@ -1739,7 +1739,7 @@
       "63.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=91-dus' >91-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=91-dus' >91-dus</a>",
       "Mitropolit Vasile Lazarescu",
       "Galeria 1",
       "Calea Sever Bocu",
@@ -1750,7 +1750,7 @@
       "81.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=92-dus' >92-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=92-dus' >92-dus</a>",
       "Constantin Prezan",
       "Giroc",
       "Calea Martirilor",
@@ -1761,7 +1761,7 @@
       "45.0"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=92-intors' >92-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=92-intors' >92-intors</a>",
       "Giroc",
       "Constantin Prezan",
       "Calea Martirilor",
@@ -1772,7 +1772,7 @@
       "41.25"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=93-dus' >93-dus</a>",
+      "<a href='./detalii-pista.html/?laneId=93-dus' >93-dus</a>",
       "Pasajul Jiul",
       "Incuboxx",
       "Circumvalațiunii",
@@ -1783,7 +1783,7 @@
       "63.75"
     ],
     [
-      "<a href='https://pedaleaza.ro/vrempiste/detalii-pista/?laneId=93-intors' >93-intors</a>",
+      "<a href='./detalii-pista.html/?laneId=93-intors' >93-intors</a>",
       "City of Mara",
       "Nera",
       "Circumvalațiunii",
